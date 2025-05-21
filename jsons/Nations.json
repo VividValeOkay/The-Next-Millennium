@@ -5,7 +5,6 @@
 		"leaderName": "Donald Trump",
 		"adjective": ["American"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
 		"personality": "Trump",
 
 		"startIntroPart1": "May the gods bless you, great Nebuchadnezzar, ruler of ancient Babylon! Built 5000 years ago, Babylon emerged as an empire in 1800 BC, thanks to godlike Hammurabi, The Giver of Law. Falling under the Kassites assaults then the Assyrian domination, Babylon was reborn from its ashes, gaining back its independance, and became the beacon for Arts and Learning in the ancient world. O Nebuchadnezzar, after your death, Babylon quickly fell, conquered by the mighty Persians, and then by the Greeks, until the great city disappeared forever in 141 BC.",
@@ -23,7 +22,6 @@
 
 		"outerColor": [28,51,119],
 		"innerColor": [255,255,255],
-		"favoredReligion": "Christianity",
 		"uniqueName": "America",
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
@@ -38,7 +36,6 @@
 		"leaderName": "Vladimir Putin",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Scientific",
 		"personality": "Putin",
 
 
@@ -54,7 +51,6 @@
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
 		"outerColor": [255,255,255],
 		"innerColor": [54,193,201],
-		"favoredReligion": "Christianity",
 		"uniqueName": "Siberian Riches",
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
