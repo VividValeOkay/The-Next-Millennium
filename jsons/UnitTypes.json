@@ -1,0 +1,13 @@
+[
+
+ {
+        "name": "Rifle",
+        "movementType": "Land"
+ },
+ {
+        "name": "Civilian",
+        "movementType": "Land"
+ },
+  
+
+]
