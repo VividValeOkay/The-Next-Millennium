@@ -1,3 +1,4 @@
+[
 {
 		//nations
 		"name": "The United States",
@@ -61,3 +62,4 @@
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
         "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
     },
+]
