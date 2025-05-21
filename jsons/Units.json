@@ -1,0 +1,29 @@
+[
+
+	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
+
+	{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	},
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [4] population"],
+		"hurryCostModifier": 20
+	},
+  	{
+		"name": "Basic Infantry",
+		"unitType": "Rifle",
+		"movement": 2,
+		"strength": 10,
+		"cost": 40,
+		"attackSound": "shot"
+	},
+]
