@@ -1,0 +1,41 @@
+
+game.png
+size: 256, 64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Arid
+  rotate: false
+  xy: 4, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hilly
+  rotate: false
+  xy: 44, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountainous
+  rotate: false
+  xy: 84, 4
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Semi-arid
+  rotate: false
+  xy: 124, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Winter
+  rotate: false
+  xy: 164, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
