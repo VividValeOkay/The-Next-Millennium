@@ -23,7 +23,7 @@
   {
 		"name": "Iron",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Grassland","Semi arid","Arid","Tundra","Winter","Hill","Marsh"],
+		"terrainsCanBeFoundOn": ["Grassland","Semi arid","Arid","Tundra","Winter","Hilly","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
 		"uniques": ["Guaranteed with Strategic Balance resource option",
