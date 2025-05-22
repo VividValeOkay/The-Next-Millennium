@@ -41,7 +41,6 @@
 	{
 		"name": "Stadium",
 		"happiness": 3,
-		"requiredBuilding": "Theatre",
 		"maintenance": 1,
 		"requiredTech": "Radio and Television Media"
 	},
