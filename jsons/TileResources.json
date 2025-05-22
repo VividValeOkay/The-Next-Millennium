@@ -43,5 +43,9 @@
 		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 9},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+	{
+		"name": "Steel",
+		"resourceType": "Strategic",
+	},
 
 ]
