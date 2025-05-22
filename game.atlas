@@ -1,6 +1,6 @@
 
 game.png
-size: 256, 64
+size: 512, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -11,30 +11,72 @@ TileSets/FantasyHex/Tiles/Arid
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Hilly
+TileSets/FantasyHex/Tiles/Arid+Flood plains+Farm
   rotate: false
-  xy: 44, 8
-  size: 32, 32
-  orig: 32, 32
+  xy: 44, 12
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Mountainous
+TileSets/FantasyHex/Tiles/City center-21st Century
   rotate: false
   xy: 84, 4
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Semi-arid
+TileSets/FantasyHex/Tiles/Grassland+Hilly+Farm
   rotate: false
   xy: 124, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Hilly
+  rotate: false
+  xy: 164, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/HillyMine
+  rotate: false
+  xy: 204, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountainous
+  rotate: false
+  xy: 244, 4
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Semi-arid
+  rotate: false
+  xy: 284, 12
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Semi-aridForest
+  rotate: false
+  xy: 324, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Semi-aridJungle
+  rotate: false
+  xy: 364, 8
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Winter
   rotate: false
-  xy: 164, 12
+  xy: 404, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
