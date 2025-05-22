@@ -2,7 +2,7 @@
 
 	{
 		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Semi-arid","Grassland","Arid","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Semi arid","Grassland","Arid","Flood plains"],
 		"food": 2,
 		"turnsToBuild": 7,
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
