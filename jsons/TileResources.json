@@ -23,7 +23,6 @@
   {
 		"name": "Iron",
 		"resourceType": "Strategic",
-		"revealedBy": "Iron Working",
 		"terrainsCanBeFoundOn": ["Grassland","Semi arid","Arid","Tundra","Snow","Hill","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
