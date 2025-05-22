@@ -35,7 +35,7 @@
 		"happiness": 1,
 		"percentStatBonus": {"culture": 33},
 		"maintenance": 1,
-		"requiredTech": "Radio",
+		"requiredTech": "Radio and Television Media",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 
