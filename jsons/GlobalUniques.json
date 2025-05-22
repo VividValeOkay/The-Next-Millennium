@@ -1,6 +1,7 @@
 {
   "name": "Global Uniques",
   "uniques": [
-    "[+4 Happiness] [in all cities]"
-    "[-15]% [Production] [in all cities]"]
+    "[+4 Happiness] [in all cities]",
+    "[-15]% [Production] [in all cities]",
+  ]
 }
