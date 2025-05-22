@@ -10,7 +10,7 @@
 	},
   {
 		"name": "Library",
-		"hurryCostModifier": 25,
+		"cost": 25,
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [4] population [in this city]"],
 	},
@@ -37,6 +37,13 @@
 		"maintenance": 1,
 		"requiredTech": "Radio and Television Media",
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Stadium",
+		"happiness": 3,
+		"requiredBuilding": "Theatre",
+		"maintenance": 1,
+		"requiredTech": "Radio and Television Media"
 	},
 
 ]
