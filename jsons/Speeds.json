@@ -33,7 +33,7 @@
         "religiousPressureAdjacentCity": 9,
         "peaceDealDuration": 10,
         "dealDuration": 25,
-        "startYear": -4000,
+        "startYear": 1991,
         "turns": [
             {"yearsPerTurn": 0.1, "untilTurn":  9999},
         ]
@@ -54,7 +54,7 @@
         "religiousPressureAdjacentCity": 6,
         "peaceDealDuration": 10,
         "dealDuration": 30,
-        "startYear": -4000,
+        "startYear": 1991,
         "turns": [
               {"yearsPerTurn": 0.1, "untilTurn":  9999},
         ]
@@ -75,7 +75,7 @@
         "religiousPressureAdjacentCity": 4,
         "peaceDealDuration": 15,
         "dealDuration": 45,
-        "startYear": -4000,
+        "startYear": 1991,
         "turns": [
             {"yearsPerTurn": 0.05, "untilTurn":  9999},
 
@@ -97,7 +97,7 @@
         "religiousPressureAdjacentCity": 2,
         "peaceDealDuration": 30,
         "dealDuration": 90,
-        "startYear": -4000,
+        "startYear": 1991,
         "turns": [
             {"yearsPerTurn": 0.01, "untilTurn":  9999},
         ]
