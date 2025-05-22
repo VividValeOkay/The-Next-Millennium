@@ -1,0 +1,33 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "21st Century",
+		"techCost": 30,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Agriculture",
+				"row": 6,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "21st Century",
+		"techCost": 45,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Standard Research Objectives",
+				"row": 2,
+				"prerequisites": ["Agriculture"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+    ],
+  }
+]
