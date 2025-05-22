@@ -53,21 +53,21 @@ TileSets/FantasyHex/Tiles/Mountainous
   orig: 32, 36
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Semi-arid
+TileSets/FantasyHex/Tiles/Semi arid
   rotate: false
   xy: 284, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Semi-aridForest
+TileSets/FantasyHex/Tiles/Semi aridForest
   rotate: false
   xy: 324, 8
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Semi-aridJungle
+TileSets/FantasyHex/Tiles/Semi aridJungle
   rotate: false
   xy: 364, 8
   size: 32, 32
