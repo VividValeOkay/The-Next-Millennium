@@ -23,10 +23,15 @@
 		"techs": [
 			{
 				"name": "Standard Research Objectives",
-				"row": 2,
+				"row": 1,
 				"prerequisites": ["Agriculture"],
-                "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+	                {
+				"name": "Steel Working",
+				"row": 3,
+				"prerequisites": ["Agriculture"],
+				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
     ],
   }
