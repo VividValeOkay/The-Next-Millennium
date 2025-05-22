@@ -33,6 +33,12 @@
 				"prerequisites": ["Agriculture"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
+			{
+				"name": "Radio and Television Media",
+				"row": 5,
+				"prerequisites": ["Agriculture"],
+				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
+			},
     ],
   }
 ]
