@@ -35,5 +35,11 @@
 			{"text":"Appearance changes with the technological era of the owning civilization"}
 		]
 	}
+        {
+		"name": "Pasture",
+		"turnsToBuild": 8,
+		"uniques": ["[+1 Food]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
   
 ]
