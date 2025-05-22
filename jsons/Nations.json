@@ -74,7 +74,7 @@
 		"neutralHello": "How are you today?",
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
-                "outerColor": [224,24,24)],
+                "outerColor": [224,24,24],
                 "innerColor": [255,217,1],
                 "uniqueName": "Art of War",
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
@@ -82,4 +82,5 @@
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"],
         "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
+}
 ]
