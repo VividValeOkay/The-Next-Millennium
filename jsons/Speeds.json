@@ -22,7 +22,7 @@
         */
         "productionCostModifier": 0.67,
         "goldCostModifier": 0.67,
-        "scienceCostModifier": 0.67,
+        "scienceCostModifier": 0.87,
         "cultureCostModifier": 0.67,
         "faithCostModifier": 0.67,
         "improvementBuildLengthModifier": 0.67,
@@ -41,7 +41,7 @@
     {
         "name": "Standard",
         "modifier": 1.0,
-        "productionCostModifier": 1.0,
+        "productionCostModifier": 1.2,
         "goldCostModifier": 1.0,
         "scienceCostModifier": 1.0,
         "cultureCostModifier": 1.0,
@@ -62,7 +62,7 @@
     {
         "name": "Epic",
         "modifier": 1.5,
-        "productionCostModifier": 1.5,
+        "productionCostModifier": 1.7,
         "goldCostModifier": 1.5,
         "scienceCostModifier": 1.5,
         "cultureCostModifier": 1.5,
@@ -84,7 +84,7 @@
     {
         "name": "Marathon",
         "modifier": 3.0,
-        "productionCostModifier": 3.0,
+        "productionCostModifier": 3.4,
         "goldCostModifier": 3.0,
         "scienceCostModifier": 3.0,
         "cultureCostModifier": 3.0,
