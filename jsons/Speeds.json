@@ -35,7 +35,7 @@
         "dealDuration": 25,
         "startYear": 1991,
         "turns": [
-            {"yearsPerTurn": 0.1, "untilTurn":  9999},
+            {"yearsPerTurn": 0.2, "untilTurn":  9999},
         ]
     },
     {
