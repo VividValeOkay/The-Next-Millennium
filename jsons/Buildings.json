@@ -29,5 +29,14 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Steel Working",
 	},
+	{
+		"name": "Broadcast Tower",
+		"culture": 2,
+		"happiness": 1,
+		"percentStatBonus": {"culture": 33},
+		"maintenance": 1,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 
 ]
