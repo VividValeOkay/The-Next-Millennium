@@ -1,110 +1,117 @@
 
 game.png
-size: 1024, 256
+size: 1024, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/China
   rotate: false
-  xy: 4, 40
+  xy: 312, 284
   size: 250, 200
   orig: 250, 200
   offset: 0, 0
   index: -1
+NationIcons/Germany
+  rotate: false
+  xy: 4, 184
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
 NationIcons/The United States
   rotate: false
-  xy: 470, 140
+  xy: 4, 76
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Arid
   rotate: false
-  xy: 4, 4
+  xy: 312, 248
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Arid+Flood plains+Farm
   rotate: false
-  xy: 470, 104
+  xy: 778, 456
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-21st Century
   rotate: false
-  xy: 470, 60
+  xy: 112, 140
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Hilly+Farm
   rotate: false
-  xy: 44, 4
+  xy: 312, 212
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Hilly
   rotate: false
-  xy: 510, 100
+  xy: 352, 244
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/HillyMine
   rotate: false
-  xy: 578, 176
+  xy: 778, 420
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountainous
   rotate: false
-  xy: 618, 204
+  xy: 818, 448
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Semi arid
   rotate: false
-  xy: 84, 4
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Semi aridForest
   rotate: false
-  xy: 510, 60
+  xy: 44, 36
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Semi aridJungle
   rotate: false
-  xy: 658, 208
+  xy: 112, 100
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Winter
   rotate: false
-  xy: 578, 140
+  xy: 152, 148
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Basic Infantry
   rotate: false
-  xy: 578, 212
+  xy: 4, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Basic Infantry
   rotate: false
-  xy: 262, 40
+  xy: 570, 284
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
