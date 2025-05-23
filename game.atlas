@@ -6,14 +6,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/China
   rotate: false
-  xy: 312, 284
+  xy: 620, 284
   size: 250, 200
   orig: 250, 200
   offset: 0, 0
   index: -1
 NationIcons/Germany
   rotate: false
-  xy: 4, 184
+  xy: 312, 184
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
@@ -27,14 +27,14 @@ NationIcons/The United States
   index: -1
 TileSets/FantasyHex/Tiles/Arid
   rotate: false
-  xy: 312, 248
+  xy: 620, 248
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Arid+Flood plains+Farm
   rotate: false
-  xy: 778, 456
+  xy: 878, 456
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -48,28 +48,28 @@ TileSets/FantasyHex/Tiles/City center-21st Century
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Hilly+Farm
   rotate: false
-  xy: 312, 212
+  xy: 620, 212
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Hilly
   rotate: false
-  xy: 352, 244
+  xy: 660, 244
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/HillyMine
   rotate: false
-  xy: 778, 420
+  xy: 878, 420
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountainous
   rotate: false
-  xy: 818, 448
+  xy: 918, 448
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
@@ -111,8 +111,8 @@ TileSets/FantasyHex/Units/Basic Infantry
   index: -1
 UnitIcons/Basic Infantry
   rotate: false
-  xy: 570, 284
-  size: 200, 200
-  orig: 200, 200
+  xy: 4, 184
+  size: 300, 300
+  orig: 300, 300
   offset: 0, 0
   index: -1
