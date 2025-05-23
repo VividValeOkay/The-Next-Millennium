@@ -39,6 +39,18 @@
 				"prerequisites": ["Agriculture"],
 				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
 			},
+			{
+				"name": "More Durable Equipment",
+				"row": 4,
+				"prerequisites": ["Agriculture"],
+				"quote": "'By distributing more durable mining equipment, the productivity of our mines can be improved.' - Rise of Nations Roblox"
+			},
+			{
+				"name": "Financial markets",
+				"row": 7,
+				"prerequisites": ["Agriculture"],
+				"quote": "'WIP.' - No one"
+			},
     ],
   }
 ]
