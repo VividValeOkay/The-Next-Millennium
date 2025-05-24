@@ -36,7 +36,7 @@
 		"cost": 90,
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"requiredResource": "Steel",
-		"requiredTech": "Electronics",
+		"requiredTech": "Naval Research",
 		"attackSound": "shipguns"
 	},
 ]
