@@ -82,6 +82,12 @@
 				"prerequisites": ["Sea Transport","Standard Research Objectives"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 			},
+			{
+				"name": "More Advanced Supercomputers",
+				"row": 1,
+				"prerequisites": ["Standard Research Objectives"],
+				"quote": "'By investing in even faster and more advanced supercomputers, complex calculations can be processed much more quickly, speeding up research.' - Rise of Nations Roblox"
+			},
 		],
 	}
 ]
