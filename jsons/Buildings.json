@@ -55,5 +55,14 @@
 		"maintenance": 1,
 		"requiredTech": "Radio and Television Media"
 	},
+	{
+		"name": "Research Lab",
+		"science": 2,
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "Public School",
+		"maintenance": 2,
+		"requiredTech": "Plastics"
+	},
 
 ]
