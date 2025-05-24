@@ -26,6 +26,7 @@
 				"row": 1,
 				"prerequisites": ["Agriculture"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+				"uniques": ["[+1 Science] per [8] population [in capital]"],
 			},
 			{
 				"name": "Radio and Television Media",
