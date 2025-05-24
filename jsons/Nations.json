@@ -110,5 +110,30 @@
 			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
+    {
+		"name": "The United Kingdom",
+		"leaderName": "Keir Starmer",
+		"adjective": ["British","English"],
+		"startBias": ["Coast"],
+		"personality": "Starmer",
+
+        "startIntroPart1": "Long live to Your Highness, Queen Elizabeth Gloriana, leader and protector of the glorious England! Through history, enduring many invasions, England strengthened its will, playing smartly with diplomacy, cunning, and military power, to eventually rose as one of the most dominant Empires the world has ever known. Their matchless navy, brilliant scientists and artists, and powerful merchants, have shaped the known world for centuries.",
+        "startIntroPart2": "Queen Elizabeth, will England cast once more its brightness upon all lands and seas of the world? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "By the grace of God, your days are numbered.",
+		"attacked": "We shall never surrender.",
+		"defeated": "You have triumphed over us. The day is yours.",
+		"introduction": "Welcome to the United Kingdom of Great Britain and Northern Ireland. And I am their prime minister, Sir Keir Rodney Starmer.",
+		"neutralHello": "Hello, again.",
+		"hateHello": "Oh, it's you!",
+		"tradeRequest": "Would you be interested in a trade agreement with Britian?",
+		"outerColor": [109, 2, 0],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Brexit",
+		"cities": ["London","Birmingham","Manchester","Liverpool","Leeds","Sheffield","Middlesbrough","Bristol","Bournemouth","Stoke-on-Trent",
+			"Leicester","Wirral","Norwich","Coventry","Nottingham","Bradford","Newcastle Upon Tyne","Brighton and Hove","Plymouth","Preston",
+			"Derby","Aldershot","Badshot Lea","Southampton","Wigan","Portsmouth","Luton","York","Northampton","Milton Keynes"],
+        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+    },
 
 ]
