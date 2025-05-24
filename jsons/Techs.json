@@ -55,6 +55,12 @@
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 				"uniques": ["Enables [Embarked] units to enter ocean tiles"],
 			},
+			{
+				"name": "Modernised Construction",
+				"row": 12,
+				"prerequisites": ["Agriculture"],
+				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+			}
     ],
   }
 	{
