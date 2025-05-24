@@ -60,9 +60,8 @@
 		"science": 2,
 		"percentStatBonus": {"science": 50},
 		"specialistSlots": {"Scientist": 1},
-		"requiredBuilding": "Public School",
 		"maintenance": 2,
-		"requiredTech": "Plastics"
+		"requiredTech": "More Advanced Supercomputers"
 	},
 
 ]
