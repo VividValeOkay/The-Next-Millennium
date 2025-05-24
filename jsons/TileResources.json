@@ -1,5 +1,4 @@
 [
-	// Bonus resources
 	{
 		"name": "Cattle",
 		"resourceType": "Bonus",
@@ -46,6 +45,63 @@
 	{
 		"name": "Steel",
 		"resourceType": "Strategic",
+	},
+	{
+		"name": "Wheat",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Flood plains","Semi arid","Arid"], // Arid only if fresh water
+		"food": 1,
+		"improvement": "Farm",
+		"uniques": ["Generated on every [27] tiles <in [{Featureless} {Semi arid}] tiles>",
+					"Generated on every [10] tiles <in [{Arid} {Fresh Water}] tiles> <in tiles without [Hilly]>",
+					"Generated on every [20] tiles <in [{Featureless} {Semi arid}] tiles> <in [Hilly] Regions>",
+					"Generated on every [20] tiles <in [{Fresh Water} {Arid}] tiles> <in tiles without [Hilly]> <in [Hilly] Regions>"]
+	},
+	{
+		"name": "Horses",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"], // Hill only if plains or grassland
+		"production": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
+					"Generated with weight [100] <in [{Featureless} {Semi arid}] tiles>",
+					"Minor deposits generated with weight [10] <in [{Grassland} {Hilly}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+					"Minor deposits generated with weight [10] <in [{Semi arid} {Hilly}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+					"Minor deposits generated with weight [100] <in [{Featureless} {Grassland}] tiles> <in [Fresh Water] tiles>",
+					"Minor deposits generated with weight [20] <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
+					"Minor deposits generated with weight [30] <in [{Featureless} {Semi arid}] tiles>"],
+		"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+	},
+	{
+		"name": "Gold Ore", // Not called "Gold" in order to not conflict with siege type units for translations
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Arid","Hilly","Forest","Jungle"],
+		"gold": 2,
+		"improvement": "Mine",
+		"uniques": ["Generated with weight [25] <in [Arid] Regions>",
+					"Generated with weight [30] <in [Hilly] Regions>",
+					"Generated with weight [5] <in [Semi arid] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hilly]>",
+					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hilly]>"]
+	},
+	{
+		"name": "Spices",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
+		"gold": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [30] <in [Jungle] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Semi arid] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",
+					"Doesn't generate naturally <in [Hilly] tiles>",
+					"Doesn't generate naturally <in [{Tundra} {Forest}] tiles>"]
 	},
 
 ]
