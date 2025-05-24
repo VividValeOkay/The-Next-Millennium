@@ -60,7 +60,7 @@
 	{
 		"name": "Horses",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Hill"], // Hill only if plains or grassland
+		"terrainsCanBeFoundOn": ["Semi arid","Grassland","Hilly"], // Hill only if plains or grassland
 		"production": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"production": 1},
