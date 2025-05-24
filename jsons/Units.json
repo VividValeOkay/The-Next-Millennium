@@ -26,4 +26,17 @@
 		"cost": 40,
 		"attackSound": "shot"
 	},
+	{
+		"name": "Battleship",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 10,
+		"rangedStrength": 12,
+		"range": 2,
+		"cost": 90,
+		"uniques": ["Ranged attacks may be performed over obstacles"],
+		"requiredResource": "Steel",
+		"requiredTech": "Electronics",
+		"attackSound": "shipguns"
+	},
 ]
