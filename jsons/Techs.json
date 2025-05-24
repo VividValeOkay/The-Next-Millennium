@@ -27,12 +27,6 @@
 				"prerequisites": ["Agriculture"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
-	                {
-				"name": "Steel Working",
-				"row": 3,
-				"prerequisites": ["Agriculture"],
-				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
-			},
 			{
 				"name": "Radio and Television Media",
 				"row": 5,
@@ -60,12 +54,25 @@
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 				"uniques": ["Enables [Embarked] units to enter ocean tiles"],
 			},
+    ],
+  }
+	{
+		"columnNumber": 2,
+		"era": "21st Century",
+		"techCost": 55,
+		"buildingCost": 70,
+		"wonderCost": 200,
+		"techs": [
+			  {
+				"name": "Steel Working",
+				"row": 3,
+				"prerequisites": ["More Durable Equipment","Standard Research Objectives"],
+				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
+			},
 			{
 				"name": "Naval Research",
 				"row": 10,
-				"prerequisites": ["Agriculture"],
+				"prerequisites": ["Sea Transport","Standard Research Objectives"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 			},
-    ],
-  }
 ]
