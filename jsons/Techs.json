@@ -53,6 +53,19 @@
 				"quote": "'WIP.' - No one"
 				"uniques": ["[+15]% [Gold] [in all cities]"],
 			},
+			{
+				"name": "Sea Transport",
+				"row": 9,
+				"prerequisites": ["Agriculture"],
+				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
+				"uniques": ["Enables [Embarked] units to enter ocean tiles"],
+			},
+			{
+				"name": "Naval Research",
+				"row": 10,
+				"prerequisites": ["Agriculture"],
+				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
+			},
     ],
   }
 ]
