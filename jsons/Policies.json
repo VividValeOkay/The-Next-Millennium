@@ -24,14 +24,51 @@
                 "uniques": [
                     "[+1 Culture] per [7] population [in all cities]",
                 ],
-                "row": 3,
-                "column": 1
+                "row": 1,
+                "column": 3
             },
            {
                 "name": "Cultural Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
                     "Provides a [Monument] in your first [3] cities for free"
+                ]
+            }
+        ]
+    },
+     {
+        "name": "Economics",
+        "era": "21st Century",
+        "priorities": {
+            "Neutral": 5,
+            "Domination": 5,
+        },
+        "uniques": [
+            "[+1 Gold] [in capital]",
+            "[+1 Gold] per [8] population [in capital]"
+        ],
+        "policies": [
+             {
+                "name": "Higher Taxation",
+                "uniques": [
+                    "[+18]% [Gold] [in all cities]",
+                ],
+                "row": 1,
+                "column": 1
+            },
+             {
+                "name": "Improved Welfare",
+                "uniques": [
+                    "[+20]% [Food] [in all cities]",
+                    "[-25]% Unhappiness from [Population] [in all cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+             {
+                "name": "Economics Complete",
+                "uniques": [
+                    "[+25]% [Gold]",
                 ]
             }
         ]
