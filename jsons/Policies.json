@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Cultural",
+        "era": "21st Century",
+        "priorities": {
+            "Neutral": 5,
+            "Domination": 5,
+        },
+        "uniques": [
+            "[+1 Culture] [in capital]",
+            "[-15]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Cultural Heritage",
+                "uniques": [
+                    "[+1 Culture] from all [Monument] buildings",
+                ],
+                "row": 1,
+                "column": 1
+            },
+           {
+                "name": "Cultural Integration",
+                "uniques": [
+                    "[+1 Culture] per [7] population [in all cities]",
+                ],
+                "row": 3,
+                "column": 1
+            },
+           {
+                "name": "Cultural Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                    "Provides a [Monument] in your first [3] cities for free"
+                ]
+            }
+        ]
+    },
+]
