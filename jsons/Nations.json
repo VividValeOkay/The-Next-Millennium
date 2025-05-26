@@ -63,6 +63,7 @@
 		"leaderName": "Xi Jinping",
 		"adjective": ["Chinese"],
 		"personality": "Jinping",
+	        "startBias": ["Grassland"],
 
                 "startIntroPart1": "Heaven itself bends before your beauty, Empress Wu Zetian, ruler of eternal China! You lead one of the oldest and greatest civilization of humanity. In your time, China stood at the forefront of science and technology, bringing the world such contributions as gunpowder, the printing press, and the world of Confucius, and this, long before the rest of the world was mature enough to make the same discoveries!",
                 "startIntroPart2": "Great Queen, can you make China prevail again, using your divine intelligence and beauty? China stands for greatness, and all its enemies will be dazzled soon enough! Will your new empire shine through the ages of history?",
@@ -88,6 +89,7 @@
 		"leaderName": "Friedrich Merz",
 		"adjective": ["German"],
 		"personality": "Merz",
+	        "startBias": ["Avoid [Arid]"],
 
         "startIntroPart1": "All hail to Otto von Bismarck, first chancellor of Germany and its empire! During the ancient era, Germany was a land fragmented in several tribes but already showed great promise as the Roman Empire itself struggled to bend the Germans to its will. Germany, as one nation, was slowly built on the ruins of the Holy Roman Empire, and waited 1871 to be finally unified after the glorious victory on France and Napoleon III. The German people are creative, intelligent, industrious and proven to be talented warriors through history. Despite great catastrophes and failures in the first half of the 20th century, Germany can always rely on its people will and strength to be among the greatest and powerful nations in the world.",
         "startIntroPart2": "Great Prince Bismarck, glory and power are at the heart of the German nation. Your people are bright, and lend you their iron will to lead Germany once again. Will your new empire shine through the ages of history?",
