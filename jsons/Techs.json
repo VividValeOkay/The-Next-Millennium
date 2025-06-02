@@ -45,7 +45,7 @@
 				"name": "Better Economics",
 				"row": 7,
 				"prerequisites": ["Agriculture"],
-				"quote": "'WIP.' - No one"
+				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 				"uniques": ["[+15]% [Gold] [in all cities]"],
 			},
 			{
@@ -99,6 +99,18 @@
 				"row": 4,
 				"prerequisites": ["More Durable Equipment"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
+			},
+			{
+				"name": "Advanced Culture",
+				"row": 5,
+				"prerequisites": ["Radio and Television Media"],
+				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
+			},
+			{
+				"name": "Advanced Economics",
+				"row": 7,
+				"prerequisites": ["Better Economics"],
+				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 		],
 	}
