@@ -10,7 +10,7 @@
 		"startIntroPart1": "May the gods bless you, great Nebuchadnezzar, ruler of ancient Babylon! Built 5000 years ago, Babylon emerged as an empire in 1800 BC, thanks to godlike Hammurabi, The Giver of Law. Falling under the Kassites assaults then the Assyrian domination, Babylon was reborn from its ashes, gaining back its independance, and became the beacon for Arts and Learning in the ancient world. O Nebuchadnezzar, after your death, Babylon quickly fell, conquered by the mighty Persians, and then by the Greeks, until the great city disappeared forever in 141 BC.",
 		"startIntroPart2": "Great Nebuchadnezzar, Babylon's glory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
+		"declaringWar": "Prepare to be liberated!!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
 		"introduction": "Welcome to the United States of America!",
@@ -119,8 +119,8 @@
 		"startBias": ["Coast"],
 		"personality": "Starmer",
 
-        "startIntroPart1": "Long live to Your Highness, Queen Elizabeth Gloriana, leader and protector of the glorious England! Through history, enduring many invasions, England strengthened its will, playing smartly with diplomacy, cunning, and military power, to eventually rose as one of the most dominant Empires the world has ever known. Their matchless navy, brilliant scientists and artists, and powerful merchants, have shaped the known world for centuries.",
-        "startIntroPart2": "Queen Elizabeth, will England cast once more its brightness upon all lands and seas of the world? Will your new empire shine through the ages of history?",
+        "startIntroPart1": "Long live, Keir Starmer, leader and protector of the glorious England! Through history, enduring many invasions, England strengthened its will, playing smartly with diplomacy, cunning, and military power, to eventually rose as one of the most dominant Empires the world has ever known. Their matchless navy, brilliant scientists and artists, and powerful merchants, have shaped the known world for centuries.",
+        "startIntroPart2": "Keir Starmer, will England cast once more its brightness upon all lands and seas of the world? Will your new empire shine through the ages of history?",
 
         "declaringWar": "By the grace of God, your days are numbered.",
 		"attacked": "We shall never surrender.",
@@ -136,6 +136,36 @@
 			"Leicester","Wirral","Norwich","Coventry","Nottingham","Bradford","Newcastle Upon Tyne","Brighton and Hove","Plymouth","Preston",
 			"Derby","Aldershot","Badshot Lea","Southampton","Wigan","Portsmouth","Luton","York","Northampton","Milton Keynes"],
         "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+    },
+	{
+		"name": "Iran",
+		"leaderName": "Ali Khamenei",
+		"adjective": ["Iranian","Persian"],
+		"personality": "Khamenei",
+
+        "startIntroPart1": "Great Khamenei of Iran, the heaven casts its light upon you! Persian people are strong and wise, as their leader. In old ages, the great Persian king Cyrus fought back the mighty Median empire and finally destroyed the Medes in 550 BC. Cunning diplomacy and military achievements helped then to conquer the wealthy Lydia and the powerful Babylon, Cyrus' son conquering the eternal Egypt some years later. At the height of its power, the Persian Empire reached the shores of Macedonia, at the very door of the upstart Greek city-states. Persia would have prospered for centuries if Alexander of Macedon hadn't brutally destroyed the great empire in one violent strike.",
+        "startIntroPart2": "Supreme Ali Khamenei, the people of Iran await, longing for its past glory and power! Persia of the Immortals must reborn, to punish its foes and rebuild the gleaming Persepolis! Will your new empire shine through the ages of history?",
+
+        "declaringWar": "Your continue existence is an embarrassment to all leaders everywhere! You must be destroyed!",
+		"attacked": "Curse you! You are beneath me, son of a donkey driver! I will crush you!",
+		"defeated": "You mongrel! Cursed be you! The world will long lament your heinous crime!",
+		"introduction": "Welcome to the Islamic Republic of Iran. And I am Ali Khamenei, the supreme leadership authority",
+		"neutralHello": "Good day to you!",
+		"hateHello": "Ahh... you...",
+		"tradeRequest": "In my endless magnanimity, I am making you this offer. You agree, of course?",
+
+        "outerColor": [29,218,17],
+        "innerColor": [206,12,1],
+		
+		"uniqueName": "Esteqlâl, Âzâdi, Jomhuri-ye Eslâmi",
+		"cities": ["Tehran","Isfahan","Mashhad","Karaj","Shiraz","Tabriz","Qom","Ahvaz","Kermanshah","Urmia",
+			"Rasht","Zahedan","Istakhr","Hamadan","Kerman","Yazd","Ardabil","Bandar Abbas","Arak","Eslamshahr","Zanjan",
+			"Sanandaj","Qazvin","Sanandaj","Khorramabad","Gorgan","Sari","Shahriar","Qods","Kashan","Malard",
+			"Dezful","Nishapur","Babol","Khomeyni Shahr","Sabzevar","Golestan","Amol","Pakdasht","Najafabad","Borujerd","Abadan",
+			"Qarchak","Bojnord","Varamin","Bushehr","Nasimshahr","Sirjan","Khoy","Ilam","Piranshahr","Shahr-e Kord",
+			"Semnan","Yasuj","Fardis","Izata","Kampada","Kapisa","Karmana","Kounaxa","Kuganaka","Nautaka",
+			"Paishiyauvada","Patigrbana","Phrada"],
+        "spyNames": ["Ali", "Abbas", "Amir", "Bahram", "Karim", "Kourosh", "Niusha", "Abdulloh", "Mihemed ", "Yasmin"]
     },
 
 ]
