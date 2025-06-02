@@ -96,7 +96,7 @@
 			},
 			{
 				"name": "Fabrication",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["More Durable Equipment"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
