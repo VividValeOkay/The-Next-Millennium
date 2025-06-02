@@ -94,6 +94,12 @@
 				"prerequisites": ["More Durable Equipment","Modernised Construction"],
 				"quote": "'Tonk'"
 			},
+			{
+				"name": "Fabrication",
+				"row": 5,
+				"prerequisites": ["More Durable Equipment"],
+				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
+			},
 		],
 	}
 ]
