@@ -88,6 +88,12 @@
 				"prerequisites": ["Standard Research Objectives"],
 				"quote": "'By investing in even faster and more advanced supercomputers, complex calculations can be processed much more quickly, speeding up research.' - Rise of Nations Roblox"
 			},
+			{
+				"name": "Tank Design",
+				"row": 13,
+				"prerequisites": ["More Durable Equipment","Modernised Construction"],
+				"quote": "'Tonk'"
+			},
 		],
 	}
 ]
