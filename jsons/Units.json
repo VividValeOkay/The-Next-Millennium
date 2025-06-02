@@ -39,4 +39,15 @@
 		"requiredTech": "Naval Research",
 		"attackSound": "shipguns"
 	},
+	{
+		"name": "Basic Armor",
+		"unitType": "Heavy Armor",
+		"movement": 5,
+		"strength": 13,
+		"cost": 65,
+		"requiredTech": "Tank Design",
+		"requiredResource": "Steel",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 ]
