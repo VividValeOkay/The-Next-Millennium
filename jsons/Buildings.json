@@ -56,6 +56,15 @@
 		"maintenance": 2,
 		"requiredTech": "More Advanced Supercomputers"
 	},
+	{
+		"name": "Factory",
+		"maintenance": 1,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"requiredTech": "Fabrication"
+	},
 	// City Development
 	  {
 		"name": "Basic City Developments",
