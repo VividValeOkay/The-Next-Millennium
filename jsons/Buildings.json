@@ -71,8 +71,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
-		"requiredBuilding": "Market",
-		"requiredTech": "Banking"
+		"requiredTech": "Advanced Economics"
 	},
 	// City Development
 	  {
