@@ -5,5 +5,10 @@
 		"science":3,
 		"color": [0,0,255]
 	},
+	{
+		"name":"Engineer",
+		"production":2,
+		"color": [139,69,19]
+	}
 
 ]
