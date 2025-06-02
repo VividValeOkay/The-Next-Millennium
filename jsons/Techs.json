@@ -104,7 +104,8 @@
 				"name": "Advanced Culture",
 				"row": 5,
 				"prerequisites": ["Radio and Television Media"],
-				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
+				"uniques": ["[+15]% [Culture] [in all cities]"],
+				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
 				"name": "Advanced Economics",
