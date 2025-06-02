@@ -65,6 +65,15 @@
 		"percentStatBonus": {"production": 10},
 		"requiredTech": "Fabrication"
 	},
+	{
+		"name": "Bank",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
 	// City Development
 	  {
 		"name": "Basic City Developments",
