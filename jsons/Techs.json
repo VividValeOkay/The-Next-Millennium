@@ -8,7 +8,7 @@
 		"techs": [
 			{
 				"name": "Agriculture",
-				"row": 6,
+				"row": 8,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Starting tech"]
 			}
@@ -30,34 +30,34 @@
 			},
 			{
 				"name": "Radio and Television Media",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Agriculture"],
 				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
 			},
 			{
 				"name": "More Durable Equipment",
-				"row": 4,
+				"row": 6,
 				"prerequisites": ["Agriculture"],
 				"quote": "'By distributing more durable mining equipment, the productivity of our mines can be improved.' - Rise of Nations Roblox"
 				"uniques": ["[+15]% [Production] from every [Mine]"],
 			},
 			{
 				"name": "Better Economics",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Agriculture"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 				"uniques": ["[+15]% [Gold] [in all cities]"],
 			},
 			{
 				"name": "Sea Transport",
-				"row": 9,
+				"row": 11,
 				"prerequisites": ["Agriculture"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 				"uniques": ["Enables embarkation for land units","Enables [Embarked] units to enter ocean tiles"],
 			},
 			{
 				"name": "Modernised Construction",
-				"row": 12,
+				"row": 16,
 				"prerequisites": ["Agriculture"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
@@ -78,7 +78,7 @@
 			},
 			{
 				"name": "Naval Research",
-				"row": 10,
+				"row": 11,
 				"prerequisites": ["Sea Transport","Standard Research Objectives"],
 				"quote": "'The winds and the waves are always on the side of the ablest navigators.' - Edward Gibbon"
 			},
@@ -90,26 +90,26 @@
 			},
 			{
 				"name": "Tank Design",
-				"row": 13,
+				"row": 14,
 				"prerequisites": ["More Durable Equipment","Modernised Construction"],
 				"quote": "'Tonk'"
 			},
 			{
 				"name": "Fabrication",
-				"row": 4,
+				"row": 6,
 				"prerequisites": ["More Durable Equipment"],
 				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
 			},
 			{
 				"name": "Advanced Culture",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Radio and Television Media"],
 				"uniques": ["[+15]% [Culture] [in all cities]"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
 				"name": "Advanced Economics",
-				"row": 7,
+				"row": 9,
 				"prerequisites": ["Better Economics"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
