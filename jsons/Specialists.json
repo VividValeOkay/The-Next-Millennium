@@ -10,5 +10,10 @@
 		"production":2,
 		"color": [139,69,19]
 	}
+	{
+		"name":"Merchant",
+		"gold":3,
+		"color": [255,215,0]
+	},
 
 ]
