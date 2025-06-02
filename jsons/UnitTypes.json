@@ -12,6 +12,10 @@
         "name": "Ranged Water",
         "movementType": "Water"
     },
+  {
+        "name": "Heavy Armor",
+        "movementType": "Land"
+ },
   
 
-]
+] 
