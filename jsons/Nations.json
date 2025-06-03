@@ -167,5 +167,115 @@
 			"Paishiyauvada","Patigrbana","Phrada"],
         "spyNames": ["Ali", "Abbas", "Amir", "Bahram", "Karim", "Kourosh", "Niusha", "Abdulloh", "Mihemed ", "Yasmin"]
     },
+	// City-States
+    {
+		"name": "Belgium",
+		"adjective": ["Belgiumese"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [127, 177, 236],
+		"cities": ["Brussels"]
+	},
+	{
+		"name": "Afghanistan",
+		"adjective": ["Afghan"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [121, 226, 0],
+		"cities": ["Kabul"]
+	},
+	{
+		"name": "Finland",
+		"adjective": ["Finnish"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "The day of judgement has come to us. But rest assured, the same will go for you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,178,102],
+		"cities": ["Helsinki"],
+	},
+	{
+		"name": "Philippines",
+		"adjective": ["Filipino","Pinoy"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [113, 227, 114],
+		"cities": ["Manila"]
+	},
+	{
+		"name": "Somalia",
+		"adjective": ["Somali"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Congratulations, conqueror. This nation serves you now.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [127, 177, 236],
+		"cities": ["Mogadishu"],
+	},
+	{
+		"name": "Singapore",
+		"adjective": ["Singaporean"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps, in another world, we could have been friends...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [246, 253, 160],
+		"cities": ["Singapore"]
+	},
+	{
+		"name": "Lebanon",
+		"adjective": ["Lebanese"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [121, 226, 0],
+		"cities": ["Beirut"]
+	},
+	{
+		"name": "Tanzania",
+		"adjective": ["Tanzanian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [127, 177, 236],
+		"cities": ["Dodoma"]
+	},
+	{
+		"name": "Kazakhstan",
+		"adjective": ["Kazakh","Kazakhstani"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [217, 158, 78],
+		"cities": ["Astana"]
+	},
 
 ]
