@@ -100,4 +100,17 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Type 80 MBT",
+		"unitType": "Heavy Armor",
+		"uniqueTo": "China",
+		"replaces": "Basic Armor",
+		"movement": 5,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Tank Design",
+		"requiredResource": "Steel",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 ]
