@@ -6,175 +6,182 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Brazil
   rotate: false
-  xy: 4, 4
+  xy: 878, 892
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/China
   rotate: false
-  xy: 620, 812
+  xy: 620, 820
   size: 250, 200
   orig: 250, 200
   offset: 0, 0
   index: -1
 NationIcons/Germany
   rotate: false
-  xy: 4, 404
+  xy: 4, 412
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 NationIcons/Iran
   rotate: false
-  xy: 620, 554
+  xy: 620, 562
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 NationIcons/The United Kingdom
   rotate: false
-  xy: 4, 140
+  xy: 4, 148
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/The United States
   rotate: false
-  xy: 878, 912
+  xy: 4, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Arid
   rotate: false
-  xy: 268, 368
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Arid+Flood plains+Farm
   rotate: false
-  xy: 570, 260
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-21st Century
   rotate: false
-  xy: 140, 96
+  xy: 828, 518
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grassland+Hilly+Farm
   rotate: false
-  xy: 878, 876
+  xy: 570, 684
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Hilly
   rotate: false
-  xy: 986, 980
+  xy: 878, 852
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/HillyMine
   rotate: false
-  xy: 268, 332
+  xy: 112, 112
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountainous
   rotate: false
-  xy: 570, 216
+  xy: 268, 332
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Semi arid
   rotate: false
-  xy: 610, 260
+  xy: 828, 482
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Semi aridForest
   rotate: false
-  xy: 828, 478
+  xy: 570, 644
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Semi aridJungle
   rotate: false
-  xy: 570, 636
+  xy: 878, 812
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Winter
   rotate: false
-  xy: 140, 60
+  xy: 918, 856
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Basic Armor
   rotate: false
-  xy: 828, 518
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/M60 Tank
   rotate: false
-  xy: 828, 518
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Basic Infantry
   rotate: false
-  xy: 570, 676
+  xy: 268, 376
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Basic Armor
   rotate: false
-  xy: 312, 454
+  xy: 312, 462
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 UnitIcons/Basic Infantry
   rotate: false
-  xy: 4, 712
+  xy: 4, 720
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 UnitIcons/Infantry
   rotate: false
-  xy: 312, 712
+  xy: 312, 720
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
+UnitIcons/Leopard 1
+  rotate: false
+  xy: 312, 204
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
 UnitIcons/T-72 Tank
   rotate: false
-  xy: 312, 196
+  xy: 570, 304
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 UnitIcons/Type 80 MBT
   rotate: false
-  xy: 570, 296
+  xy: 570, 46
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
