@@ -113,6 +113,12 @@
 				"prerequisites": ["Better Economics"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
+			{
+				"name": "Skeletonised Equipment",
+				"row": 12,
+				"prerequisites": ["More Durable Equipment","Modernised Construction"],
+				"quote": "'Every modern army needs infantry in order to function. Versatile and lightweight, these troops can strike at places with armored divisions can't reach.' - Rise of Nations Roblox.",
+			},
 		],
 	}
 ]
