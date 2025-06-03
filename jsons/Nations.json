@@ -141,6 +141,7 @@
 		"name": "Iran",
 		"leaderName": "Ali Khamenei",
 		"adjective": ["Iranian","Persian"],
+		"startBias": ["Arid"]
 		"personality": "Khamenei",
 
         "startIntroPart1": "Great Khamenei of Iran, the heaven casts its light upon you! Persian people are strong and wise, as their leader. In old ages, the great Persian king Cyrus fought back the mighty Median empire and finally destroyed the Medes in 550 BC. Cunning diplomacy and military achievements helped then to conquer the wealthy Lydia and the powerful Babylon, Cyrus' son conquering the eternal Egypt some years later. At the height of its power, the Persian Empire reached the shores of Macedonia, at the very door of the upstart Greek city-states. Persia would have prospered for centuries if Alexander of Macedon hadn't brutally destroyed the great empire in one violent strike.",
