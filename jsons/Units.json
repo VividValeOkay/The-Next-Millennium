@@ -113,4 +113,17 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Leopard 1",
+		"unitType": "Heavy Armor",
+		"uniqueTo": "Germany",
+		"replaces": "Basic Armor",
+		"movement": 5,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Tank Design",
+		"requiredResource": "Steel",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 ]
