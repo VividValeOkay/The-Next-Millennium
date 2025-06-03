@@ -52,10 +52,10 @@
 		"outerColor": [255,255,255],
 		"innerColor": [39,186,234],
 		"uniqueName": "Siberian Riches",
-		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
-			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
-			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"],
+		"cities": ["Moscow","Saint Petersburg","Novosibirsk","Yekaterinburg","Kazan","Yekaterinburg","Nizhny Novgorod","Chelyabinsk","Krasnoyarsk","Samara",
+			"Ufa","Rostov-on-Don","Omsk","Krasnodar","Voronezh","Perm","Volgograd","Saratov","Tyumen","Tolyatti",
+			"Barnaul","Izhevsk","Makhachkala","Khabarovsk","Ulyanovsk","Irkutsk","Vladivostok","Yaroslavl","Kemerovo","Tomsk","Naberezhnye Chelny",
+			"Sevastopol","Stavropol","Orenburg","Ryazan","Kaliningrad","Kursk","Tver"],
         "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Aleksandr"]
     },
 {
