@@ -147,8 +147,8 @@
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
         "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Iran to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
 
-        "declaringWar": "Your continue existence is an embarrassment to all leaders everywhere! You must be destroyed!",
-		"attacked": "Curse you! You are beneath me, son of a donkey driver! I will crush you!",
+        "declaringWar": "The Allah stands with us, while you stand alone...",
+		"attacked": "Curse you! You are beneath me, son of a driver! I will crush you!",
 		"defeated": "You mongrel! Cursed be you! The world will long lament your heinous crime!",
 		"introduction": "Welcome to the Islamic Republic of Iran. And I am Ali Khamenei, the supreme leadership authority",
 		"neutralHello": "Good day to you!",
@@ -167,6 +167,32 @@
 			"Semnan","Yasuj","Fardis","Izata","Kampada","Kapisa","Karmana","Kounaxa","Kuganaka","Nautaka",
 			"Paishiyauvada","Patigrbana","Phrada"],
         "spyNames": ["Ali", "Abbas", "Amir", "Bahram", "Karim", "Kourosh", "Niusha", "Abdulloh", "Mihemed ", "Yasmin"]
+    },
+    {
+		"name": "Brazil",
+		"leaderName": "Luiz Inácio Lula da Silva",
+		"adjective": ["Brazilian"],
+		"startBias": ["Coast","Jungle"],
+		"personality": "Lula",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Brasil to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+                "declaringWar": "God will probably forgive you... but I shall not. Prepare for war.",
+		"attacked": "You don't come for Brasil... Brasil comes for you!!",
+		"defeated": "Brazil will go down in history as the strongest nation in South America..!",
+		"introduction": "Welcome to the Federative Republic of Brasil. And I am president Lula.",
+		"neutralHello": "Greetings.",
+		"hateHello": "Well?",
+		"tradeRequest": "I hope this deal will receive your blessing.",
+		"outerColor": [107,208,6],
+		"innerColor": [63,106,64],
+		"uniqueName": "Ordem e Progresso",
+		"cities": ["Brasília","São Paulo","Rio de Janeiro","Fortaleza","Salvador","Belo Horizonte","Manaus","Curitiba","Recife","Goiânia","Belém",
+			"Porto Alegre","Guarulhos","Campinas","São Luís","Maceió","São Gonçalo","Campo Grande","Teresina","João Pessoa","Duque de Caxias","Nova Iguaçu","São Bernardo do Campo",
+			"Natal","Santo André","Sorocaba","Osasco","Uberlândia","Ribeirão Preto","São José dos Campos","Jaboatão dos Guararapes","Cuiabá","Feira de Santana","Joinville",
+			"Contagem","Aracaju","Crato","Londrina","Florianópolis","Garanhuns","Brazil"],
+        "spyNames": ["Andressa", "Dênis", "Divina", "Edison", "Eliel", "Senhor X", "Eustáquio", "Felipinho", "Izabel", "Ubirajara"]
     },
 	// City-States
     {
