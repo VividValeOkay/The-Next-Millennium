@@ -4,4 +4,9 @@
         "cityStrengthBase": 20,
         "cityStrengthFromTechsMultiplier": 0,
         "cityStrengthPerPop": 0,
+        "cityStrengthFromTechsExponent": 0,
+        "cityStrengthFromTechsFullMultiplier": 0,
+        "cityStrengthFromGarrison": 5,
+}
+
 }
