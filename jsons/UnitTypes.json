@@ -16,6 +16,10 @@
         "name": "Heavy Armor",
         "movementType": "Land"
  },
+  {
+        "name": "Siege",
+        "movementType": "Land"
+    },
   
 
 ] 
