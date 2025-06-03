@@ -87,4 +87,17 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "T-72 Tank",
+		"unitType": "Heavy Armor",
+		"uniqueTo": "Russia",
+		"replaces": "Basic Tank",
+		"movement": 5,
+		"strength": 17,
+		"cost": 75,
+		"requiredTech": "Tank Design",
+		"requiredResource": "Steel",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 ]
