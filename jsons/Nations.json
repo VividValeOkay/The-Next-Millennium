@@ -316,7 +316,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [127, 177, 236],
+		"innerColor": [127,177,236],
 		"cities": ["Dodoma"]
 	},
 	{
@@ -328,8 +328,32 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [217, 158, 78],
+		"innerColor": [217,158,78],
 		"cities": ["Astana"]
+	},
+	{
+		"name": "Argentina",
+		"adjective": ["Argentine","Argentinian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [110,170,229],
+		"cities": ["Buenos Aires"]
+	},
+	{
+		"name": "Zimbabwe",
+		"adjective": ["Zimbabwean"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could you..?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [241,179,34],
+		"cities": ["Harare"]
 	},
 
 ]
