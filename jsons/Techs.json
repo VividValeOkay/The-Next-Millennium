@@ -119,6 +119,12 @@
 				"prerequisites": ["More Durable Equipment","Modernised Construction"],
 				"quote": "'Every modern army needs infantry in order to function. Versatile and lightweight, these troops can strike at places with armored divisions can't reach.' - Rise of Nations Roblox.",
 			},
+			{
+				"name": "Specialised Construction",
+				"row": 16,
+				"prerequisites": ["Modernised Construction"],
+				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+			}
 		],
 	}
 ]
