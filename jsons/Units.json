@@ -132,6 +132,6 @@
 		"movement": 2,
 		"uniques": ["Can instantly construct a [Industrial Complex] improvement <by consuming this unit>","Automation is a primary action"],
 		"cost": 120,
-		"requiredTech": "Tank Design",
+		"requiredTech": "Specialised Construction",
 	},
 ]
