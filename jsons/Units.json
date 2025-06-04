@@ -126,4 +126,12 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Engineer",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can instantly construct a [Industrial Complex] improvement <by consuming this unit>","Automation is a primary action"],
+		"cost": 120,
+		"requiredTech": "Tank Design",
+	},
 ]
