@@ -130,8 +130,8 @@
 		"name": "Engineer",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Can instantly construct a [Industrial Complex] improvement <by consuming this unit>","Automation is a primary action","Unbuildable"],
-		"cost": 220,
+		"uniques": ["Can instantly construct a [Industrial Complex] improvement <by consuming this unit>","Automation is a primary action"],
+		"cost": 240,
 		"requiredTech": "Specialised Construction",
 	},
 ]
