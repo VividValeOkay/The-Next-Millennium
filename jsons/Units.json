@@ -131,7 +131,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Can instantly construct a [Industrial Complex] improvement <by consuming this unit>","Automation is a primary action","Unbuildable"],
-		"cost": 120,
+		"cost": 220,
 		"requiredTech": "Specialised Construction",
 	},
 ]
