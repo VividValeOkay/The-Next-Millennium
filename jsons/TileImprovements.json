@@ -57,5 +57,12 @@
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
+	{
+		"name": "Industrial Complex",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 2,
+		"uniques": ["Great Improvement","[+1 Production] for each adjacent [Mine]","[+1 Production] for each adjacent [Lumber mill]", "Will not be replaced by automated units",
+            "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
   
 ]
