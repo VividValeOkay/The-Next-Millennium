@@ -134,4 +134,18 @@
 		"cost": 240,
 		"requiredTech": "Specialised Construction",
 	},
+	{
+		"name": "Chieftain Tank",
+		"unitType": "Heavy Armor",
+		"uniqueTo": "The United Kingdom",
+		"replaces": "Basic Armor",
+		"movement": 5,
+		"strength": 16,
+		"cost": 70,
+		"requiredTech": "Tank Design",
+		"requiredResource": "Steel",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+
 ]
