@@ -130,7 +130,7 @@
 	{
 		"columnNumber": 3,
 		"era": "21st Century",
-		"techCost": 45,
+		"techCost": 65,
 		"buildingCost": 100,
 		"wonderCost": 240,
 		"techs": [
@@ -138,6 +138,35 @@
 				"name": "Artificial Intelligence",
 				"row": 1,
 				"prerequisites": ["More Advanced Supercomputers"],
+				"uniques": ["[+2 Science] per [12] population [in capital]"],
 				"quote": "'I do think there should be some regulations on AI.' - Elon Musk"
 			},
+			{
+				"name": "Advanced Culture II",
+				"row": 4,
+				"prerequisites": ["Advanced Culture"],
+				"uniques": ["[+15]% [Culture] [in all cities]"],
+				"quote": "'A people without the knowledge of their past history, origin and culture is like a tree without roots.' - Marcus Garvey"
+			},
+			{
+				"name": "Fabrication II",
+				"row": 6,
+				"prerequisites": ["Fabrication"],
+				"uniques": ["[+1 Production] from all [Factory] buildings"],
+				"quote": "'I used to work in a fire hydrant factory. You couldn't park anywhere near the place.' - Steven Wright"
+			},
+			{
+				"name": "Advanced Economics II",
+				"row": 9,
+				"prerequisites": ["Advanced Economics"],
+				"quote": "'Government's view of the economy could be summed up in a few short phrases: If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.' - Ronald Reagan"
+			},
+			{
+				"name": "Better Land Transport",
+				"row": 12,
+				"prerequisites": ["Skeletonised Equipment"],
+				"quote": "'I really do encourage other manufacturers to bring electric cars to market. It's a good thing, and they need to bring it to market and keep iterating and improving and make better and better electric cars, and that's what going to result in humanity achieving a sustainable transport future. I wish it was growing faster than it is.' - Elon Musk.",
+			},
+		]
+	}
 ]
