@@ -18,7 +18,7 @@
 		"columnNumber": 1,
 		"era": "21st Century",
 		"techCost": 45,
-		"buildingCost": 85,
+		"buildingCost": 60,
 		"wonderCost": 185,
 		"techs": [
 			{
@@ -67,7 +67,7 @@
 		"columnNumber": 2,
 		"era": "21st Century",
 		"techCost": 55,
-		"buildingCost": 70,
+		"buildingCost": 85,
 		"wonderCost": 200,
 		"techs": [
 			  {
@@ -127,4 +127,17 @@
 			}
 		],
 	}
+	{
+		"columnNumber": 3,
+		"era": "21st Century",
+		"techCost": 45,
+		"buildingCost": 100,
+		"wonderCost": 240,
+		"techs": [
+			{
+				"name": "Artificial Intelligence",
+				"row": 1,
+				"prerequisites": ["More Advanced Supercomputers"],
+				"quote": "'I do think there should be some regulations on AI.' - Elon Musk"
+			},
 ]
