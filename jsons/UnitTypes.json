@@ -17,6 +17,10 @@
         "movementType": "Land"
  },
   {
+        "name": "Light Armor",
+        "movementType": "Land"
+ },
+  {
         "name": "Siege",
         "movementType": "Land"
     },
