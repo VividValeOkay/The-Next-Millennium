@@ -2,6 +2,7 @@
 
  {
         "name": "Rifle",
+        "uniques": ["[+25]% Strength <vs [Siege] units> <when attacking>"],
         "movementType": "Land"
  },
  {
@@ -14,6 +15,7 @@
     },
   {
         "name": "Heavy Armor",
+        "uniques": ["[+25]% Strength <vs [Rifle] units>","[+50]% Strength <vs [Siege] units> <when attacking>"],
         "movementType": "Land"
  },
   {
