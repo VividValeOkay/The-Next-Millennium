@@ -3,5 +3,6 @@
   "uniques": [
     "[+4 Happiness] [in all cities]",
     "[-70]% [Science]",
-    "Gain an extra spy <for [Major] Civilizations> <in [in capital] cities>"]
+    "Gain an extra spy <for [Major] Civilizations> <in [in capital] cities>",
+    "[-80]% unhappiness from the number of cities"]
 }
