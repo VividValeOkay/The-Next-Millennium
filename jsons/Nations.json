@@ -1,5 +1,10 @@
 [
 {
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+},
+{
 		//nations
 		"name": "The United States",
 		"leaderName": "Donald Trump",
@@ -221,6 +226,35 @@
 		             "Himeji","Matsuyama","Higashiōsaka","Utsunomiya","Matsudo","Nishinomiya","Kurashiki","Ichikawa","Oita","Fukuyama","Amagasaki","Kanazawa",
 		             "Nagasaki","Yokosuka","Toyama","Toyota","Kochi","Aomori","Juice","Japan"],
         "spyNames": ["Akaishi", "Oki", "Hattori", "Masao", "Yuzuki", "Kawashima", "Osamu", "Eiji", "Yeong-Gi", "John"]
+    },
+	{
+		"name": "India",
+		"leaderName": "Narendra Modi",
+		"adjective": ["Indian"],
+		"startBias": ["Semi arid"],
+		"personality": "Modi",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead India to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "I have just received a report that large numbers of my troops have crossed your borders.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"defeated": "You can chain me, you can torture me, you can even destroy this body, but you will never imprison my mind.",
+		"denounced": "You will regret this, greatly...",
+		"introduction": "Welcome to the Indian republic. And I am Prime Minister Narendra Modi.",
+		"neutralHello": "I wish you peace.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "My friend, are you interested in this arrangement?",
+
+        "outerColor": [14, 113, 4],
+        "innerColor": [255, 163, 71],
+
+		"uniqueName": "Vande Mataram",
+		"cities": ["New Delhi","Mumbai","Bengaluru","Hyderabad","Ahmedabad","Chennai","Calcutta","Surat","Pune","Jaipur","Lucknow","Kanpur",
+		            "Nagpur","Indore","Thane","Bhopal","Visakhapatnam","Pimpri-Chinchwad","Patna","Vadodara","Ghaziabad","Ludhiana","Agra",
+		            "Nashik","Faridabad","Meerut","Rajkot","Kalyan-Dombivli","Vasai-Virar","Varanasi","Srinagar","Aurangabad","Dhanbad",
+		            "Amritsar","Navi Mumbai","Prayagraj","Howrah","Ranchi","Raipur","Bhubaneswar","Thiruvananthapuram","Raurkela Industrial Township"],
+        "spyNames": ["George", "Fathima", "Gurpreet", "Amardeep", "Rohit", "Ajay", "Arati", "Jayesh", "Raj", "Rishi"]
     },
 	// City-States
     {
