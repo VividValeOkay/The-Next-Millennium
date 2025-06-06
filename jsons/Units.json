@@ -153,7 +153,7 @@
 		"movement": 5,
 		"strength": 14,
 		"cost": 70,
-		"requiredTech": "Tank Design",
+		"requiredTech": "Better Land Transport",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
