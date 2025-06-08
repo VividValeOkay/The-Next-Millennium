@@ -22,7 +22,7 @@
   {
 		"name": "Iron",
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Grassland","Semi arid","Arid","Tundra","Winter","Hilly","Marsh"],
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Arid","Tundra","Winter","Hilly","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
 		"uniques": ["Guaranteed with Strategic Balance resource option",
@@ -35,7 +35,7 @@
 					"Minor deposits generated with weight [20] <in [Forest] tiles>",
 					"Minor deposits generated with weight [20] <in [Hilly] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Minor deposits generated with weight [30] <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
-					"Minor deposits generated with weight [20] <in [{Featureless} {Semi arid}] tiles>",
+					"Minor deposits generated with weight [20] <in [{Featureless} {Plains}] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Arid}] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Tundra}] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Winter}] tiles>"],
@@ -49,28 +49,28 @@
 	{
 		"name": "Wheat",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Flood plains","Semi arid","Arid"], // Arid only if fresh water
+		"terrainsCanBeFoundOn": ["Grassland","Flood plains","Plains","Arid"], // Arid only if fresh water
 		"food": 1,
 		"improvement": "Farm",
-		"uniques": ["Generated on every [27] tiles <in [{Featureless} {Semi arid}] tiles>",
+		"uniques": ["Generated on every [27] tiles <in [{Featureless} {Plains}] tiles>",
 					"Generated on every [10] tiles <in [{Arid} {Fresh Water}] tiles> <in tiles without [Hilly]>",
-					"Generated on every [20] tiles <in [{Featureless} {Semi arid}] tiles> <in [Hilly] Regions>",
+					"Generated on every [20] tiles <in [{Featureless} {Plains}] tiles> <in [Hilly] Regions>",
 					"Generated on every [20] tiles <in [{Fresh Water} {Arid}] tiles> <in tiles without [Hilly]> <in [Hilly] Regions>"]
 	},
 	{
 		"name": "Horses",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Semi arid","Grassland","Hilly"], // Hill only if plains or grassland
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Hilly"], // Hill only if plains or grassland
 		"production": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
-					"Generated with weight [100] <in [{Featureless} {Semi arid}] tiles>",
+					"Generated with weight [100] <in [{Featureless} {Plains}] tiles>",
 					"Minor deposits generated with weight [10] <in [{Grassland} {Hilly}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Minor deposits generated with weight [10] <in [{Semi arid} {Hilly}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Minor deposits generated with weight [100] <in [{Featureless} {Grassland}] tiles> <in [Fresh Water] tiles>",
 					"Minor deposits generated with weight [20] <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
-					"Minor deposits generated with weight [30] <in [{Featureless} {Semi arid}] tiles>"],
+					"Minor deposits generated with weight [30] <in [{Featureless} {Plains}] tiles>"],
 		"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
@@ -82,7 +82,7 @@
 		"improvement": "Mine",
 		"uniques": ["Generated with weight [25] <in [Arid] Regions>",
 					"Generated with weight [30] <in [Hilly] Regions>",
-					"Generated with weight [5] <in [Semi arid] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hilly]>",
@@ -96,7 +96,7 @@
 		"improvement": "Plantation",
 		"uniques": ["Generated with weight [30] <in [Jungle] Regions>",
 					"Generated with weight [10] <in [Forest] Regions>",
-					"Generated with weight [5] <in [Semi arid] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
 					"Generated with weight [5] <in [Grassland] Regions>",
 					"Generated with weight [5] <in [Hybrid] Regions>",
 					"Generated near City States with weight [15]",
