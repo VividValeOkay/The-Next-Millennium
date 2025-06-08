@@ -169,5 +169,17 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "CBTP Charrua",
+		"unitType": "Light Armor",
+		"uniqueTo": "Brazil",
+		"replaces": "Personnel Carrier",
+		"movement": 5,
+		"strength": 14,
+		"cost": 78,
+		"requiredTech": "Better Land Transport",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 
 ]
