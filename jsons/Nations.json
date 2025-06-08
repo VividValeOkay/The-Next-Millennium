@@ -274,11 +274,11 @@
 		"adjective": ["Afghan"],
 		"cityStateType": "Cultured",
 
-		"declaringWar": "You leave us no choice. War it must be.",
+		"declaringWar": "Allahu akbar!",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Unacceptable!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [121, 226, 0],
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"cities": ["Kabul"]
 	},
 	{
@@ -287,7 +287,7 @@
 		"cityStateType": "Maritime",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"attacked": "Tonight, the snow speaks Finnish...",
 		"defeated": "The day of judgement has come to us. But rest assured, the same will go for you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,178,102],
