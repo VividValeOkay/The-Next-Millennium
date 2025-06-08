@@ -157,5 +157,17 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Sarir APC",
+		"unitType": "Light Armor",
+		"uniqueTo": "Iran",
+		"replaces": "Personnel Carrier",
+		"movement": 5,
+		"strength": 14,
+		"cost": 78,
+		"requiredTech": "Better Land Transport",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 
 ]
