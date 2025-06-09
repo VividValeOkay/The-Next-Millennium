@@ -127,14 +127,6 @@
 		"attackSound": "tankshot"
 	},
 	{
-		"name": "Engineer",
-		"unitType": "Civilian",
-		"movement": 2,
-		"uniques": ["Can build [Industrial Complex] improvements on tiles","Automation is a primary action"],
-		"cost": 240,
-		"requiredTech": "Specialised Construction",
-	},
-	{
 		"name": "Chieftain Tank",
 		"unitType": "Heavy Armor",
 		"uniqueTo": "The United Kingdom",
