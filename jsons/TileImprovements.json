@@ -63,7 +63,16 @@
 		"production": 2,
 		"techRequired": "Specialised Construction",
 		"uniques": ["Great Improvement","[+1 Production] for each adjacent [Mine]","[+1 Production] for each adjacent [Lumber mill]", "Will not be replaced by automated units",
-            "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+            "Removes removable features when built", "Pillaging this improvement yields approximately [+30 Gold]"]
+	},
+	{
+		"name": "Suburb",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+		"happiness": 1,
+		"techRequired": "Specialised Construction",
+		"uniques": ["Great Improvement","[+1 Happiness] for each adjacent [City center]","[+1 Food] for each adjacent [Farm]", "Will not be replaced by automated units",
+            "Removes removable features when built", "Pillaging this improvement yields approximately [+15 Gold]"]
 	},
   
 ]
