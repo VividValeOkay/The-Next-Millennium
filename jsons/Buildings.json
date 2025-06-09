@@ -97,7 +97,7 @@
 		"cost": 140,
 		"hurryCostModifier": 40,
 		"requiredBuilding": "City Developments",
-		 "requiredTech": "Advanced Economics"
+		"requiredTech": "Specialised Construction"
 		"uniques": ["Creates a [Industrial Complex] improvement on a specific tile"]
 	},
 
