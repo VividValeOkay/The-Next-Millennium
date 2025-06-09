@@ -81,7 +81,7 @@
 		"hurryCostModifier": 40,
 		"uniques": ["[+1 Gold] per [8] population [in this city]","[+1 Production] per [8] population [in this city]","[-5]% Culture cost of natural border growth [in this city]"]
 	},
-		  {
+	{
 		"name": "City Developments",
 		"happiness": 1,
 		"cost": 140,
@@ -89,5 +89,18 @@
 		"requiredBuilding": "Basic City Developments",
 		"uniques": ["[+1 Gold] per [8] population [in this city]","[+1 Production] per [8] population [in this city]","[-10]% Culture cost of natural border growth [in this city]"]
 	},
+
+	// Industrial Complex
+
+	 {
+		"name": "Build Industrial Complex",
+		"cost": 140,
+		"hurryCostModifier": 40,
+		"requiredBuilding": "City Developments",
+		 "requiredTech": "Advanced Economics"
+		"uniques": ["Creates a [Industrial Complex] improvement on a specific tile"]
+	},
+
+	
 
 ]
