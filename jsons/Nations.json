@@ -256,6 +256,33 @@
 		            "Amritsar","Navi Mumbai","Prayagraj","Howrah","Ranchi","Raipur","Bhubaneswar","Thiruvananthapuram","Raurkela Industrial Township"],
         "spyNames": ["George", "Fathima", "Gurpreet", "Amardeep", "Rohit", "Ajay", "Arati", "Jayesh", "Raj", "Rishi"]
     },
+    {
+		"name": "Turkiye",
+		"leaderName": "Recep Tayyip Erdoğan",
+		"adjective": ["Turkish","Turk"],
+		"startBias": ["Arid","Plains"],
+		"personality": "Erdoğan",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Turkey to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
+		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of our nation.",
+		"defeated": "Ruin! Ruin! Ankara becomes Iram of the Pillars, remembered only by the melancholy poets.",
+		"introduction": "Welcome to the Republic of Türkiye. And I'm its President Recep Tayyip Erdoğan.",
+		"neutralHello": "Selamlar!",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Let us do business! Would you be interested?",
+
+        "outerColor": [243,45,45],
+        "innerColor": [255,255,255],
+
+		"uniqueName": "İstiklal Marşı",
+		"cities": ["Ankara","Istanbul","İzmir","Bursa","Adana","Gaziantep","Konya","Antalya","Kayseri","Mersin","Eskişehir","Diyarbakır","Samsun","Denizli",
+		           "Şanlıurfa","Adapazarı","Malatya","Kahramanmaraş","Erzurum","Van","Batman","Elazığ","İzmit","Manisa","Sivas","Gebze","Balıkesir",
+		           "Tarsus","Kütahya","Trabzon","Çorum","Çorlu","Adıyaman","Osmaniye","Kırıkkale","Antakya","Aydın","İskenderun","Uşak","Gölcük"],
+        "spyNames": ["Alim", "Boran", "İkranur", "Kader", "Mert Yıldız", "Pembe", "Süleyman", "Khazhak", "Kerîm", "Mihemed"]
+    },
 	// City-States
     {
 		"name": "Belgium",
@@ -389,6 +416,31 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [241,179,34],
 		"cities": ["Harare"]
+	},
+	{
+		"name": "New Zealand",
+		"adjective": ["New Zealander","Kiwi"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "After thorough deliberation, New Zealand finds itself at a crossroads. Prepare yourself, for war is upon us.",
+		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [68, 77, 126],
+		"cities": ["Wellington","Auckland"]
+	},
+	{
+		"name": "Qatar",
+		"adjective": ["Qatari"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your country!",
+		"attacked": "Why do we fight? Because Allah demands it. Now, witness the power of Qatar!",
+		"defeated": "What treachery has struck us? No, what evil?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [151, 35, 82],
+		"cities": ["Doha"],
 	},
 
 ]
