@@ -57,6 +57,7 @@
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
+	// Great improvements
 	{
 		"name": "Industrial Complex",
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -69,9 +70,9 @@
 		"name": "Suburb",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 1,
-		"happiness": 1,
+		"happiness": 2,
 		"techRequired": "Specialised Construction",
-		"uniques": ["Great Improvement","[+1 Happiness] for each adjacent [City center]","[+1 Food] for each adjacent [Farm]", "Will not be replaced by automated units",
+		"uniques": ["Great Improvement","[+2 Happiness] for each adjacent [City center]","[+1 Food] for each adjacent [Farm]", "Will not be replaced by automated units",
             "Removes removable features when built", "Pillaging this improvement yields approximately [+15 Gold]"]
 	},
   
