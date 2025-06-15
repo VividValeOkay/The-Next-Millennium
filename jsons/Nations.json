@@ -51,6 +51,7 @@
         "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
 		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+	      	"denounced": "Shut up, I do not care...",
 		"introduction": "Welcome to the Russian Federation...",
 		"neutralHello": "Hello!",
 		"hateHello": "What do you need?!",
@@ -77,6 +78,7 @@
                 "declaringWar": "I will destroy who ever wants to devide the people of China!",
 		"attacked": "Fools think they can take down China?",
 		"defeated": "China may have fallen, but the people will never accept defeat.",
+		"denounced": "Are you threatening us!?",
 		"introduction": "Welcome to the People's Republic of China.",
 		"neutralHello": "How are you today?",
 		"hateHello": "Oh. It's you?",
@@ -282,6 +284,34 @@
 		           "Şanlıurfa","Adapazarı","Malatya","Kahramanmaraş","Erzurum","Van","Batman","Elazığ","İzmit","Manisa","Sivas","Gebze","Balıkesir",
 		           "Tarsus","Kütahya","Trabzon","Çorum","Çorlu","Adıyaman","Osmaniye","Kırıkkale","Antakya","Aydın","İskenderun","Uşak","Gölcük"],
         "spyNames": ["Alim", "Boran", "İkranur", "Kader", "Mert Yıldız", "Pembe", "Süleyman", "Khazhak", "Kerîm", "Mihemed"]
+    },
+    {
+		"name": "Indonesia",
+		"leaderName": "Kartini",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast","Jungle"],
+		"personality": "Indo",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Indonesia to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "Before this war ends, you will know the fury of a thousand battleships.",
+		"attacked": "Truly? Didn't you know the Indonesian navy puts monsoons to shame? Soon you will.",
+		"defeated": "You may win, but you cannot win upon my spirit.",
+	    	"denounced": "You call that an insult? A pathetic attempt from a crusted barnacle!",
+		"introduction": "Welcome to the Republic of Indonesia.",
+		"neutralHello": "Good days!",
+		"hateHello": "Uhm?",
+		"tradeRequest": "What if we make a deal, you and me?",
+
+        "outerColor": [101,211,220],
+        "innerColor": [167,52,31],
+
+		"uniqueName": "Bhinneka Tunggal Ika",
+		"cities": ["Jakarta","Surabaya","Bekasi","Bandung","Medan","Depok","Tangerang","Palembang","Semarang","Makassar","South Tangerang","Batam","Bogor",
+		           "Pekanbaru","Bandar Lampung","Padang","Samarinda","Malang","Tasikmalaya","Serang","Balikpapan","Banjarmasin","Pontianak","Denpasar",
+		           "Jambi","Cimahi","Surakarta","Kupang","Manado","Mataram","Jayapura","Bengkulu","Palu","Ambon","Kendari","Palangka Raya","Banda Aceh"],
+        "spyNames": ["Abdullah", "Indah", "Iskandar", "Rahmawati", "Nizar", "Taufik", "Zakaria", "Rustam", "Suhaila"]
     },
 	// City-States
     {
