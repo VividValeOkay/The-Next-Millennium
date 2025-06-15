@@ -313,6 +313,34 @@
 		           "Jambi","Cimahi","Surakarta","Kupang","Manado","Mataram","Jayapura","Bengkulu","Palu","Ambon","Kendari","Palangka Raya","Banda Aceh"],
         "spyNames": ["Abdullah", "Indah", "Iskandar", "Rahmawati", "Nizar", "Taufik", "Zakaria", "Rustam", "Suhaila"]
     },
+    {
+		"name": "Nigeria",
+		"leaderName": "Segun Afolayan",
+		"adjective": ["Nigerian"],
+		"startBias": ["Plains"],
+		"personality": "Nigerian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Nigeria to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "Your ingnorance of where our borders lay is a sign of agression, so we must got to war.",
+		"attacked": "Enough! My forbearance ends here! We must have war between us, instead of a false peace.",
+		"defeated": "Wealth is fleeting; learning is vanity. All I have done, God, I did in your name.",
+	    	"denounced": "What you say is completely wrong of our reality, you are the one to be judged...",
+		"introduction": "Welcome to the Federal Republic of Nigeria!",
+		"neutralHello": "Hello!",
+		"hateHello": "What?",
+		"tradeRequest": "We always have time to trade, now is a great time!",
+
+        "outerColor": [0,135,81],
+        "innerColor": [255,255,255],
+
+		"uniqueName": "Unity and Faith, Peace and Progress",
+		"cities": ["Abuja","Lagos","Kano","Ibadan","Benin City","Port Harcourt","Aba","Jos","Ilorin","Kaduna","Zaria","Ogbomosho","Warri","Ikorodu",
+		           "Maiduguri","Ife","Bauchi","Akure","Abeokuta","Uyo","Oyo","Sokoto","Owerri","Yola","Calabar","Umuahia","Ondo","Minna","Lafia",
+		           "Okene","Katsina","Ikeja","Ado Ekiti","Awka","Makurdi","Gombe","Gusau","Osogbo","Jalingo","Abakaliki","Asaba","Nigeria"],
+        "spyNames": ["Abeni", "Abiodun", "Abubakar", "Adanna", "Chibuike", "Emeka", "Folasade", "Sani", "Joe"]
+    },
 	// City-States
     {
 		"name": "Belgium",
