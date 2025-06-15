@@ -7,10 +7,10 @@
 {
 		//nations
 		"name": "The United States",
-		"leaderName": "Donald Trump",
+		"leaderName": "Noah Smith",
 		"adjective": ["American"],
 		"startBias": ["Grassland"],
-		"personality": "Trump",
+		"personality": "American",
 
 		"startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
 		"startIntroPart2": "It is now your time to lead us to this new future. Will you lead the United States to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
@@ -39,10 +39,10 @@
 	},
   {
 		"name": "Russia",
-		"leaderName": "Vladimir Putin",
+		"leaderName": "Nikolai Aleksandrov",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
-		"personality": "Putin",
+		"personality": "Russian",
 
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
@@ -51,7 +51,7 @@
         "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
 		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "Welcome to the Russian Federation. And I am their president Vladimir Putin",
+		"introduction": "Welcome to the Russian Federation...",
 		"neutralHello": "Hello!",
 		"hateHello": "What do you need?!",
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
@@ -66,9 +66,9 @@
     },
 {
 		"name": "China",
-		"leaderName": "Xi Jinping",
+		"leaderName": "Cheng Xiao",
 		"adjective": ["Chinese"],
-		"personality": "Jinping",
+		"personality": "Chinese",
 	        "startBias": ["Grassland"],
 
                 "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
@@ -77,7 +77,7 @@
                 "declaringWar": "I will destroy who ever wants to devide the people of China!",
 		"attacked": "Fools think they can take down China?",
 		"defeated": "China may have fallen, but the people will never accept defeat.",
-		"introduction": "Welcome to the People's Republic of China. And I am their president Xi Jinping.",
+		"introduction": "Welcome to the People's Republic of China.",
 		"neutralHello": "How are you today?",
 		"hateHello": "Oh. It's you?",
 		"tradeRequest": "My friend, do you think you can accept this request?",
@@ -92,9 +92,9 @@
 }
 {
 		"name": "Germany",
-		"leaderName": "Friedrich Merz",
+		"leaderName": "Dietlinde Meinhardt",
 		"adjective": ["German"],
-		"personality": "Merz",
+		"personality": "German",
 	        "startBias": ["Avoid [Arid]"],
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
@@ -103,7 +103,7 @@
                 "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
 		"attacked": "Corrupted villain! We will bring you into the ground!",
 		"defeated": "Germany has been destroyed once again. I weep for the future generations.",
-		"introduction": "Welcome to the Federal Republic of Germany. And I am their chancellor Friedrich Merz.",
+		"introduction": "Welcome to the Federal Republic of Germany.",
 		"neutralHello": "What now?",
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
@@ -120,10 +120,10 @@
     },
     {
 		"name": "The United Kingdom",
-		"leaderName": "Keir Starmer",
+		"leaderName": "Olivia Wilson",
 		"adjective": ["British","English"],
 		"startBias": ["Coast"],
-		"personality": "Starmer",
+		"personality": "British",
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
         "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Britian to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
@@ -131,7 +131,7 @@
         "declaringWar": "By the grace of God, your days are numbered.",
 		"attacked": "We shall never surrender.",
 		"defeated": "You have triumphed over us. The day is yours.",
-		"introduction": "Welcome to the United Kingdom of Great Britain and Northern Ireland. And I am their prime minister, Sir Keir Rodney Starmer.",
+		"introduction": "Welcome to the United Kingdom of Great Britain and Northern Ireland!",
 		"neutralHello": "Hello, again.",
 		"hateHello": "Oh, it's you!",
 		"tradeRequest": "Would you be interested in a trade agreement with Britian?",
@@ -145,10 +145,10 @@
     },
 	{
 		"name": "Iran",
-		"leaderName": "Ali Khamenei",
+		"leaderName": "Behnam Shah",
 		"adjective": ["Iranian","Persian"],
 		"startBias": ["Arid"]
-		"personality": "Khamenei",
+		"personality": "Persian",
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
         "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Iran to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
@@ -156,7 +156,7 @@
         "declaringWar": "The Allah stands with us, while you stand alone...",
 		"attacked": "Curse you! You are beneath me, son of a driver! I will crush you!",
 		"defeated": "You mongrel! Cursed be you! The world will long lament your heinous crime!",
-		"introduction": "Welcome to the Islamic Republic of Iran. And I am Ali Khamenei, the supreme leadership authority",
+		"introduction": "Welcome to the Islamic Republic of Iran.",
 		"neutralHello": "Good day to you!",
 		"hateHello": "Ahh... you...",
 		"tradeRequest": "In my endless magnanimity, I am making you this offer. You agree, of course?",
@@ -176,10 +176,10 @@
     },
     {
 		"name": "Brazil",
-		"leaderName": "Luiz Inácio Lula da Silva",
+		"leaderName": "Brayan Nogueira",
 		"adjective": ["Brazilian"],
 		"startBias": ["Coast","Jungle"],
-		"personality": "Lula",
+		"personality": "Brazilian",
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
         "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Brasil to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
@@ -202,10 +202,10 @@
     },
     {
 		"name": "Japan",
-		"leaderName": "Shigeru Ishiba",
+		"leaderName": "Mei Takeda",
 		"adjective": ["Japanese"],
 		"startBias": ["Coast","Grassland"],
-		"personality": "Ishiba",
+		"personality": "Japanese",
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
         "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Japan to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
@@ -214,7 +214,7 @@
 		"attacked": "We would never surrender our homeland to you, so we must fight!",
 		"defeated": "You were much wiser than I thought.",
 		"denounced": "Alright then. I trust you've thought it through.",
-		"introduction": "Welcome to Japan. And I am their prime minister, Shigeru Ishiba.",
+		"introduction": "Welcome to Japan, I hope you enjoy your stay!",
 		"neutralHello": "Hello.",
 		"hateHello": "Oh, it's you...",
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
@@ -229,10 +229,10 @@
     },
 	{
 		"name": "India",
-		"leaderName": "Narendra Modi",
+		"leaderName": "Lakshman Mishra",
 		"adjective": ["Indian"],
 		"startBias": ["Plains"],
-		"personality": "Modi",
+		"personality": "Indian",
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
         "startIntroPart2": "It is now your time to lead us to this new future. Will you lead India to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
@@ -241,7 +241,7 @@
 		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
 		"defeated": "You can chain me, you can torture me, you can even destroy this body, but you will never imprison my mind.",
 		"denounced": "You will regret this, greatly...",
-		"introduction": "Welcome to the Indian republic. And I am Prime Minister Narendra Modi.",
+		"introduction": "Welcome to the Indian republic.",
 		"neutralHello": "I wish you peace.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "My friend, are you interested in this arrangement?",
@@ -258,10 +258,10 @@
     },
     {
 		"name": "Turkiye",
-		"leaderName": "Recep Tayyip Erdoğan",
+		"leaderName": "Eymen Koç",
 		"adjective": ["Turkish","Turk"],
 		"startBias": ["Arid","Plains"],
-		"personality": "Erdoğan",
+		"personality": "Turkish",
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
         "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Turkey to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
@@ -269,7 +269,7 @@
         "declaringWar": "Your continued insolence and failure to recognize our preeminence leads us to war.",
 		"attacked": "Good. The world shall witness the incontestable might of my armies and the glory of our nation.",
 		"defeated": "Ruin! Ruin! Ankara becomes Iram of the Pillars, remembered only by the melancholy poets.",
-		"introduction": "Welcome to the Republic of Türkiye. And I'm its President Recep Tayyip Erdoğan.",
+		"introduction": "Welcome to the Republic of Türkiye. Bugün nasılsın?",
 		"neutralHello": "Selamlar!",
 		"hateHello": "What do you want?",
 		"tradeRequest": "Let us do business! Would you be interested?",
