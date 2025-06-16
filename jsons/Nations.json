@@ -527,7 +527,7 @@
 	{
 		"name": "Mexico",
 		"adjective": ["Mexican"],
-		"cityStateType": "Cultural",
+		"cityStateType": "Cultured",
 
 		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
 		"attacked": "Very well, this shall not be forgotten.",
