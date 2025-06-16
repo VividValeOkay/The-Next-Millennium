@@ -383,9 +383,9 @@
 		"adjective": ["Filipino","Pinoy"],
 		"cityStateType": "Maritime",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"declaringWar": "You must shatter the vase to spread its perfume, and smite the rock to get the spark.",
+		"attacked": "We do not sleep; we wait for you with fire in our hearts and weapons in our hands.",
+		"defeated": "Consummatum est...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [113, 227, 114],
 		"cities": ["Manila"]
@@ -499,6 +499,42 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [151, 35, 82],
 		"cities": ["Doha"],
+	},
+	{
+		"name": "Australia",
+		"adjective": ["Australian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, for war is upon us.",
+		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [51, 97, 242],
+		"cities": ["Canberra"]
+	},
+	{
+		"name": "Canada",
+		"adjective": ["Canadian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"defeated": "I regret not defending my country to the last, although it was not of use.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [193, 84, 255],
+		"cities": ["Ottawa"],
+	},
+	{
+		"name": "Mexico",
+		"adjective": ["Mexican"],
+		"cityStateType": "Cultural",
+
+		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I regret not defending my country to the last, although it was not of use.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0, 104, 71],
+		"cities": ["Mexico City"],
 	},
 
 ]
