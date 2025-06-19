@@ -73,6 +73,14 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Advanced Economics"
 	},
+	{
+		"name": "Robotics Lab",
+		"science": 3,
+		"percentStatBonus": {"science": 50},
+		"specialistSlots": {"Scientist": 1},
+		"maintenance": 1,
+		"requiredTech": "Robotic Science"
+	},
 	// City Development
 	  {
 		"name": "Basic City Developments",
