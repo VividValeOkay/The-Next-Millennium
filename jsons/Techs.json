@@ -176,4 +176,53 @@
 			},
 		]
 	}
+		{
+		"columnNumber": 4,
+		"era": "21st Century",
+		"techCost": 100,
+		"buildingCost": 140,
+		"wonderCost": 290,
+		"techs": [
+			{
+				"name": "Artificial Intelligence II",
+				"row": 1,
+				"prerequisites": ["Artificial Intelligence"],
+				"uniques": ["[+2 Science] per [12] population [in capital]"],
+				"quote": "'I do think there should be some regulations on AI.' - Elon Musk"
+			},
+			{
+				"name": "Advanced Culture III",
+				"row": 4,
+				"prerequisites": ["Advanced Culture II"],
+				"uniques": ["[+15]% [Culture] [in all cities]"],
+				"quote": "'A people without the knowledge of their past history, origin and culture is like a tree without roots.' - Marcus Garvey"
+			},
+			{
+				"name": "Fabrication III",
+				"row": 6,
+				"prerequisites": ["Fabrication II"],
+				"uniques": ["[+1 Production] from all [Factory] buildings"],
+				"quote": "'I used to work in a fire hydrant factory. You couldn't park anywhere near the place.' - Steven Wright"
+			},
+			{
+				"name": "Digital Money",
+				"row": 9,
+				"prerequisites": ["Advanced Economics II"],
+				"quote": "'Government's view of the economy could be summed up in a few short phrases: If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.' - Ronald Reagan"
+			},
+			{
+				"name": "Infantry Improvement",
+				"row": 12,
+				"prerequisites": ["Better Land Transport"],
+				"quote": "'I really do encourage other manufacturers to bring electric cars to market. It's a good thing, and they need to bring it to market and keep iterating and improving and make better and better electric cars, and that's what going to result in humanity achieving a sustainable transport future. I wish it was growing faster than it is.' - Elon Musk.",
+			},
+			{
+				"name": "Tank Improvement",
+				"row": 14,
+				"prerequisites": ["Reactive Armour"],
+				"uniques": ["[+15]% Strength <when defending> <for [Heavy Armor] units>"],
+				"quote": "'Reactive armour is a type of vehicle armour used in protecting vehicles, especially modern tanks, against shaped charges and hardened kinetic energy penetrators. The most common type is explosive reactive armour, but variants include self-limiting explosive reactive armour, non-energetic reactive armour, non-explosive reactive armour, and electric armour.' - Wikipedia.",
+			},
+		]
+	}
 ]
