@@ -184,10 +184,9 @@
 		"wonderCost": 290,
 		"techs": [
 			{
-				"name": "Artificial Intelligence II",
+				"name": "Robotic Science",
 				"row": 1,
 				"prerequisites": ["Artificial Intelligence"],
-				"uniques": ["[+2 Science] per [12] population [in capital]"],
 				"quote": "'I do think there should be some regulations on AI.' - Elon Musk"
 			},
 			{
