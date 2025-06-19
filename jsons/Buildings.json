@@ -89,6 +89,14 @@
 		"requiredBuilding": "Basic City Developments",
 		"uniques": ["[+1 Gold] per [8] population [in this city]","[+1 Production] per [8] population [in this city]","[-10]% Culture cost of natural border growth [in this city]"]
 	},
+	{
+		"name": "Hospital",
+		"food": 4
+		"happiness": 1,
+		"maintenance": 2,
+		"cost": 150,
+		"requiredTech": "Biology"
+	},
 
 	// Great Improvement buildings
 
