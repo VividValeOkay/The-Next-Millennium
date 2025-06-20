@@ -187,33 +187,33 @@
 				"name": "Robotic Science",
 				"row": 1,
 				"prerequisites": ["Artificial Intelligence"],
-				"quote": "'I do think there should be some regulations on AI.' - Elon Musk"
+				"quote": "'I visualize a time when we will be to robots what dogs are to humans, and I'm rooting for the machines.' - Claude Shannon"
 			},
 			{
 				"name": "Advanced Culture III",
 				"row": 4,
 				"prerequisites": ["Advanced Culture II"],
 				"uniques": ["[+15]% [Culture] [in all cities]"],
-				"quote": "'A people without the knowledge of their past history, origin and culture is like a tree without roots.' - Marcus Garvey"
+				"quote": "'Without memory, there is no culture. Without memory, there would be no civilization, no society, no future.' - Elie Wiesel"
 			},
 			{
 				"name": "Fabrication III",
 				"row": 6,
 				"prerequisites": ["Fabrication II"],
 				"uniques": ["[+1 Production] from all [Factory] buildings"],
-				"quote": "'I used to work in a fire hydrant factory. You couldn't park anywhere near the place.' - Steven Wright"
+				"quote": "'The man who builds a factory builds a temple, that the man who works there worships there, and to each is due, not scorn and blame, but reverence and praise.' - Calvin Coolidge"
 			},
 			{
 				"name": "Healthcare",
 				"row": 9,
 				"prerequisites": ["Advanced Economics II"],
-				"quote": "'Government's view of the economy could be summed up in a few short phrases: If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.' - Ronald Reagan"
+				"quote": "'He who has health, has hope; and he who has hope, has everything.' - Thomas Carlyle"
 			},
 			{
 				"name": "Infantry Improvement",
 				"row": 12,
 				"prerequisites": ["Better Land Transport"],
-				"quote": "'I really do encourage other manufacturers to bring electric cars to market. It's a good thing, and they need to bring it to market and keep iterating and improving and make better and better electric cars, and that's what going to result in humanity achieving a sustainable transport future. I wish it was growing faster than it is.' - Elon Musk.",
+				"quote": "'The best weapon against an enemy is another enemy.' - Friedrich Nietzsche",
 			},
 			{
 				"name": "Tank Improvement",
