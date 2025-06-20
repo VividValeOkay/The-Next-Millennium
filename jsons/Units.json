@@ -44,10 +44,12 @@
 	{
 		"name": "Basic Armor",
 		"unitType": "Heavy Armor",
-		"movement": 4,
+		"movement": 3,
 		"strength": 16,
 		"cost": 70,
+		"obsoleteTech": "Modern Tank Design",
 		"requiredTech": "Tank Design",
+		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
@@ -82,6 +84,8 @@
 		"movement": 3,
 		"strength": 16,
 		"cost": 70,
+		"obsoleteTech": "Modern Tank Design",
+		"upgradesTo": "Modern Armor",
 		"requiredTech": "Tank Design",
 		"requiredResource": "Steel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
@@ -95,7 +99,9 @@
 		"movement": 3,
 		"strength": 17,
 		"cost": 75,
+		"obsoleteTech": "Modern Tank Design",
 		"requiredTech": "Tank Design",
+		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
@@ -108,7 +114,9 @@
 		"movement": 3,
 		"strength": 16,
 		"cost": 75,
+		"obsoleteTech": "Modern Tank Design",
 		"requiredTech": "Tank Design",
+		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
@@ -121,7 +129,9 @@
 		"movement": 3,
 		"strength": 15,
 		"cost": 75,
+		"obsoleteTech": "Modern Tank Design",
 		"requiredTech": "Tank Design",
+		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
@@ -134,7 +144,9 @@
 		"movement": 3,
 		"strength": 16,
 		"cost": 70,
+		"obsoleteTech": "Modern Tank Design",
 		"requiredTech": "Tank Design",
+		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
@@ -170,6 +182,17 @@
 		"strength": 14,
 		"cost": 78,
 		"requiredTech": "Better Land Transport",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Modern Armor",
+		"unitType": "Heavy Armor",
+		"movement": 3,
+		"strength": 19,
+		"cost": 130,
+		"requiredTech": "Modern Tank Design",
+		"requiredResource": "Steel",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
