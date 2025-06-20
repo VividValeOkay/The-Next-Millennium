@@ -219,7 +219,6 @@
 				"name": "Modern Tank Design",
 				"row": 14,
 				"prerequisites": ["Reactive Armour"],
-				"uniques": ["[+15]% Strength <when defending> <for [Heavy Armor] units>"],
 				"quote": "'Reactive armour is a type of vehicle armour used in protecting vehicles, especially modern tanks, against shaped charges and hardened kinetic energy penetrators. The most common type is explosive reactive armour, but variants include self-limiting explosive reactive armour, non-energetic reactive armour, non-explosive reactive armour, and electric armour.' - Wikipedia.",
 			},
 		]
