@@ -341,6 +341,34 @@
 		           "Okene","Katsina","Ikeja","Ado Ekiti","Awka","Makurdi","Gombe","Gusau","Osogbo","Jalingo","Abakaliki","Asaba","Nigeria"],
         "spyNames": ["Abeni", "Abiodun", "Abubakar", "Adanna", "Chibuike", "Emeka", "Folasade", "Sani", "Joe"]
     },
+{
+		"name": "Poland",
+		"leaderName": "Nikodem Rudawski",
+		"adjective": ["Polish"],
+		"startBias": ["Forest"],
+		"personality": "Polish",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Poland to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "I must protect the interests of Poland. Surrender quickly so that this may end without bloodshed...",
+		"attacked": "My armies will grind you to dust!",
+		"defeated": "Poland is not yet lost..!",
+	    	"denounced": "You think you're so brave?",
+		"introduction": "Welcome to the Republic of Poland. Care for some vodka?",
+		"neutralHello": "I salute you.",
+		"hateHello": "What are you looking for here?",
+		"tradeRequest": "How do you like my offer?",
+
+        "outerColor": [255,255,255],
+        "innerColor": [245,129,120],
+
+		"uniqueName": "Mazurek Dąbrowskiego",
+		"cities": ["Warsaw","Kraków","Wrocław","Łódź","Poznań","Gdańsk","Szczecin","Lublin","Bydgoszcz","Białystok","Katowice","Gdynia","Częstochowa","Radom",
+		           "Rzeszów","Toruń","Sosnowiec","Kielce","Gliwice","Olsztyn","Zabrze","Bielsko-Biała","Bytom","Zielona Góra","Rybnik","Ruda Śląska",
+		           "Elbląg","Opole","Tychy","Gorzów Wielkopolski","Dąbrowa Górnicza","Płock","Wałbrzych","Włocławek","Tarnów","Chorzów","Poland"],
+        "spyNames": ["Antoni", "Jan", "Aleksander", "Leon", "Franciszek", "Fasola", "Ignacy", "Stanisław", "Mikołaj"]
+    },
 	// City-States
     {
 		"name": "Belgium",
