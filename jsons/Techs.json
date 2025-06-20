@@ -216,7 +216,7 @@
 				"quote": "'The best weapon against an enemy is another enemy.' - Friedrich Nietzsche",
 			},
 			{
-				"name": "Tank Improvement",
+				"name": "Modern Tank Design",
 				"row": 14,
 				"prerequisites": ["Reactive Armour"],
 				"uniques": ["[+15]% Strength <when defending> <for [Heavy Armor] units>"],
