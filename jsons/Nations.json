@@ -360,8 +360,8 @@
 		"hateHello": "What are you looking for here?",
 		"tradeRequest": "How do you like my offer?",
 
-        "outerColor": [255,255,255],
-        "innerColor": [245,129,120],
+        "outerColor": [246,104,93],
+        "innerColor": [255,255,255],
 
 		"uniqueName": "Mazurek Dąbrowskiego",
 		"cities": ["Warsaw","Kraków","Wrocław","Łódź","Poznań","Gdańsk","Szczecin","Lublin","Bydgoszcz","Białystok","Katowice","Gdynia","Częstochowa","Radom",
