@@ -16,11 +16,11 @@
 		"startIntroPart2": "It is now your time to lead us to this new future. Will you lead the United States to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
 
 		"declaringWar": "Prepare to be liberated!!",
-		"attacked": "Oh well, I presume you know what you're doing.",
+		"attacked": "We will remember this, this attack on the western world..!",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
 		"introduction": "Welcome to the United States of America!",
 
-		"neutralHello": "Greetings.",
+		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
@@ -49,8 +49,8 @@
         "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Russia to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
 
         "declaringWar": "You've behaved yourself very badly, you know it. Now it's payback time.",
-		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
-		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"attacked": "If you Western Imperialist want war, then come fight us, we'll be waiting with parade uniforms!",
+		"defeated": "We were defeated, so comes the collapse of Russia. I suppose there are no worse fates...",
 	      	"denounced": "Shut up, I do not care...",
 		"introduction": "Welcome to the Russian Federation...",
 		"neutralHello": "Hello!",
@@ -94,7 +94,7 @@
 }
 {
 		"name": "Germany",
-		"leaderName": "Dietlinde Meinhardt",
+		"leaderName": "Dietlind Meinhardt",
 		"adjective": ["German"],
 		"personality": "German",
 	        "startBias": ["Avoid [Arid]"],
@@ -189,7 +189,7 @@
                 "declaringWar": "God will probably forgive you... but I shall not. Prepare for war.",
 		"attacked": "You don't come for Brasil... Brasil comes for you!!",
 		"defeated": "Brazil will go down in history as the strongest nation in South America..!",
-		"introduction": "Welcome to the Federative Republic of Brasil. And I am president Lula.",
+		"introduction": "Welcome to the Federative Republic of Brasil.",
 		"neutralHello": "Greetings.",
 		"hateHello": "Well?",
 		"tradeRequest": "I hope this deal will receive your blessing.",
