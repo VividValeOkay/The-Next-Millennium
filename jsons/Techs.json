@@ -66,9 +66,9 @@
 	{
 		"columnNumber": 2,
 		"era": "21st Century",
-		"techCost": 55,
-		"buildingCost": 85,
-		"wonderCost": 200,
+		"techCost": 75,
+		"buildingCost": 100,
+		"wonderCost": 220,
 		"techs": [
 			  {
 				"name": "Steel Working",
@@ -130,8 +130,8 @@
 	{
 		"columnNumber": 3,
 		"era": "21st Century",
-		"techCost": 65,
-		"buildingCost": 100,
+		"techCost": 90,
+		"buildingCost": 125,
 		"wonderCost": 240,
 		"techs": [
 			{
@@ -179,9 +179,9 @@
 		{
 		"columnNumber": 4,
 		"era": "21st Century",
-		"techCost": 100,
-		"buildingCost": 140,
-		"wonderCost": 290,
+		"techCost": 150,
+		"buildingCost": 170,
+		"wonderCost": 350,
 		"techs": [
 			{
 				"name": "Robotic Science",
