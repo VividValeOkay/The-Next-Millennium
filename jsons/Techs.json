@@ -193,7 +193,6 @@
 				"name": "Advanced Culture III",
 				"row": 4,
 				"prerequisites": ["Advanced Culture II"],
-				"uniques": ["[+15]% [Culture] [in all cities]"],
 				"quote": "'Without memory, there is no culture. Without memory, there would be no civilization, no society, no future.' - Elie Wiesel"
 			},
 			{
