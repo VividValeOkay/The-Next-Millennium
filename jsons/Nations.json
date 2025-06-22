@@ -369,6 +369,34 @@
 		           "Elbląg","Opole","Tychy","Gorzów Wielkopolski","Dąbrowa Górnicza","Płock","Wałbrzych","Włocławek","Tarnów","Chorzów","Poland"],
         "spyNames": ["Antoni", "Jan", "Aleksander", "Leon", "Franciszek", "Fasola", "Ignacy", "Stanisław", "Mikołaj"]
     },
+	{
+		"name": "Spain",
+		"leaderName": "Mateo Pineda",
+		"adjective": ["Spanish"],
+		"startBias": ["Plains"],
+		"personality": "Spanish",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Spain to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "God will probably forgive you... but I shall not. Prepare for war.",
+		"attacked": "Repugnant spawn of the devil! You will pay!",
+		"defeated": "If my defeat is, without any doubt, the will of God, then I will accept it.",
+	    	"denounced": "Your words are terrible! Who comes up with such lies?",
+		"introduction": "Welcome to the Kingdom of Spain!",
+		"neutralHello": "Greetings.",
+		"hateHello": "Tonto...",
+		"tradeRequest": "I hope this deal will receive your blessing.",
+
+        "outerColor": [84,26,26],
+        "innerColor": [255,168,168],
+
+		"uniqueName": "Plus Ultra",
+		"cities": ["Madrid","Barcelona","Valencia","Seville","Zaragoza","Málaga","Murcia","Palma","Las Palmas","Bilbao","Alicante","Córdoba","Valladolid",
+		           "Vigo","Gijón","L'Hospitalet","Vitoria-Gasteiz","A Coruña","Elche","Granada","Terrassa","Badalona","Oviedo","Cartagena",
+		           "Sabadell","Jerez","Móstoles","Santa Cruz","Pamplona","Almería","Alcalá de Henares","León","Spain"],
+        "spyNames": ["Alejandro", "Daniel", "Juárez", "Senor Calvo", "Lucia", "Marta", "Cristina", "Pablo", "Sergio"]
+    },
 	// City-States
     {
 		"name": "Belgium",
@@ -563,6 +591,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0, 104, 71],
 		"cities": ["Mexico City"],
+	},
+	{
+		"name": "Portugal",
+		"adjective": ["Portuguese"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "I have declared war against you. I did not want to do this, but I don't want you around anymore, either.",
+		"attacked": "What have I done to offend you so? Oh well, it is too late to fix this mistake. How regrettable, that we must go to war.",
+		"defeated": "I am told that you are the conqueror of Portugal. That may be the reality, but I will never recognize your victory. Begone!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [239,14,25],
+		"cities": ["Lisbon"],
 	},
 
 ]
