@@ -174,6 +174,13 @@
 				"uniques": ["[+15]% Strength <when defending> <for [Heavy Armor] units>"],
 				"quote": "'Reactive armour is a type of vehicle armour used in protecting vehicles, especially modern tanks, against shaped charges and hardened kinetic energy penetrators. The most common type is explosive reactive armour, but variants include self-limiting explosive reactive armour, non-energetic reactive armour, non-explosive reactive armour, and electric armour.' - Wikipedia.",
 			},
+			{
+				"name": "Construction II",
+				"row": 16,
+				"prerequisites": ["Specialised Construction"],
+				"uniques": ["[+1 Happiness] <in [Suburb] tiles>","[+1 Production] <in [Industrial Complex] tiles>"],
+				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+			}
 		]
 	}
 		{
@@ -212,6 +219,7 @@
 				"name": "Infantry Improvement",
 				"row": 12,
 				"prerequisites": ["Better Land Transport"],
+				"uniques": ["[+15]% Strength <for [Rifle] units>"],
 				"quote": "'The best weapon against an enemy is another enemy.' - Friedrich Nietzsche",
 			},
 			{
@@ -220,6 +228,12 @@
 				"prerequisites": ["Reactive Armour"],
 				"quote": "'Reactive armour is a type of vehicle armour used in protecting vehicles, especially modern tanks, against shaped charges and hardened kinetic energy penetrators. The most common type is explosive reactive armour, but variants include self-limiting explosive reactive armour, non-energetic reactive armour, non-explosive reactive armour, and electric armour.' - Wikipedia.",
 			},
+			{
+				"name": "Specialised Construction II",
+				"row": 16,
+				"prerequisites": ["Construction II"],
+				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+			}
 		]
 	}
 ]
