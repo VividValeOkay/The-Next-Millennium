@@ -113,6 +113,14 @@
 		"hurryCostModifier": 0,
 		"requiredTech": "Advanced Culture III",
 	},
+	{
+		"name": "Motor Parts Manufactory",
+    "production": 1,
+		"cost": 90,
+		"uniques": ["Provides [2] [Motor Parts]"],
+		"requiredResource": "Steel",
+		"requiredTech": "Tank Design",
+	},
 
 	// Great Improvement buildings
 
