@@ -397,6 +397,34 @@
 		           "Sabadell","Jerez","Móstoles","Santa Cruz","Pamplona","Almería","Alcalá de Henares","León","Spain"],
         "spyNames": ["Alejandro", "Daniel", "Juárez", "Senor Calvo", "Lucia", "Marta", "Cristina", "Pablo", "Sergio"]
     },
+{
+		"name": "South Africa",
+		"leaderName": "Nolene Pretorius",
+		"adjective": ["South African"],
+		"startBias": ["Plains","Avoid [Tundra]"],
+		"personality": "South African",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead South Africa to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "You annoy us... prepare to be invaded.",
+		"attacked": "Your war won't solve anything..!",
+		"defeated": "What happened to our nation of South Africa? What could have done this...",
+	    	"denounced": "Yeah, sure...",
+		"introduction": "Welcome to the Republic of South Africa.",
+		"neutralHello": "Good morning!",
+		"hateHello": "What?",
+		"tradeRequest": "We'll trade our goods, as long as its a good trade. Ha! ...get it?",
+
+        "outerColor": [219,133,13],
+        "innerColor": [255,255,255],
+
+		"uniqueName": "ke e: ǀxarra ǁke",
+		"cities": ["Bloemfontein","Cape Town","Pretoria","Durban","Johannesburg","Soweto","Port Elizabeth","Pietermaritzburg","Benoni","Tembisa","East London",
+		           "Vereeniging","Boksburg","Welkom","Newcastle","Krugersdorp","Diepsloot","Randburg","Botshabelo","Brakpan","Witbank","Richards Bay",
+		           "Vanderbijlpark","Centurion","Uitenhage","Roodepoort","Paarl","Springs","Carletonville","Klerksdorp","Midrand","Westonaria","South Africa"],
+        "spyNames": ["Lwandle", "Siyabonga", "Tjaart", "Marietjie", "Braam", "Omphile", "Theodore", "Henry", "Amelia"]
+    },
 	// City-States
     {
 		"name": "Belgium",
