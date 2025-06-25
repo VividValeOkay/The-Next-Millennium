@@ -51,7 +51,7 @@
 		"requiredTech": "Tank Design",
 		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -88,7 +88,7 @@
 		"upgradesTo": "Modern Armor",
 		"requiredTech": "Tank Design",
 		"requiredResource": "Steel",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -103,7 +103,7 @@
 		"requiredTech": "Tank Design",
 		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -118,7 +118,7 @@
 		"requiredTech": "Tank Design",
 		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -133,7 +133,7 @@
 		"requiredTech": "Tank Design",
 		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -148,7 +148,7 @@
 		"requiredTech": "Tank Design",
 		"upgradesTo": "Modern Armor",
 		"requiredResource": "Steel",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -158,7 +158,7 @@
 		"strength": 14,
 		"cost": 70,
 		"requiredTech": "Better Land Transport",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -170,7 +170,7 @@
 		"strength": 14,
 		"cost": 78,
 		"requiredTech": "Better Land Transport",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -182,7 +182,7 @@
 		"strength": 14,
 		"cost": 78,
 		"requiredTech": "Better Land Transport",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -193,7 +193,7 @@
 		"cost": 130,
 		"requiredTech": "Modern Tank Design",
 		"requiredResource": "Steel",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -205,7 +205,7 @@
 		"strength": 14,
 		"cost": 70,
 		"requiredTech": "Better Land Transport",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
 
