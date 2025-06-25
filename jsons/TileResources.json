@@ -43,10 +43,6 @@
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
 	{
-		"name": "Steel",
-		"resourceType": "Strategic",
-	},
-	{
 		"name": "Wheat",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland","Flood plains","Plains","Arid"], // Arid only if fresh water
@@ -102,6 +98,17 @@
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [Hilly] tiles>",
 					"Doesn't generate naturally <in [{Tundra} {Forest}] tiles>"]
+	},
+
+	// Civ made resources
+
+	{
+		"name": "Steel",
+		"resourceType": "Strategic",
+	},
+	{
+		"name": "Motor Parts WIP",
+		"resourceType": "Strategic",
 	},
 
 ]
