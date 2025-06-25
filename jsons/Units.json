@@ -196,5 +196,17 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Type 96 APC",
+		"unitType": "Light Armor",
+		"uniqueTo": "Japan",
+		"replaces": "Personnel Carrier",
+		"movement": 5,
+		"strength": 14,
+		"cost": 70,
+		"requiredTech": "Better Land Transport",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 
 ]
