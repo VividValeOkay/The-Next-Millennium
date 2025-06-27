@@ -87,7 +87,7 @@
 		"happiness": 1,
 		"maintenance": 2,
 		"cost": 150,
-		"requiredTech": "Healthcare"
+		"requiredTech": "Healthcare Improvements",
 	},
 	{
 		"name": "Museum",
