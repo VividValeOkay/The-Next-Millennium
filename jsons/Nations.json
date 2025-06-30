@@ -425,6 +425,33 @@
 		           "Vanderbijlpark","Centurion","Uitenhage","Roodepoort","Paarl","Springs","Carletonville","Klerksdorp","Midrand","Westonaria","South Africa"],
         "spyNames": ["Lwandle", "Siyabonga", "Tjaart", "Marietjie", "Braam", "Omphile", "Theodore", "Henry", "Amelia"]
     },
+{
+		"name": "Saudi Arabia",
+		"leaderName": "Khalifa bin Fadi Al Saud",
+		"adjective": ["Saudi","Saudi Arabian"],
+		"startBias": ["Arid"],
+		"personality": "Saudi Arabian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Saudi Arabia to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "I promise none of us will taste peace, until you concede.",
+		"attacked": "It's shameful that we turn to violence, for it is not the behaviour of kings to kill each other..!",
+		"defeated": "This is not victory. Victory is changing the hearts of your opponents, through gentleness, through kindness...",
+	    	"denounced": "Everyone is critical of the flaws of others, but blind to their own.",
+		"introduction": " As-salamu alaykum, Welcome to the Kingdom of Saudi Arabia.",
+		"neutralHello": "Peace be upon you!",
+		"hateHello": "Oh, it's you...",
+		"tradeRequest": "Come forth, let's do business.",
+
+        "outerColor": [43,88,46],
+        "innerColor": [146,221,10],
+
+		"uniqueName": "Lā ilāha illa allāh, Muḥammadun rasūlu allāh",
+		"cities": ["Riyadh","Jeddah","Mecca","Medina","Dammam","Hofuf","Taif","Tabuk","Buraydah","Khamis Mushayt","Al Jubayl","Hail","Najran","Hafr Al Batin",
+		           "Et Tukba","Abha","Al-Kharj","Yanbu","Al Khobar","Argali","Unayzah","Sakaki","El Hawiye","Jizan","Dhahran","Qatif","El Kurayyat"],
+        "spyNames": ["Muhammad Ali", "Nidal", "Qusay", "Abd al-Hadi", "Abd as-Salam", "Samiya", "Junaid", "Wahiba", "Imen"]
+    },
 	// City-States
     {
 		"name": "Belgium",
