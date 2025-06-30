@@ -247,6 +247,7 @@
 				"name": "Advanced Science",
 				"row": 1,
 				"prerequisites": ["Robotic Science"],
+				"uniques": ["[+8]% [Science] [in all cities]"],
 				"quote": "'I visualize a time when we will be to robots what dogs are to humans, and I'm rooting for the machines.' - Claude Shannon"
 			},
 			{
