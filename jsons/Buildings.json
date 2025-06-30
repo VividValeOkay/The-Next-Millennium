@@ -162,7 +162,15 @@
 		"hurryCostModifier": 40,
 		"requiredBuilding": "City Developments",
 		"requiredTech": "Specialised Construction II"
-		"uniques": ["Creates a [Landmark] improvement on a specific tile"]
+		"uniques": ["Creates a [Landmark] improvement on a specific tile"],
+	},
+		{
+		"name": "Build Corporation",
+		"cost": 240,
+		"hurryCostModifier": 40,
+		"requiredBuilding": "City Developments",
+		"requiredTech": "Specialised Construction II"
+		"uniques": ["Creates a [Corporation] improvement on a specific tile"],
 	},
 
 	
