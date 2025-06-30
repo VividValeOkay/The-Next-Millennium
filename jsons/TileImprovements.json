@@ -84,6 +84,15 @@
 		"uniques": ["Great Improvement","[+1 Happiness] for each adjacent [City center]","[+2 Culture] for each adjacent [unimproved]", "Will not be replaced by automated units",
             "Removes removable features when built", "Pillaging this improvement yields approximately [+30 Gold]"]
 	},
+	{
+		"name": "Corporation",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 1,
+		"gold": 2,
+		"techRequired": "Specialised Construction II",
+		"uniques": ["Great Improvement","[+1 Food] for each adjacent [City center]","[+3 Gold] for each adjacent [Luxury resource]", "Will not be replaced by automated units",
+            "Removes removable features when built", "Pillaging this improvement yields approximately [+30 Gold]"]
+	},
   
   
 ]
