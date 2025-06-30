@@ -156,6 +156,14 @@
 		"requiredTech": "Specialised Construction"
 		"uniques": ["Creates a [Suburb] improvement on a specific tile"]
 	},
+	{
+		"name": "Build Landmark",
+		"cost": 240,
+		"hurryCostModifier": 40,
+		"requiredBuilding": "City Developments",
+		"requiredTech": "Specialised Construction II"
+		"uniques": ["Creates a [Landmark] improvement on a specific tile"]
+	},
 
 	
 
