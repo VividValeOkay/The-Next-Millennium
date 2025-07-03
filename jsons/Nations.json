@@ -486,6 +486,34 @@
 		           "Phuket","Chiang Rai","Yala","Lampang","Mae Sot","Buriram"],
         "spyNames": ["Amporn", "Kamon", "Prasert", "Somchai", "Wattana", "Suchart", "Mongkut", "Sovann", "Farah"]
     },
+{
+		"name": "France",
+		"leaderName": "Louis Dubois",
+		"adjective": ["French"],
+		"startBias": ["Grassland"],
+		"personality": "French",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead France to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "You dare attack my sovereign nation? I don't believe even Napoleon could have predicted this!",
+		"defeated": "I have lived long enough to know when I am defeated. Carry on.",
+	    	"denounced": "The glory and might of France will not be tarnished by such obvious lies.",
+		"introduction": "Welcome to the French Republic!",
+		"neutralHello": "Hello.",
+		"hateHello": "It's you.",
+		"tradeRequest": "The French Republic offers you this exceptional proposition.",
+
+        "outerColor": [38,98,255],
+        "innerColor": [239,236,148],
+
+		"uniqueName": "Liberté, égalité, fraternité",
+		"cities": ["Paris","Marseille","Lyon","Toulouse","Nice","Nantes","Montpellier","Strasbourg","Bordeaux","Lille","Rennes","Reims","Toulon","Saint-Étienne","Le Havre",
+		           "Grenoble","Dijon","Angers","Saint-Denis","Villeurbanne","Nîmes","Clermont-Ferrand","Aix","Le Mans","Brest","Tours","Amiens","Limoges","Annecy",
+		           "Boulogne","Perpignan","Besançon","Orléans","Rouen","Montreuil","Nancy"],
+        "spyNames": ["Mrs. Petit", "Gabriel", "Raphaël", "Léo", "Louise", "Maël", "Adam", "Ambre", "Alba"]
+    },
 	// City-States
     {
 		"name": "Belgium",
