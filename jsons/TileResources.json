@@ -117,6 +117,24 @@
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hilly]>",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hilly]> <in tiles without [Tundra]>"]
 	},
+	{
+		"name": "Lithium",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Hilly","Forest","Jungle","Grassland","Tundra"],
+		"gold": 2,
+		"improvement": "Mine",
+		"uniques": ["Generated with weight [15] <in [Tundra] Regions>",
+					"Generated with weight [5] <in [Jungle] Regions>",
+					"Generated with weight [5] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Arid] Regions>",
+					"Generated with weight [30] <in [Hilly] Regions>",
+					"Generated with weight [20] <in [Grassland] Regions>",
+					"Generated with weight [20] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>",
+					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hilly]>",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hilly]> <in tiles without [Tundra]>"]
+	},
 
 	// Civ made resources
 
