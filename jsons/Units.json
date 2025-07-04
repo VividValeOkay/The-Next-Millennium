@@ -208,5 +208,19 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Jet Fighter",
+		"unitType": "Fighter",
+		"movement": 1,
+		"strength": 13,
+		"rangedStrength": 15,
+		"range": 10,
+		"interceptRange": 10,
+		"cost": 130,
+		"requiredTech": "Aerodynamics",
+		"requiredResource": "Steel",
+		"uniques": ["[100]% chance to intercept air attacks"],
+		"attackSound": "jetgun"
+	},
 
 ]
