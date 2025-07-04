@@ -135,6 +135,34 @@
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hilly]>",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hilly]> <in tiles without [Tundra]>"]
 	},
+	{
+		"name": "Deer",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Forest","Tundra"], // Tundra only if lowland
+		"food": 1,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [8] tiles <in [{Tundra} {Forest}] tiles>",
+					"Generated on every [12] tiles <in [{Featureless} {Tundra}] tiles>",
+					"Generated on every [25] tiles <in [{Plains} {Forest}] tiles> <in tiles without [Hilly]>",
+					"Generated on every [25] tiles <in [{Grassland} {Forest}] tiles> <in tiles without [Hilly]>",
+					"Generated on every [16] tiles <in [{Featureless} {Tundra}] tiles> <in [Hilly] Regions>",
+					"Generated on every [28] tiles <in [Forest] tiles> <in [Hilly] Regions>"]
+	},
+	{
+		"name": "Gems",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Hilly"],
+		"gold": 3,
+		"improvement": "Mine",
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Hilly] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hilly]>"]
+	},
 
 	// Civ made resources
 
