@@ -222,5 +222,21 @@
 		"uniques": ["[100]% chance to intercept air attacks"],
 		"attackSound": "jetgun"
 	},
+	{
+		"name": "Sukhoi Su-30MKI Jet Fighter",
+		"unitType": "Fighter",
+		"uniqueTo": "India",
+		"replaces": "Jet Fighter",
+		"movement": 1,
+		"strength": 13,
+		"rangedStrength": 15,
+		"range": 10,
+		"interceptRange": 10,
+		"cost": 130,
+		"requiredTech": "Aerodynamics",
+		"requiredResource": "Steel",
+		"uniques": ["[100]% chance to intercept air attacks"],
+		"attackSound": "jetgun"
+	},
 
 ]
