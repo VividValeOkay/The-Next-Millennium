@@ -181,6 +181,13 @@
 				"uniques": ["[+1 Happiness] <in [Suburb] tiles>","[+1 Production] <in [Industrial Complex] tiles>"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
+			{
+				"name": "Naval Improvements",
+				"row": 11,
+				"prerequisites": ["Naval Research"],
+				"uniques": ["[+12]% Strength <for [Ranged Water] units>"],
+				"quote": "'Beware of little expenses. A small leak will sink a great ship.' - Benjamin Franklin"
+			},
 		]
 	}
 		{
@@ -234,6 +241,12 @@
 				"prerequisites": ["Construction II"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
+			{
+				"name": "Aerodynamics",
+				"row": 11,
+				"prerequisites": ["Naval Improvements"],
+				"quote": "'Keep your nose out the sky, keep your heart to god, and keep your face to the raising sun.' - Kanye West"
+			},
 		]
 	}
 		{
