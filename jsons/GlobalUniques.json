@@ -4,5 +4,7 @@
     "[+4 Happiness] [in all cities]",
     "[-70]% [Science]",
     "Gain an extra spy <for [Major] Civilizations> <in [in capital] cities> <after turn number [10]>",
-    "[-60]% unhappiness from the number of cities"]
+    "[-60]% unhappiness from the number of cities",
+    "Rebel units may spawn <when below [-8] Happiness>"
+    "Nullifies Growth [cityFilter] <when below [-2] Happiness>"],
 }
