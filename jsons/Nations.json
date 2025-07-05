@@ -514,6 +514,34 @@
 		           "Boulogne","Perpignan","Besançon","Orléans","Rouen","Montreuil","Nancy"],
         "spyNames": ["Mrs. Petit", "Gabriel", "Raphaël", "Léo", "Louise", "Maël", "Adam", "Ambre", "Alba"]
     },
+{
+		"name": "Australia",
+		"leaderName": "Henry Andrews",
+		"adjective": ["Australian"],
+		"startBias": ["Coast","Avoid [Tundra]"],
+		"personality": "Australian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Australia to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, war is upon us.",
+		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+	    	"denounced": "Your slander of Australia and her people will be known far and wide when your enfeebled nation crumbles!",
+		"introduction": "Welcome to the Commonwealth of Australia.",
+		"neutralHello": "G'day!",
+		"hateHello": "What is it?",
+		"tradeRequest": "Australia offers you this exceptional proposition.",
+
+        "outerColor": [20,131,36],
+        "innerColor": [248,185,17],
+
+		"uniqueName": "The Land Down Under",
+		"cities": ["Canberra","Melbourne","Sydney","Brisbane","Perth","Adelaide","Gold Coast","Newcastle","Sunshine Coast","Central Coast","Wollongong","Geelong",
+		           "Hobart","Townsville","Cairns","Toowoomba","Darwin","Ballarat","Bendigo","Launceston","Mackay","Rockhampton","Bunbury","Bundaberg",
+		           "Coffs Harbour","Hervey Bay","Wagga Wagga","Shepparton","Mildura","Port Macquarie","Gladstone"],
+        "spyNames": ["Noah", "Oliver", "Theodore", "Amelia", "Mia", "James", "Blake", "Holly", "Michele"]
+    },
 	// City-States
     {
 		"name": "Belgium",
