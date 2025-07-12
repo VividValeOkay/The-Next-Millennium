@@ -145,4 +145,70 @@
             }
         ]
     },
+    },
+          {
+        "name": "Ideologies",
+        "era": "21st Century",
+        "priorities": {
+            "Neutral": 5,
+            "Domination": 5,
+        },
+        "uniques": [
+            "[+1 Culture] [in capital]",
+        ],
+        "policies": [
+             {
+                "name": "Presidential Republic",
+                "uniques": [
+                    "[-30]% Culture cost of adopting new Policies",
+                    "Unavailable",
+                ],
+                "row": 1,
+                "column": 1
+            },
+             {
+                "name": "Parliamentary Republic",
+                "uniques": [
+                    "[+2 Gold] [in all cities]",
+                    "Unavailable",
+                ],
+                "row": 1,
+                "column": 3,
+            },
+                 {
+                "name": "Constitutional Monarchy",
+                "uniques": [
+                    "[+1 Gold] [in all cities]",
+                    "[+10]% [Production] <for [All] units>",
+                    "Unavailable",
+                ],
+                "row": 1,
+                "column": 5,
+            },
+                    {
+                "name": "Authoritarianism",
+                "uniques": [
+                    "[-44]% maintenance costs <for [All] units>",
+                    "Unavailable",
+                ],
+                "row": 2,
+                "column": 1,
+            },
+                    {
+                "name": "Socialist Republic",
+                "uniques": [
+                    "[-40]% maintenance cost for [all] buildings [in all cities]",
+                    "Unavailable",
+                ],
+                "row": 2,
+                "column": 3,
+            },
+             {
+                "name": "Industry Complete",
+                "uniques": [
+                    "[+2 Production] [in all cities]",
+                ]
+            }
+        ]
+    },
 ]
