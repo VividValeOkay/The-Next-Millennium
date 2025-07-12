@@ -612,7 +612,8 @@
 
 		"uniqueName": "Libertad y Orden",
 		"uniques": ["Starts with [Presidential Republic] adopted"],
-		"cities": ["Bogotá"],
+		"cities": ["Bogotá","Medellín","Cali","Barranquilla","Cartagena","Cúcuta","Soacha","Soledad","Bucaramanga","Villavicencio","Ibagué","Bello",
+		           "Santa Marta","Montería","Valledupar","Pereira","Manizales","Pasto","Neiva","Palmira","Popayán","Buenaventura","Cartago"],
         "spyNames": ["Tomás", "Aarón", "Chucho", "Inmaculada", "Mercedes", "Diego", "Florentino", "Antonia", "Manuel"]
     },
 	// City-States
