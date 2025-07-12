@@ -560,6 +560,33 @@
 		           "Coffs Harbour","Hervey Bay","Wagga Wagga","Shepparton","Mildura","Port Macquarie","Gladstone"],
         "spyNames": ["Noah", "Oliver", "Theodore", "Amelia", "Mia", "James", "Blake", "Holly", "Michele"]
     },
+{
+		"name": "Canada",
+		"leaderName": "Ava Coyne",
+		"adjective": ["Canadian"],
+		"startBias": ["Tundra"],
+		"personality": "Canadian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Canada to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "As an unstinting malignancy defines your relationship to Canada, we have no recourse than war.",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"defeated": "So ends our dream of a Canada that might have been. Our people are good-hearted, Rule with mercy...",
+		"introduction": "Welcome to the Canada.",
+		"neutralHello": "Hey!",
+		"hateHello": "What is it?",
+		"tradeRequest": "Canada offers you this exceptional proposition.",
+
+        "outerColor": [255,255,255],
+        "innerColor": [241,41,41],
+
+		"uniqueName": "From Sea to Sea",
+		"uniques": ["Starts with [Constitutional Monarchy] adopted"],
+		"cities": ["Ottawa","Toronto","Montreal","Calgary","Edmonton","Winnipeg","Mississauga","Vancouver","Brampton","Hamilton","Surrey","Quebec City",
+		           "Halifax","Laval","Markham","Vaughan","Gatineau","Saskatoon","Kitchener","Longueuil","Burnaby","Windsor","Regina","Niagara Falls"],
+        "spyNames": ["Sir. Canada", "Liam", "Lucas", "Charlotte", "Sophia", "Benjamin", "Henry", "Mila", "Hiawatha"]
+    },
 	// City-States
     {
 		"name": "Belgium",
@@ -720,16 +747,16 @@
 		"cities": ["Doha"],
 	},
 	{
-		"name": "Canada",
-		"adjective": ["Canadian"],
+		"name": "Fiji",
+		"adjective": ["Fijian"],
 		"cityStateType": "Maritime",
 
-		"declaringWar": "In responding to the unstinting malignancy that has heretofore defined your relationship with Canada, we can have no recourse but war!",
-		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
-		"defeated": "I regret not defending my country to the last, although it was not of use.",
+		"declaringWar": "After thorough thought, The Fiji nation finds itself at dead ends. Prepare yourself, for we are coming.",
+		"attacked": "As we can reach no peaceful resolution with you, Fiji must turn, with reluctance, to war.",
+		"defeated": "You suck...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [193, 84, 255],
-		"cities": ["Ottawa"],
+		"innerColor": [10,217,228],
+		"cities": ["Suva"],
 	},
 	{
 		"name": "Mexico",
