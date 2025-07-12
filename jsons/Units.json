@@ -254,5 +254,17 @@
 		"uniques": ["[100]% chance to intercept air attacks"],
 		"attackSound": "jetgun"
 	},
+	{
+		"name": "Otokar Cobra II",
+		"unitType": "Light Armor",
+		"uniqueTo": "Turkiye",
+		"replaces": "Personnel Carrier",
+		"movement": 5,
+		"strength": 14,
+		"cost": 70,
+		"requiredTech": "Better Land Transport",
+		"uniques": ["[+25]% Strength <when defending>","Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
+		"attackSound": "tankshot"
+	},
 
 ]
