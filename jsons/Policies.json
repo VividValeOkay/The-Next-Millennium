@@ -203,9 +203,9 @@
                 "column": 3,
             },
              {
-                "name": "Industry Complete",
+                "name": "Ideologies Complete",
                 "uniques": [
-                    "[+2 Production] [in all cities]",
+                    "[+1 Happiness] [in all cities]",
                 ]
             }
         ]
