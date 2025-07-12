@@ -18,7 +18,7 @@
 		"declaringWar": "Prepare to be liberated!!",
 		"attacked": "We will remember this, this attack on the western world..!",
 		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Welcome to the United States of America!",
+		"introduction": "Welcome to the United States of America! If you conduct yourself well, you can consider us friends.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -586,6 +586,34 @@
 		"cities": ["Ottawa","Toronto","Montreal","Calgary","Edmonton","Winnipeg","Mississauga","Vancouver","Brampton","Hamilton","Surrey","Quebec City",
 		           "Halifax","Laval","Markham","Vaughan","Gatineau","Saskatoon","Kitchener","Longueuil","Burnaby","Windsor","Regina","Niagara Falls"],
         "spyNames": ["Sir. Canada", "Liam", "Lucas", "Charlotte", "Sophia", "Benjamin", "Henry", "Mila", "Hiawatha"]
+    },
+{
+		"name": "Colombia",
+		"leaderName": "Carlos Martinez",
+		"adjective": ["Colombian"],
+		"startBias": ["Hilly","Jungle"],
+		"personality": "Colombian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Colombia to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "Your tyranny, if unchecked, dooms the world to darkness, and for this reason I must declare war on you!",
+		"attacked": "You will see how fruitless this will be for you. Wait and see.",
+		"defeated": "Everything I have done, I did for the nation of Colombia. Soy un patriota hasta el final...",
+	    	"denounced": "Tyrant! Oppressor of the people! Foe of liberty! Your day of reckoning approaches!",
+		"introduction": "Welcome to the Republic of Colombia. ...You look tired, interested on some coffee?",
+		"neutralHello": "Quiubo.",
+		"hateHello": "Hmm? What do you want?",
+		"tradeRequest": "Come on! Let us both profit from this!",
+		"declaringFriendship": "We both serve liberty, Shall we plow the sea together?",
+
+        "outerColor": [1,42,108],
+        "innerColor": [245,217,0],
+
+		"uniqueName": "Libertad y Orden",
+		"uniques": ["Starts with [Presidential Republic] adopted"],
+		"cities": ["Bogotá"],
+        "spyNames": ["Tomás", "Aarón", "Chucho", "Inmaculada", "Mercedes", "Diego", "Florentino", "Antonia", "Manuel"]
     },
 	// City-States
     {
