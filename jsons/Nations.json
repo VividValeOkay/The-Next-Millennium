@@ -29,6 +29,7 @@
 		"outerColor": [28,51,119],
 		"innerColor": [255,255,255],
 		"uniqueName": "Arm of Democracy",
+	        "uniques": ["Starts with [Presidential Republic] adopted"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
@@ -60,6 +61,7 @@
 		"outerColor": [254,222,222],
 		"innerColor": [39,186,234],
 		"uniqueName": "Fall of the Soviet Union",
+	        "uniques": ["Starts with [Authoritarianism] adopted"],
 		"cities": ["Moscow","Saint Petersburg","Novosibirsk","Yekaterinburg","Kazan","Yekaterinburg","Nizhny Novgorod","Chelyabinsk","Krasnoyarsk","Samara",
 			"Ufa","Rostov-on-Don","Omsk","Krasnodar","Voronezh","Perm","Volgograd","Saratov","Tyumen","Tolyatti",
 			"Barnaul","Izhevsk","Makhachkala","Khabarovsk","Ulyanovsk","Irkutsk","Vladivostok","Yaroslavl","Kemerovo","Tomsk","Naberezhnye Chelny",
@@ -88,6 +90,7 @@
                 "outerColor": [224,24,24],
                 "innerColor": [255,217,1],
                 "uniqueName": "March of the Volunteers",
+	        "uniques": ["Starts with [Socialist Republic] adopted"],
 		"cities": ["Beijing","Shanghai","Shenzhen","Guangzhou","Chengdu","Tianjin","Wuhan","Tianjin","Dongguan","Chongqing",
 			"Xi'an","Hangzhou","Foshan","Nanjing","Shenyang","Zhengzhou","Qingdao","Suzhou","Jinan","Changsha",
 			"Kunming","Harbin","Shijiazhuang","Hefei","Dalian","Xiamen","Nanning","Changchun","Taiyuan","Guiyang","Wuxi",
@@ -115,6 +118,7 @@
 		"outerColor": [215,182,19],
 		"innerColor": [0,0,0],
 		"uniqueName": "A United Germany",
+	        "uniques": ["Starts with [Parliamentary Republic] adopted"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt am Main","Stuttgart","Düsseldorf","Leipzig","Dortmund",
 			"Essen","Bremen","Hanover","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
@@ -144,6 +148,7 @@
 		"outerColor": [109, 2, 0],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Brexit",
+	        "uniques": ["Starts with [Constitutional Monarchy] adopted"],
 		"cities": ["London","Birmingham","Manchester","Liverpool","Leeds","Sheffield","Middlesbrough","Bristol","Bournemouth","Stoke-on-Trent",
 			"Leicester","Wirral","Norwich","Coventry","Nottingham","Bradford","Newcastle Upon Tyne","Brighton and Hove","Plymouth","Preston",
 			"Derby","Aldershot","Badshot Lea","Southampton","Wigan","Portsmouth","Luton","York","Northampton","Milton Keynes"],
@@ -172,6 +177,7 @@
         "innerColor": [206,12,1],
 		
 		"uniqueName": "Esteqlâl, Âzâdi, Jomhuri-ye Eslâmi",
+	        "uniques": ["Starts with [Authoritarianism] adopted"],
 		"cities": ["Tehran","Isfahan","Mashhad","Karaj","Shiraz","Tabriz","Qom","Ahvaz","Kermanshah","Urmia",
 			"Rasht","Zahedan","Istakhr","Hamadan","Kerman","Yazd","Ardabil","Bandar Abbas","Arak","Eslamshahr","Zanjan",
 			"Sanandaj","Qazvin","Sanandaj","Khorramabad","Gorgan","Sari","Shahriar","Qods","Kashan","Malard",
@@ -201,6 +207,7 @@
 		"outerColor": [107,208,6],
 		"innerColor": [63,106,64],
 		"uniqueName": "Ordem e Progresso",
+	        "uniques": ["Starts with [Presidential Republic] adopted"],
 		"cities": ["Brasília","São Paulo","Rio de Janeiro","Fortaleza","Salvador","Belo Horizonte","Manaus","Curitiba","Recife","Goiânia","Belém",
 			"Porto Alegre","Guarulhos","Campinas","São Luís","Maceió","São Gonçalo","Campo Grande","Teresina","João Pessoa","Duque de Caxias","Nova Iguaçu","São Bernardo do Campo",
 			"Natal","Santo André","Sorocaba","Osasco","Uberlândia","Ribeirão Preto","São José dos Campos","Jaboatão dos Guararapes","Cuiabá","Feira de Santana","Joinville",
@@ -228,6 +235,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [184, 0, 0],
 		"uniqueName": "Post Economic Miracle",
+	        "uniques": ["Starts with [Constitutional Monarchy] adopted"],
 		"cities": ["Tokyo","Yokohama","Osaka","Nagoya","Sapporo","Kobe","Kyoto","Fukuoka","Kawasaki","Saitama","Hiroshima","Chiba",
 		             "Sendai","Kitakyushu","Sakai","Niigata","Shizuoka","Sagamihara","Okayama","Kumamoto","Kagoshima","Funabashi","Hachioji","Kawaguchi",
 		             "Himeji","Matsuyama","Higashiōsaka","Utsunomiya","Matsudo","Nishinomiya","Kurashiki","Ichikawa","Oita","Fukuyama","Amagasaki","Kanazawa",
@@ -258,6 +266,7 @@
         "innerColor": [255, 163, 71],
 
 		"uniqueName": "Vande Mataram",
+	        "uniques": ["Starts with [Parliamentary Republic] adopted"],
 		"cities": ["New Delhi","Mumbai","Bengaluru","Hyderabad","Ahmedabad","Chennai","Calcutta","Surat","Pune","Jaipur","Lucknow","Kanpur",
 		            "Nagpur","Indore","Thane","Bhopal","Visakhapatnam","Pimpri-Chinchwad","Patna","Vadodara","Ghaziabad","Ludhiana","Agra",
 		            "Nashik","Faridabad","Meerut","Rajkot","Kalyan-Dombivli","Vasai-Virar","Varanasi","Srinagar","Aurangabad","Dhanbad",
@@ -286,6 +295,7 @@
         "innerColor": [255,255,255],
 
 		"uniqueName": "İstiklal Marşı",
+	        "uniques": ["Starts with [Presidential Republic] adopted"],
 		"cities": ["Ankara","Istanbul","İzmir","Bursa","Adana","Gaziantep","Konya","Antalya","Kayseri","Mersin","Eskişehir","Diyarbakır","Samsun","Denizli",
 		           "Şanlıurfa","Adapazarı","Malatya","Kahramanmaraş","Erzurum","Van","Batman","Elazığ","İzmit","Manisa","Sivas","Gebze","Balıkesir",
 		           "Tarsus","Kütahya","Trabzon","Çorum","Çorlu","Adıyaman","Osmaniye","Kırıkkale","Antakya","Aydın","İskenderun","Uşak","Gölcük"],
@@ -315,6 +325,7 @@
         "innerColor": [167,52,31],
 
 		"uniqueName": "Bhinneka Tunggal Ika",
+	        "uniques": ["Starts with [Presidential Republic] adopted"],
 		"cities": ["Jakarta","Surabaya","Bekasi","Bandung","Medan","Depok","Tangerang","Palembang","Semarang","Makassar","South Tangerang","Batam","Bogor",
 		           "Pekanbaru","Bandar Lampung","Padang","Samarinda","Malang","Tasikmalaya","Serang","Balikpapan","Banjarmasin","Pontianak","Denpasar",
 		           "Jambi","Cimahi","Surakarta","Kupang","Manado","Mataram","Jayapura","Bengkulu","Palu","Ambon","Kendari","Palangka Raya","Banda Aceh"],
@@ -343,6 +354,7 @@
         "innerColor": [255,255,255],
 
 		"uniqueName": "Unity and Faith, Peace and Progress",
+	        "uniques": ["Starts with [Presidential Republic] adopted"],
 		"cities": ["Abuja","Lagos","Kano","Ibadan","Benin City","Port Harcourt","Aba","Jos","Ilorin","Kaduna","Zaria","Ogbomosho","Warri","Ikorodu",
 		           "Maiduguri","Ife","Bauchi","Akure","Abeokuta","Uyo","Oyo","Sokoto","Owerri","Yola","Calabar","Umuahia","Ondo","Minna","Lafia",
 		           "Okene","Katsina","Ikeja","Ado Ekiti","Awka","Makurdi","Gombe","Gusau","Osogbo","Jalingo","Abakaliki","Asaba","Nigeria"],
@@ -371,6 +383,7 @@
         "innerColor": [255,255,255],
 
 		"uniqueName": "Mazurek Dąbrowskiego",
+	        "uniques": ["Starts with [Presidential Republic] adopted"],
 		"cities": ["Warsaw","Kraków","Wrocław","Łódź","Poznań","Gdańsk","Szczecin","Lublin","Bydgoszcz","Białystok","Katowice","Gdynia","Częstochowa","Radom",
 		           "Rzeszów","Toruń","Sosnowiec","Kielce","Gliwice","Olsztyn","Zabrze","Bielsko-Biała","Bytom","Zielona Góra","Rybnik","Ruda Śląska",
 		           "Elbląg","Opole","Tychy","Gorzów Wielkopolski","Dąbrowa Górnicza","Płock","Wałbrzych","Włocławek","Tarnów","Chorzów","Poland"],
@@ -399,6 +412,7 @@
         "innerColor": [255,168,168],
 
 		"uniqueName": "Plus Ultra",
+		"uniques": ["Starts with [Constitutional Monarchy] adopted"],
 		"cities": ["Madrid","Barcelona","Valencia","Seville","Zaragoza","Málaga","Murcia","Palma","Las Palmas","Bilbao","Alicante","Córdoba","Valladolid",
 		           "Vigo","Gijón","L'Hospitalet","Vitoria-Gasteiz","A Coruña","Elche","Granada","Terrassa","Badalona","Oviedo","Cartagena",
 		           "Sabadell","Jerez","Móstoles","Santa Cruz","Pamplona","Almería","Alcalá de Henares","León","Spain"],
@@ -427,6 +441,7 @@
         "innerColor": [255,255,255],
 
 		"uniqueName": "ke e: ǀxarra ǁke",
+		"uniques": ["Starts with [Parliamentary Republic] adopted"],
 		"cities": ["Bloemfontein","Cape Town","Pretoria","Durban","Johannesburg","Soweto","Port Elizabeth","Pietermaritzburg","Benoni","Tembisa","East London",
 		           "Vereeniging","Boksburg","Welkom","Newcastle","Krugersdorp","Diepsloot","Randburg","Botshabelo","Brakpan","Witbank","Richards Bay",
 		           "Vanderbijlpark","Centurion","Uitenhage","Roodepoort","Paarl","Springs","Carletonville","Klerksdorp","Midrand","Westonaria","South Africa"],
@@ -481,6 +496,7 @@
         "innerColor": [177,8,3],
 
 		"uniqueName": "The Land of Smiles",
+		"uniques": ["Starts with [Constitutional Monarchy] adopted"],
 		"cities": ["Bangkok","Nonthaburi","Pak Kret","Hat Yai","Chiang Mai","Nakhon Ratchasima","Udon Thani","Surat Thani","Khon Kaen",
 		           "Nakhon Si Thammarat","Pattaya","Nakhon Sawan","Ubon Ratchathani","Nakhon Pathom","Phitsanulok","Songkhla",
 		           "Phuket","Chiang Rai","Yala","Lampang","Mae Sot","Buriram"],
@@ -509,6 +525,7 @@
         "innerColor": [239,236,148],
 
 		"uniqueName": "Liberté, égalité, fraternité",
+		"uniques": ["Starts with [Presidential Republic] adopted"],
 		"cities": ["Paris","Marseille","Lyon","Toulouse","Nice","Nantes","Montpellier","Strasbourg","Bordeaux","Lille","Rennes","Reims","Toulon","Saint-Étienne","Le Havre",
 		           "Grenoble","Dijon","Angers","Saint-Denis","Villeurbanne","Nîmes","Clermont-Ferrand","Aix","Le Mans","Brest","Tours","Amiens","Limoges","Annecy",
 		           "Boulogne","Perpignan","Besançon","Orléans","Rouen","Montreuil","Nancy"],
@@ -537,6 +554,7 @@
         "innerColor": [248,185,17],
 
 		"uniqueName": "The Land Down Under",
+		"uniques": ["Starts with [Constitutional Monarchy] adopted"],
 		"cities": ["Canberra","Melbourne","Sydney","Brisbane","Perth","Adelaide","Gold Coast","Newcastle","Sunshine Coast","Central Coast","Wollongong","Geelong",
 		           "Hobart","Townsville","Cairns","Toowoomba","Darwin","Ballarat","Bendigo","Launceston","Mackay","Rockhampton","Bunbury","Bundaberg",
 		           "Coffs Harbour","Hervey Bay","Wagga Wagga","Shepparton","Mildura","Port Macquarie","Gladstone"],
