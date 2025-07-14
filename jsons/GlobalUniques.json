@@ -1,10 +1,15 @@
 {
   "name": "Global Uniques",
   "uniques": [
-    "[+4 Happiness] [in all cities]",
+    "[+2 Happiness] [in all cities]",
     "[-70]% [Science]",
     "Gain an extra spy <for [Major] Civilizations> <in [in capital] cities> <after turn number [10]>",
-    "[-60]% unhappiness from the number of cities",
-    "Rebel units may spawn <when below [-8] Happiness>"
-    "Nullifies Growth [cityFilter] <when below [-2] Happiness>"],
+    "[-40]% unhappiness from the number of cities",
+    "Rebel units may spawn <when below [-8] Happiness>",
+    "Nullifies Growth [cityFilter] <when below [-2] Happiness>",
+    
+    // Event triggers
+    
+    "Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>",
+    "Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>"],
 }
