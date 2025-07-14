@@ -1,21 +1,20 @@
 [
 
-  {
-		    "name": "Severe Flooding. TEST",
-		    "text": "A severe flood has occured near one of our major cities, causing massive damage to infrastructure some losses of life.",
-		    "choices": [
-			    {"text": "Okay.",
-			     "uniques": ["Gain [-100]-[-600] [Gold]",
-					 "[+2 Happiness] [in all cities] <for [5] turns>"] } ]
-	
-	},
+//  {
+	//	    "name": "Severe Flooding. TEST",
+	//	    "text": "A severe flood has occured near one of our major cities, causing massive damage to infrastructure some losses of life.",
+	//	    "choices": [
+	//		    {"text": "Okay.",
+	//		     "uniques": ["Gain [-100]-[-600] [Gold]",
+	//				 "[+2 Happiness] [in all cities] <for [5] turns>"] } ]
+	//
+//	},
     {
 		"name": "Corporate Dealing. TEST",
 		"text": "Top members of our national corporation meets with you in private, willing to make a generous donation to the state in exchange for some incentives.",
 		"choices": [
      			{ "text": "Accept",
-			  "uniques": [ "Gain [-80] [Culture]",
-					"Gain [400] [Gold]" ]},
+			  "uniques": ["Gain [400] [Gold]" ]},
       
      			{ "text": "Reject",
  }]
