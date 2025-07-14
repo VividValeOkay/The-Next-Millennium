@@ -10,6 +10,6 @@
     
     // Event triggers
     
-    "Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>",
-    "Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]>"],
+    "Triggers a [Severe Flooding. TEST] event <for [Major] Civilizations> <upon turn end> <with [20]% chance> <after turn number [5]>",
+    "Triggers a [Corporate Dealing. TEST] event <for [Major] Civilizations> <upon turn end> <with [20]% chance> <after turn number [5]>"],
 }
