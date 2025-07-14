@@ -19,5 +19,13 @@
      			{ "text": "Reject",
  }]
   },
+  {
+		    "name": "Economic Boom",
+		    "text": "We have recieved an economic boom! Our economy is expanding thanks to several factors from the market.",
+		    "choices": [
+			    {"text": "Time to reap the benefits!",
+			     "uniques": ["Gain [300]-[800] [Gold]"] } ]
+	
+	},
 
 ]
