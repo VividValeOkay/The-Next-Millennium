@@ -616,6 +616,36 @@
 		           "Santa Marta","Montería","Valledupar","Pereira","Manizales","Pasto","Neiva","Palmira","Popayán","Buenaventura","Cartago"],
         "spyNames": ["Tomás", "Aarón", "Chucho", "Inmaculada", "Mercedes", "Diego", "Florentino", "Antonia", "Manuel"]
     },
+{
+		"name": "Sweden",
+		"leaderName": "Evelyn Nilsson",
+		"adjective": ["Swedish"],
+		"startBias": ["Tundra"],
+		"personality": "Swedish",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Sweden to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "Sweden will do her part to push back the evils of the world. Art is one way to do this—war with you is another.",
+		"attacked": "Sweden will chastise those who threaten the world. Prepare yourself for war!",
+		"defeated": "I never loved power, and now I am left without art. Only regret and loss remain for me.",
+	    	"denounced": "I will tell the whole world of your villainy, of your boorishness, of your perfidy!",
+		"introduction": "Welcome to the Kingdom of Sweden, now you may see her king on your next visit.",
+		"neutralHello": "Tack!",
+		"hateHello": "Uneducated fool...",
+		"tradeRequest": "My friend, it is my belief that this settlement can benefit both our peoples.",
+		"declaringFriendship": "Will you join me as we tell the world that our nations are friends with one another? We will surely inspire them all.",
+
+        "outerColor": [0,85,131],
+        "innerColor": [255,194,0],
+
+		"uniqueName": "Du gamla, du fria",
+		"uniques": ["Starts with [Constitutional Monarchy] adopted"],
+		"cities": ["Stockholm","Gothenburg","Malmö","Uppsala","Västerås","Örebro","Linköping","Helsingborg","Jönköping","Lund","Norrköping","Umeå",
+		           "Gävle","Södertälje","Borås","Växjö","Halmstad","Sundsvall","Eskilstuna","Karlstad","Östersund","Trollhättan","Luleå",
+		           "Northeast Gothenburg","Tumba","Lidingö","Borlänge","Kalmar","Kristianstad","Höör"],
+        "spyNames": ["William", "August", "Nils", "Alma", "Alice", "Otto", "Oliver", "Ándaras", "Elina"]
+    },
 	// City-States
     {
 		"name": "Belgium",
