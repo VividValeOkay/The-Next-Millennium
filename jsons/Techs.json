@@ -298,7 +298,7 @@
 			{
 				"name": "Naval Improvements II",
 				"row": 11,
-				"prerequisites": ["Naval Improvements"],
+				"prerequisites": ["Aerodynamics"],
 				"quote": "'Beware of little expenses. A small leak will sink a great ship.' - Benjamin Franklin"
 			},
 		]
