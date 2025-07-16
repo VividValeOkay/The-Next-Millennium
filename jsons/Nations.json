@@ -865,5 +865,29 @@
 		"innerColor": [167,162,216],
 		"cities": ["Hanoi"]
 	},
+	{
+		"name": "Albania",
+		"adjective": ["Albanian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0, 163, 181],
+		"cities": ["Tirana"]
+	},
+	{
+		"name": "Romania",
+		"adjective": ["Romanian"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [252,209,22],
+		"cities": ["Bucharest"]
+	},
 
 ]
