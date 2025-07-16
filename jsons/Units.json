@@ -61,6 +61,8 @@
 		"strength": 13,
 		"cost": 60,
 		"requiredTech": "Skeletonised Equipment",
+		"obsoleteTech": "Higher Caliber Rifles",
+		"upgradesTo": "Advanced Infantry",
 		"attackSound": "shot"
 	},
 	{
@@ -265,6 +267,15 @@
 		"requiredTech": "Better Land Transport",
 		"uniques": ["[+25]% Strength <when defending>","Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
 		"attackSound": "tankshot"
+	},
+	{
+		"name": "Advanced Infantry",
+		"unitType": "Rifle",
+		"movement": 2,
+		"strength": 16,
+		"cost": 120,
+		"requiredTech": "Higher Caliber Rifles",
+		"attackSound": "shot"
 	},
 
 ]
