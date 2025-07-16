@@ -277,5 +277,19 @@
 		"requiredTech": "Higher Caliber Rifles",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Missile Cruiser",
+		"unitType": "Ranged Water",
+		"movement": 7,
+		"strength": 13,
+		"rangedStrength": 16,
+		"range": 3,
+		"interceptRange": 2,
+		"cost": 200,
+		"requiredTech": "Naval Improvements II",
+		"uniques": ["[100]% chance to intercept air attacks", "Can see invisible [Submarine] units","Ranged attacks may be performed over obstacles",
+			"Can carry [3] [Missile] units", "[+100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "shipguns"
+	},
 
 ]
