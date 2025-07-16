@@ -283,6 +283,24 @@
 				"prerequisites": ["Healthcare Improvements"],
 				"quote": "'Government's view of the economy could be summed up in a few short phrases: If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.' - Ronald Reagan"
 			},
+			{
+				"name": "Higher Caliber Rifles",
+				"row": 12,
+				"prerequisites": ["Infantry Improvement"],
+				"quote": "'The best weapon against an enemy is another enemy.' - Friedrich Nietzsche",
+			},
+			{
+				"name": "Tank Improvements",
+				"row": 14,
+				"prerequisites": ["Modern Tank Design"],
+				"quote": "'Reactive armour is a type of vehicle armour used in protecting vehicles, especially modern tanks, against shaped charges and hardened kinetic energy penetrators. The most common type is explosive reactive armour, but variants include self-limiting explosive reactive armour, non-energetic reactive armour, non-explosive reactive armour, and electric armour.' - Wikipedia.",
+			},
+			{
+				"name": "Naval Improvements II",
+				"row": 11,
+				"prerequisites": ["Naval Improvements"],
+				"quote": "'Beware of little expenses. A small leak will sink a great ship.' - Benjamin Franklin"
+			},
 		]
 	}
 ]
