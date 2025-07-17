@@ -7,10 +7,5 @@
     "[-20]% unhappiness from the number of cities",
     "Rebel units may spawn <when below [-8] Happiness>",
     "Nullifies Growth [cityFilter] <when below [-2] Happiness>",
-    
-    // Event triggers
-    
-  //  "Triggers a [Severe Flooding. TEST] event <for [Major] Civilizations> <upon turn end> <with [20]% chance> <after turn number [5]>",
-  //  "Triggers a [Corporate Dealing. TEST] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [8]>",
-  //  "Triggers a [Economic Boom] event <for [Major] Civilizations> <upon turn end> <with [5]% chance> <upon entering a Golden Age>"],
+
 }
