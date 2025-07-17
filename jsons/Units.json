@@ -327,5 +327,18 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "PT-91 Twardy",
+		"unitType": "Heavy Armor",
+		"uniqueTo": "Poland",
+		"replaces": "Modern Armor",
+		"movement": 3,
+		"strength": 19,
+		"cost": 130,
+		"requiredTech": "Modern Tank Design",
+		"requiredResource": "Steel",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
+		"attackSound": "tankshot"
+	},
 
 ]
