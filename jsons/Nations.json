@@ -646,6 +646,36 @@
 		           "Northeast Gothenburg","Tumba","Lidingö","Borlänge","Kalmar","Kristianstad","Höör"],
         "spyNames": ["William", "August", "Nils", "Alma", "Alice", "Otto", "Oliver", "Ándaras", "Elina"]
     },
+{
+		"name": "Italy",
+		"leaderName": "Leonardo Ricchetti",
+		"adjective": ["Italian"],
+		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
+		"personality": "Italian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Italy to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "We have recently declared war on your state. You may send your troops, but they won't stop your downfall...",
+		"attacked": "Your insolence will be the end of your leadership, and your call for war will not solve anything.",
+		"defeated": "Il benessere dei sconfitti è non sperare in molto altro benessere.",
+	    	"denounced": "Ah yes, it seems someone is jelous...",
+		"introduction": "Welcome to the Italian Republic...",
+		"neutralHello": "Welcome, welcome.",
+		"hateHello": "Hmph?",
+		"tradeRequest": "Do we have an agreement, my friend?",
+		"declaringFriendship": "May we call you our friend at this moment?",
+
+        "outerColor": [0,140,60],
+        "innerColor": [207,41,34],
+
+		"uniqueName": "Repubblica Italiana",
+		"uniques": ["Starts with [Parliamentary Republic] adopted"],
+		"cities": ["Rome","Milan","Naples","Turin","Palermo","Genoa","Bologna","Florence","Bari","Catania","Verona","Venice","Messina",
+		           "Padua","Brescia","Parma","Trieste","Prato","Taranto","Modena","Reggio Emilia","Reggio Calabria","Perugia",
+		           "Ravenna","Livorno","Rimini","Cagliari","Foggia","Ferrara","Latina"],
+        "spyNames": ["Mr. Renetti", "Tommaso", "Francesco", "Aurora", "Mattia", "Vittoria", "Riccardo", "Ludovica", "Alessandro"]
+    },
 	// City-States
     {
 		"name": "Belgium",
