@@ -650,7 +650,7 @@
 		"name": "Italy",
 		"leaderName": "Leonardo Ricchetti",
 		"adjective": ["Italian"],
-		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
+		"startBias": ["Avoid [Tundra]","Avoid [Arid]"],
 		"personality": "Italian",
 
         "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
