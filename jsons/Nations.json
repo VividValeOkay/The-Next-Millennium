@@ -676,6 +676,33 @@
 		           "Ravenna","Livorno","Rimini","Cagliari","Foggia","Ferrara","Latina"],
         "spyNames": ["Mr. Renetti", "Tommaso", "Francesco", "Aurora", "Mattia", "Vittoria", "Riccardo", "Ludovica", "Alessandro"]
     },
+{
+		"name": "Austria",
+		"leaderName": "Marie Andres",
+		"adjective": ["Austrian"],
+		"startBias": ["Hilly"],
+		"personality": "Austrian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Austria to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "It is not our fault that we have gone to war with you, you should have thought of respecting us more...",
+		"attacked": "You have clearly lost your mind... You will colapse quickly to our forces!",
+		"defeated": "Ugh, you know what? This world can kiss my ass. I am leaving this world to rot... Goodbye, Scum..!",
+		"introduction": "Welcome to the Republic of Austria, my dear friend.",
+		"neutralHello": "Hello!",
+		"hateHello": "Oh, it's ye!",
+		"tradeRequest": "I see you admire my new damask. Nobody should say that I am an unjust woman. Let's reach an agreement!",
+
+        "outerColor": [234,0,0],
+        "innerColor": [255,255,255],
+
+		"uniqueName": "Nation of the Alps",
+		"uniques": ["Starts with [Presidential Republic] adopted"],
+		"cities": ["Vienna","Graz","Linz","Salzburg","Innsbruck","Klagenfurt","Villach","Wels","Sankt Pölten","Dornbirn","Wiener Neustadt",
+		           "Steyr","Feldkirch","Bregenz","Leonding","Klosterneuburg","Baden","Leoben","Wolfsberg","Traun","Schlatt"],
+        "spyNames": ["Paul", "Jakob", "Maximilian", "Emilia", "Felix", "Valentina", "Leon", "Laura", "Kornél"]
+    },
 	// City-States
     {
 		"name": "Belgium",
