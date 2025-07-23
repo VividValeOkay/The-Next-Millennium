@@ -10,7 +10,7 @@
 				"name": "Agriculture",
 				"row": 8,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
-				"uniques": ["Starting tech","Enables Open Borders agreements"]
+				"uniques": ["Starting tech"]
 			}
 		]
 	},
@@ -125,6 +125,12 @@
 				"prerequisites": ["Modernised Construction"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
+			{
+				"name": "International Diplomacy Meetings",
+				"row": 19,
+				"prerequisites": ["Standard Research Objectives","Better Economics"],
+				"quote": "'Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.' - Anais Nin"
+			}
 		],
 	}
 	{
@@ -189,6 +195,13 @@
 				"uniques": ["[+12]% Strength <for [Ranged Water] units>"],
 				"quote": "'Beware of little expenses. A small leak will sink a great ship.' - Benjamin Franklin"
 			},
+			{
+				"name": "Open Border Agreements",
+				"row": 19,
+				"prerequisites": ["International Diplomacy Meetings"],
+				"uniques": ["Enables Open Borders agreements"],
+				"quote": "'Love is always open arms. If you close your arms about love you will find that you are left holding only yourself.' - Leo Buscaglia"
+			}
 		]
 	}
 		{
@@ -248,6 +261,13 @@
 				"prerequisites": ["Naval Improvements"],
 				"quote": "'Keep your nose out the sky, keep your heart to god, and keep your face to the raising sun.' - Kanye West"
 			},
+		       {
+				"name": "Establish Embassies",
+				"row": 19,
+				"prerequisites": ["Open Border Agreements"],
+				"uniques": ["Enables establishment of embassies"],
+				"quote": "'Our freedom, our prosperity and our security depend on a proper respect for the fortune of our neighbours, allies and old friends.' - Nicholas Soames"
+			}
 		]
 	}
 		{
@@ -295,14 +315,21 @@
 				"row": 14,
 				"prerequisites": ["Modern Tank Design"],
 				"uniquess": ["[+15]% Strength <for [Heavy Armor] units>","[+10]% Strength <for [Light Armor] units> <when defending>"],
-				"quote": "'Reactive armour is a type of vehicle armour used in protecting vehicles, especially modern tanks, against shaped charges and hardened kinetic energy penetrators. The most common type is explosive reactive armour, but variants include self-limiting explosive reactive armour, non-energetic reactive armour, non-explosive reactive armour, and electric armour.' - Wikipedia.",
+				"quote": "'Tank you veddy much.' - Andy Kaufman",
 			},
 			{
 				"name": "Naval Improvements II",
 				"row": 11,
 				"prerequisites": ["Aerodynamics"],
-				"quote": "'Beware of little expenses. A small leak will sink a great ship.' - Benjamin Franklin"
+				"quote": "'When I lost my rifle, the Army charged me 85 dollars. That is why in the Navy the Captain goes down with the ship.' - Dick Gregory"
 			},
+		       {
+				"name": "Defense Pacts",
+				"row": 19,
+				"prerequisites": ["Establish Embassies"],
+				"uniques": ["Enables Defensive Pacts"],
+				"quote": "'A faithful friend is a strong defense; And he that hath found him hath found a treasure.' - Louisa May Alcott"
+			}
 		]
 	}
 ]
