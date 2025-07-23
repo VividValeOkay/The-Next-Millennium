@@ -10,7 +10,7 @@
 				"name": "Agriculture",
 				"row": 8,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
-				"uniques": ["Starting tech","Enables Open Borders agreements","Enables Defensive Pacts"]
+				"uniques": ["Starting tech","Enables Open Borders agreements","Enables Defensive Pacts","Enables establishment of embassies"]
 			}
 		]
 	},
@@ -159,6 +159,7 @@
 				"name": "Advanced Economics II",
 				"row": 9,
 				"prerequisites": ["Advanced Economics"],
+				"uniques": ["Enables conversion of city production to [Gold]"]
 				"quote": "'Government's view of the economy could be summed up in a few short phrases: If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.' - Ronald Reagan"
 			},
 			{
@@ -280,7 +281,7 @@
 			{
 				"name": "Advanced Economics III",
 				"row": 9,
-				"prerequisites": ["Healthcare Improvements"],
+				"prerequisites": ["Healthcare Improvements"]
 				"quote": "'Government's view of the economy could be summed up in a few short phrases: If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.' - Ronald Reagan"
 			},
 			{
