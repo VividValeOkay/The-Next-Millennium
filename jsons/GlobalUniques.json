@@ -6,5 +6,7 @@
     "Gain an extra spy <for [Major] Civilizations> <in [in capital] cities> <after turn number [10]>",
     "[-20]% unhappiness from the number of cities",
     "Rebel units may spawn <when below [-8] Happiness>",
-    "Nullifies Growth [cityFilter] <when below [-2] Happiness>"],
+    "Nullifies Growth [cityFilter] <when below [-2] Happiness>",
+    "Enables Defensive Pacts",
+    "Enables establishment of embassies"],
 }
