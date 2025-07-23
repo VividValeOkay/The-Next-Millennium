@@ -703,6 +703,34 @@
 		           "Steyr","Feldkirch","Bregenz","Leonding","Klosterneuburg","Baden","Leoben","Wolfsberg","Traun","Schlatt"],
         "spyNames": ["Paul", "Jakob", "Maximilian", "Emilia", "Felix", "Valentina", "Leon", "Laura", "Kornél"]
     },
+{
+		"name": "Mexico",
+		"leaderName": "José Guerrero",
+		"adjective": ["Mexican"],
+		"startBias": ["Plains"],
+		"personality": "Mexican",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Mexico to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "First comes the homeland, therefore you must not be in my way.",
+		"attacked": "Lets see how brave you are when we meet on the battlefield!",
+		"defeated": "The nation of Mexico has fallen! I have failed the plans that past leaders have laid out for me...",
+		"introduction": "Welcome to the United Mexican States, Amigo!",
+		"neutralHello": "Amigo!",
+		"hateHello": "WHAT?",
+		"tradeRequest": "Accept this agreement or suffer the consequences.",
+
+        "outerColor": [0,140,60],
+        "innerColor": [207,41,34],
+
+		"uniqueName": "Valley of Mexico",
+		"uniques": ["Starts with [Presidential Republic] adopted"],
+		"cities": ["Mexico City","Tijuana","Ecatepec","León","Puebla","Ciudad Juárez","Guadalajara","Monterrey","Neza","Zapopan","Chihuahua",
+		           "Mérida","Naucalpan","Cancún","Saltillo","Aguascalientes","Hermosillo","Mexicali","San Luis","Culiacán","Querétaro",
+		           "Morelia","Chimalhuacán","Reynosa","Torreón","Tlalnepantla","Acapulco","Tlaquepaque"],
+        "spyNames": ["Donaciano", "Gilberta", "Jaziel", "Nayeli", "Valente", "Yunuen", "Abuelita", "Catarino", "Fortino"]
+    },
 	// City-States
     {
 		"name": "Belgium",
@@ -875,16 +903,16 @@
 		"cities": ["Suva"],
 	},
 	{
-		"name": "Mexico",
-		"adjective": ["Mexican"],
+		"name": "Chile",
+		"adjective": ["Chilean"],
 		"cityStateType": "Cultured",
 
-		"declaringWar": "First comes the homeland, therefore you must not be in my way.",
+		"declaringWar": "We will crush you!",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "I regret not defending my country to the last, although it was not of use.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0, 104, 71],
-		"cities": ["Mexico City"],
+		"innerColor": [98, 78, 6],
+		"cities": ["Santiago"],
 	},
 	{
 		"name": "Portugal",
@@ -945,6 +973,42 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [252,209,22],
 		"cities": ["Bucharest"]
+	},
+	{
+		"name": "Bangladesh",
+		"adjective": ["Bangladeshi"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Even in defeat we won't bow down to you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,140,60],
+		"cities": ["Dhaka"]
+	},
+	{
+		"name": "DR Congo",
+		"adjective": ["Congolese"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Even in defeat we won't bow down to you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,163,181],
+		"cities": ["Kinshasa"]
+	},
+	{
+		"name": "Algeria",
+		"adjective": ["Algerian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Surrender? I would rather die!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,140,60],
+		"cities": ["Algiers"]
 	},
 
 ]
