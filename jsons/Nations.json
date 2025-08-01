@@ -731,6 +731,35 @@
 		           "Morelia","Chimalhuacán","Reynosa","Torreón","Tlalnepantla","Acapulco","Tlaquepaque"],
         "spyNames": ["Donaciano", "Gilberta", "Jaziel", "Nayeli", "Valente", "Yunuen", "Abuelita", "Catarino", "Fortino"]
     },
+{
+		"name": "Egypt",
+		"leaderName": "Magdy el-Mofty",
+		"adjective": ["Egyptian"],
+		"startBias": ["Arid"],
+		"personality": "Egyptian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Egypt to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
+		"attacked": "You are a complete fool! You have brought nothing but war and conflict upon your awful country.",
+		"defeated": "Break down our cities and destroy Egypt... We shall remain and you'll win nothing.",
+	    	"denounced": "You dare insult the nation of Egypt? You will regret this.",
+		"introduction": "Welcome to the Arab Republic of Egypt.",
+		"neutralHello": "Greetings...",
+		"hateHello": "WHAT!?",
+		"tradeRequest": "The Generous Arab Republic of Egypt makes you this offer.",
+		"declaringFriendship": "Many would kill for my friendship. It's a generous offer, but I offer it to you. What is your answer?",
+
+        "outerColor": [255,252,3],
+        "innerColor": [83,0,208],
+
+		"uniqueName": "Cradle of Civilisation",
+		"uniques": ["Starts with [Authoritarianism] adopted"],
+		"cities": ["Cairo","Alexandria","Giza","Shubra El Kheima","El Maḥalla","Port Said","Suez","Mansoura","Tanta","Asyut",
+		           "Faiyum","Zagazig","Ismailia","Aswan","Damanhur","Damietta","Minya","Beni Suef","Luxor","Shibin El Kom"],
+        "spyNames": ["Gamal", "Gamila", "Khadiga", "Magdi", "Menna", "Nermin", "Galal", "Abdelaal", "Kinzi"]
+    },
 	// City-States
     {
 		"name": "Belgium",
