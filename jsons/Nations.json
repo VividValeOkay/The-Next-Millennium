@@ -760,6 +760,34 @@
 		           "Faiyum","Zagazig","Ismailia","Aswan","Damanhur","Damietta","Minya","Beni Suef","Luxor","Shibin El Kom"],
         "spyNames": ["Gamal", "Gamila", "Khadiga", "Magdi", "Menna", "Nermin", "Galal", "Abdelaal", "Kinzi"]
     },
+{
+		"name": "Ethiopia",
+		"leaderName": "Eskender Abdi",
+		"adjective": ["Ethiopian"],
+		"startBias": ["Jungle"],
+		"personality": "Ethiopian",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Ethiopia to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "We have tried going through many paths for peace, but met with failure each time. We hope for this war to end as quick as it starts...",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
+		"defeated": "Our defeat will be remembered by Ethiopian historians for years to come, and I stand here, knowing you will be judged for your actions very soon.",
+	    	"denounced": "What a waste of time.",
+		"introduction": "Welcome to the Federal Democratic Republic of Ethiopia...  Adwa Victory Day is coming up next week, mind joining me for this celebration?",
+		"neutralHello": "Welcome.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "I request that you consider this offer between our two nations. I believe it will do us both good.",
+
+        "outerColor": [18,66,22],
+        "innerColor": [255,56,56],
+
+		"uniqueName": "Wedefīt Gesigishī Wid Inat ītiyop’iy",
+		"uniques": ["Starts with [Authoritarianism] adopted"],
+		"cities": ["Addis Ababa","Dire Dawa","Mekelle","Adama","Awassa","Bahir Dar","Gonder","Dessie","Jimma","Jijiga","Shashamane","Bishoftu","Sodo",
+		           "Arba Minch","Hosaena","Harar","Dilla","Nekemte","Debre Birhan","Asella","Debre Mark'os","Kombolcha","Adwa","Mojo"],
+        "spyNames": ["Haile", "Haregewoin", "Samuel", "Selamawit", "Tadesse", "Yohannes", "Ayele", "Almaz", "Hibo"]
+    },
 	// City-States
     {
 		"name": "Belgium",
