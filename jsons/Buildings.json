@@ -107,11 +107,19 @@
 	},
 	{
 		"name": "Electronic Parts Manufactory",
-                "production": 1,
+        "production": 1,
 		"cost": 90,
 		"uniques": ["Provides [2] [Electronic Parts]"],
 		"requiredResource": "Copper",
 		"requiredTech": "Advanced Economics",
+	},
+	{
+		"name": "Uranium Enricher",
+        "production": 1,
+		"cost": 180,
+		"uniques": ["Provides [3] [Enriched Uranium]"],
+		"requiredResource": "Uranium",
+		"requiredTech": "Uranium Enrichment",
 	},
 
 	// City Development
