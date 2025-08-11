@@ -329,9 +329,9 @@
 				"prerequisites": ["Establish Embassies"],
 				"uniques": ["Enables Defensive Pacts"],
 				"quote": "'A faithful friend is a strong defense; And he that hath found him hath found a treasure.' - Louisa May Alcott"
-			},
+			}
 		]
-	},
+	}
 		{
 		"columnNumber": 6,
 		"era": "21st Century",
@@ -344,9 +344,9 @@
 				"row": 11,
 				"prerequisites": ["Advanced Science"],
 				"quote": "'Leave the atom alone.' - E. Y. Harburg"
-			},
+			}
 		]
-	},
+	}
 		{
 		"columnNumber": 7,
 		"era": "21st Century",
