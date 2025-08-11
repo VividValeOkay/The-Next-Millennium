@@ -332,32 +332,5 @@
 			}
 		]
 	}
-		{
-		"columnNumber": 6,
-		"era": "21st Century",
-		"techCost": 340,
-		"buildingCost": 280,
-		"wonderCost": 420,
-		"techs": [
-			{
-				"name": "Uranium Research",
-				"row": 11,
-				"prerequisites": ["Advanced Science"],
-				"quote": "'Leave the atom alone.' - E. Y. Harburg"
-			}
-		]
-	}
-		{
-		"columnNumber": 7,
-		"era": "21st Century",
-		"techCost": 460,
-		"buildingCost": 280,
-		"wonderCost": 420,
-		"techs": [
-			{
-				"name": "Uranium Enrichment",
-				"row": 11,
-				"prerequisites": ["Uranium Research"],
-				"quote": "'I am not sure why, but I have been obsessed by the Atom Bomb ever since it first happened.' - Lanford Wilson"
-			}
+
 ]
