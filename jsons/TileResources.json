@@ -197,5 +197,9 @@
 		"happiness": 2,
 		"gold": 1,
 	},
+	{
+		"name": "Enriched Uranium",
+		"resourceType": "Strategic",
+	},
 
 ]
