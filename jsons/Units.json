@@ -340,5 +340,20 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Olifant Tank",
+		"unitType": "Heavy Armor",
+		"uniqueTo": "South Africa",
+		"replaces": "Basic Armor",
+		"movement": 3,
+		"strength": 16,
+		"cost": 70,
+		"obsoleteTech": "Modern Tank Design",
+		"requiredTech": "Tank Design",
+		"upgradesTo": "Modern Armor",
+		"requiredResource": "Steel",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [2] [Motor Parts]"],
+		"attackSound": "tankshot"
+	},
 
 ]
