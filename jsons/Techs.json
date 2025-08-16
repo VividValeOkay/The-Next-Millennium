@@ -370,7 +370,7 @@
 		"wonderCost": 420,
 		"techs": [
 			{
-				"name": "Nuclear Warheaads",
+				"name": "Nuclear Warheads",
 				"row": 11,
 				"prerequisites": ["Uranium Enrichment"],
 				"quote": "'I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.' - Albert Einstein"
