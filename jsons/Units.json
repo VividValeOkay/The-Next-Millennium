@@ -378,7 +378,7 @@
 		"requiredTech": "Nuclear Warheads",
 		"uniques": ["Nuclear weapon of Strength [5]","Blast radius [8]", "Consumes [1] [Enriched Uranium]"],
 		"attackSound": "nuke"
-	},
+	}
 
 	
 ]
