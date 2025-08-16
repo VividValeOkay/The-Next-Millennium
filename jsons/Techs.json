@@ -359,9 +359,9 @@
 				"row": 11,
 				"prerequisites": ["Uranium Research"],
 				"quote": "'I am not sure why, but I have been obsessed by the Atom Bomb ever since it first happened.' - Lanford Wilson"
-			}
+			},
 		]
-	}
+	},
 		{
 		"columnNumber": 7,
 		"era": "21st Century",
@@ -375,4 +375,6 @@
 				"prerequisites": ["Uranium Enrichment"],
 				"quote": "'I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.' - Albert Einstein"
 			}
+		]
+	}
 ]
