@@ -367,5 +367,18 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "ICBM",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 600,
+		"rangedStrength": 600,
+		"range": 20,
+		"cost": 1000,
+		"requiredTech": "Nuclear Warheads",
+		"uniques": ["Nuclear weapon of Strength [5]","Blast radius [8]", "Consumes [1] [Enriched Uranium]"],
+		"attackSound": "nuke"
+	},
 
+	
 ]
