@@ -345,6 +345,13 @@
 				"prerequisites": ["Advanced Science"],
 				"quote": "'Leave the atom alone.' - E. Y. Harburg"
 			}
+			{
+				"name": "Satellites",
+				"row": 1,
+				"prerequisites": ["Advanced Science"],
+				"uniques": ["Reveals the entire map"],
+				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
+			},
 		]
 	}
 		{
@@ -359,6 +366,12 @@
 				"row": 11,
 				"prerequisites": ["Uranium Research"],
 				"quote": "'I am not sure why, but I have been obsessed by the Atom Bomb ever since it first happened.' - Lanford Wilson"
+			},
+			{
+				"name": "Advanced Spacecraft",
+				"row": 1,
+				"prerequisites": ["Satellites"],
+				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
 			},
 		]
 	},
@@ -375,6 +388,12 @@
 				"prerequisites": ["Uranium Enrichment"],
 				"quote": "'I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.' - Albert Einstein"
 			}
+			{
+				"name": "Mars Terraforming",
+				"row": 1,
+				"prerequisites": ["Satellites"],
+				"quote": "'Mars has been flown by, orbited, smacked into, radar inspected, and rocketed onto, as well as bounced upon, rolled over, shoveled, drilled into, baked, and even laser blasted.' - Buzz Aldrin"
+			},
 		]
 	}
 ]
