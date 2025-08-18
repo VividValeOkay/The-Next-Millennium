@@ -391,7 +391,7 @@
 			{
 				"name": "Mars Terraforming",
 				"row": 1,
-				"prerequisites": ["Satellites"],
+				"prerequisites": ["Advanced Spacecraft"],
 				"quote": "'Mars has been flown by, orbited, smacked into, radar inspected, and rocketed onto, as well as bounced upon, rolled over, shoveled, drilled into, baked, and even laser blasted.' - Buzz Aldrin"
 			},
 		]
