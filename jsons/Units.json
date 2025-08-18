@@ -384,9 +384,9 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 2000,
-		"requiredTech": "Advanced Ballistics",
+		"requiredTech": "Advanced Spacecraft",
 		"requiredResource": "Steel",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [3] per Civilization"]
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Space Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [3] per Civilization"]
 		// costs 1500 in BNW
 	},
 	{
@@ -394,9 +394,9 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 2000,
-		"requiredTech": "Satellites",
+		"requiredTech": "Advanced Spacecraft",
 		"requiredResource": "Steel",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Spaace Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
 		// costs 1500 in BNW
 	},
 	{
@@ -404,9 +404,9 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 2000,
-		"requiredTech": "Particle Physics",
+		"requiredTech": "Advanced Spacecraft",
 		"requiredResource": "Steel",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Space Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
 		// costs 1500 in BNW
 	},
 	{
@@ -416,7 +416,7 @@
 		"cost": 2000,
 		"requiredTech": "Mars Terraforming",
 		"requiredResource": "Aluminum",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Space Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
 		// costs 1500 in BNW
 	}
 
