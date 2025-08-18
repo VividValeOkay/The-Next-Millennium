@@ -131,6 +131,14 @@
 		"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]"],
 		"requiredTech": "Advanced Science"
 	},
+	{
+		"name": "Space Program",
+		"cost": 1300,
+		"isNationalWonder": true,
+		"uniques": ["Enables construction of Spaceship parts", "Triggers a global alert upon completion", 
+			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
+		"requiredTech": "Advanced Sciene"
+	},
 
 	// City Development
 	  {
