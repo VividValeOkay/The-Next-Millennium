@@ -374,10 +374,50 @@
 		"strength": 600,
 		"rangedStrength": 600,
 		"range": 20,
-		"cost": 1000,
+		"cost": 800,
 		"requiredTech": "Nuclear Warheads",
 		"uniques": ["Nuclear weapon of Strength [5]","Blast radius [8]", "Consumes [1] [Enriched Uranium]"],
 		"attackSound": "nuke"
+	}
+	{
+		"name": "SS Booster",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2000,
+		"requiredTech": "Advanced Ballistics",
+		"requiredResource": "Steel",
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [3] per Civilization"]
+		// costs 1500 in BNW
+	},
+	{
+		"name": "SS Cockpit",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2000,
+		"requiredTech": "Satellites",
+		"requiredResource": "Steel",
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
+		// costs 1500 in BNW
+	},
+	{
+		"name": "SS Engine",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2000,
+		"requiredTech": "Particle Physics",
+		"requiredResource": "Steel",
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
+		// costs 1500 in BNW
+	},
+	{
+		"name": "SS Stasis Chamber",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 2000,
+		"requiredTech": "Mars Terraforming",
+		"requiredResource": "Aluminum",
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
+		// costs 1500 in BNW
 	}
 
 	
