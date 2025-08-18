@@ -121,6 +121,16 @@
 		"requiredResource": "Uranium",
 		"requiredTech": "Uranium Enrichment",
 	},
+	{
+		"name": "Spaceship Factory",
+		"production": 3,
+        "maintenance": 3,
+		"requiredResource": "Steel",
+		"cost": 800,
+		"requiredBuilding": "Decent City Developments",
+		"uniques": ["[+50]% Production when constructing [Spaceship part] units [in this city]"],
+		"requiredTech": "Advanced Science"
+	},
 
 	// City Development
 	  {
