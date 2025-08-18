@@ -415,7 +415,7 @@
 		"movement": 2,
 		"cost": 2000,
 		"requiredTech": "Mars Terraforming",
-		"requiredResource": "Aluminum",
+		"requiredResource": "Steel",
 		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Space Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
 		// costs 1500 in BNW
 	}
