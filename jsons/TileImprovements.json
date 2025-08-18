@@ -99,6 +99,42 @@
 		"uniques": ["Great Improvement","[+1 Food] for each adjacent [City center]","[+3 Gold] for each adjacent [Luxury resource]", "Will not be replaced by automated units",
             "Removes removable features when built", "Pillaging this improvement yields approximately [+30 Gold]"]
 	},
+
+// Misc
+
+	{
+		"name": "Remove Forest",
+		"turnsToBuild": 4,
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X",
+        "civilopediaText": [{"text":"Provides a one-time Production bonus depending on distance to the closest city once finished"}]
+	},
+	{
+		"name": "Remove Jungle",
+		"turnsToBuild": 7,
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X"
+	},
+	{
+		"name": "Remove Marsh",
+		"turnsToBuild": 6,
+		"techRequired": "Masonry",
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X"
+	},
+	{
+		"name": "Cancel improvement order",
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "."
+	},
+    {
+        "name": "Repair",
+        "terrainsCanBeBuiltOn": ["Land"],
+        "turnsToBuild": 2,
+        "shortcutKey": "E",
+        "uniques": ["Unbuildable", "Excluded from map editor"],
+        "civilopediaText": [{"text":"Repairs a pillaged Improvement or Route"}]
+    },
   
   
 ]
