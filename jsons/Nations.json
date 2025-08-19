@@ -807,8 +807,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "Israel suggests that you trade with us for now.",
 
-        "outerColor": [0,56,184],
-        "innerColor": [255,255,255],
+        "outerColor": [255,255,255],
+        "innerColor": [0,56,184],
 
 		"uniqueName": "The land of Israel",
 		"uniques": ["Starts with [Parliamentary Republic] adopted"],
