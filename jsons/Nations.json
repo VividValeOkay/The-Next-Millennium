@@ -788,6 +788,34 @@
 		           "Arba Minch","Hosaena","Harar","Dilla","Nekemte","Debre Birhan","Asella","Debre Mark'os","Kombolcha","Adwa","Mojo"],
         "spyNames": ["Haile", "Haregewoin", "Samuel", "Selamawit", "Tadesse", "Yohannes", "Ayele", "Almaz", "Hibo"]
     },
+{
+		"name": "Israel",
+		"leaderName": "Michael Yaffe",
+		"adjective": ["Israeli"],
+		"startBias": ["Arid","Coast"],
+		"personality": "Israeli",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Israel to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "throughout history, we've seen nations around us arming themselves against us. You are no different, and so Israel must deal with you accordingly...",
+		"attacked": "I will make you pay for what you've done! We will defend our land and rid your country of its evil.",
+		"defeated": "It pains me to surrender to terrorists... But this is only the beginning of our suffering...",
+	    	"denounced": "You are deranged. Arguing with anti-Semites is a waste of time.",
+		"introduction": "Welcome to the State of Israel! I'm sure we'll get along just fine.",
+		"neutralHello": "Welcome.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Israel suggests that you trade with us for now.",
+
+        "outerColor": [0,56,184],
+        "innerColor": [255,255,255],
+
+		"uniqueName": "The land of Israel",
+		"uniques": ["Starts with [Parliamentary Republic] adopted"],
+		"cities": ["Jerusalem","Tel Aviv","Haifa","Petah Tikva","Rishon LeZion","Ashdod","Netanya","Bnei Brak","Beersheba","Holon","Ramat Gan",
+		           "Rehovot","Beit Shemesh","Ashkelon","Bat Yam","Hadera","Herzliya","Kfar Saba","Nazareth","Harish"],
+        "spyNames": ["Abraham", "Adina", "Adi", "Benjamin", "David", "Eldad", "Elisheva", "Ofira", "Shay"]
+    },
 	// City-States
     {
 		"name": "Belgium",
@@ -1066,6 +1094,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,140,60],
 		"cities": ["Algiers"]
+	},
+	{
+		"name": "Palestine",
+		"adjective": ["Palestinian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "From the river to the sea!",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Even in defeat we won't bow down to you!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [3,138,39],
+		"cities": ["East Jerusalem"]
 	},
 
 ]
