@@ -179,7 +179,7 @@
                 "name": "Constitutional Monarchy",
                 "uniques": [
                     "[+1 Gold] [in all cities]",
-                    "[+10]% [Production] <for [All] units>",
+                    "[-22]% maintenance costs <for [All] units>",
                     "Unavailable",
                 ],
                 "row": 1,
