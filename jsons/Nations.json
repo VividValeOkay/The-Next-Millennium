@@ -1135,5 +1135,77 @@
 		"innerColor": [3,138,39],
 		"cities": ["East Jerusalem"]
 	},
+	{
+		"name": "Kenya",
+		"adjective": ["Kenyan"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We were too weak to protect ourselves...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [184,21,9],
+		"cities": ["Nairobi"]
+	},
+	{
+		"name": "Sudan",
+		"adjective": ["Sudanese"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,114,41],
+		"cities": ["Khartoum","Port Sudan"]
+	},
+	{
+		"name": "Switzerland",
+		"adjective": ["Swiss","Schweizer"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We thought we would never fall.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,0,0],
+		"cities": ["Bern","Zurich"]
+	},
+	{
+		"name": "Czech Republic",
+		"adjective": ["Czech"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We thought we would never fall.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,0,255],
+		"cities": ["Prague"]
+	},
+	{
+		"name": "Ireland",
+		"adjective": ["Irish"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "We won't be pushed around so easily, for we have gaelic warrior blood!",
+		"defeated": "You'll pay for this one day, bastard..!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [22,155,98],
+		"cities": ["Dublin"]
+	},
+	{
+		"name": "Norway",
+		"adjective": ["Norwegian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "Now comes a storm you cannot escape. You can only hope for a quick defeat.",
+		"attacked": "We won't be pushed around so easily, for we have viking blood!",
+		"defeated": "So, I will join the einherjar in Valhalla and feast, while you toil away here.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,32,91],
+		"cities": ["Oslo"]
+	},
 
 ]
