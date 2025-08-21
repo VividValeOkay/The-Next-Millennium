@@ -139,6 +139,13 @@
 			"Only available <when [Scientific] Victory is enabled>", "Cannot be hurried"],
 		"requiredTech": "Advanced Science"
 	},
+	{
+		"name": "Utopia Project",
+		"cost": 2100,
+		"isNationalWonder": true,
+		"uniques": ["Unavailable <when number of [Completed Policy branches] is less than [4]>", "Triggers a global alert upon build start",
+			"Triggers a Cultural Victory upon completion", "Only available <when [Cultural] Victory is enabled>", "Cannot be hurried"]
+	}
 
 	// City Development
 	  {
