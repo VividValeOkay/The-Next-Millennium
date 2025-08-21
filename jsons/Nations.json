@@ -844,6 +844,34 @@
 		           "Kasur","Dera Ghazi Khan","Wah Cantonment","Mardan","Nawabshah","Turbat","Mirpur Khas"],
         "spyNames": ["Aamir", "Abdullah", "Aiza", "Bakhtiar", "Bushra", "Fariha", "Haroon", "Jahangir", "Khurshid"]
     },
+{
+		"name": "South Korea",
+		"leaderName": "Namgung Young-sook",
+		"adjective": ["South Korean"],
+		"startBias": ["Coast"],
+		"personality": "South Korean",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Korea to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "The National Assembly of the Republic of Korea will no longer tolerate your irksome behavior. We will liberate the citizens under your oppression even with force, and enlighten them!",
+		"attacked": "Foolish, miserable wretch! You will be crushed by this country's magnificent scientific power!",
+		"defeated": "Now the question is who will protect my people..? A dark age has come.",
+		"introduction": "Welcome to the Republic of Korea, the true Korea.",
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you",
+		"tradeRequest": "We have many things to discuss and have much to benefit from each other.",
+
+        "outerColor": [255,255,255],
+        "innerColor": [0,71,160],
+
+		"uniqueName": "대한민국 (The Republic of Korea)",
+		"uniques": ["Starts with [Presidential Republic] adopted"],
+		"cities": ["Seoul","Busan","Incheon","Daegu","Daejeon","Gwangju","Suwon","Ulsan","Yongin","Goyang","Changwon","Seongnam",
+		           "Hwaseong","Cheongju","Bucheon","Ansan","Namyangju","Cheonan","Jeonju","Gimhae","Pyeongtaek",
+		           "Anyang","Siheung","Pohang","Jeju city","Uijeongbu","Sejong"],
+        "spyNames": ["Kim", "Jeong", "Choi", "Sung-min", "So-yul", "Mi-gyeong", "Kun-woo", "Jun", "Haneul"]
+    },
 	// City-States
     {
 		"name": "Belgium",
@@ -1206,6 +1234,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,32,91],
 		"cities": ["Oslo"]
+	},
+	{
+		"name": "North Korea",
+		"adjective": ["North Korean"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "Anyone who doesn't recognise us as the true Korea will face our destruction!",
+		"attacked": "The south can't stand against a powerful north!",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [212,13,13],
+		"cities": ["Pyongyang"]
 	},
 
 ]
