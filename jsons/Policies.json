@@ -25,7 +25,23 @@
                     "[+1 Culture] per [7] population [in all cities]",
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
+            },
+           {
+                "name": "Improved Political Science",
+                "uniques": [
+                    "[+1 Culture] [in all cities]",
+                ],
+                "row": 2,
+                "column": 2
+            },
+          {
+                "name": "Strengthen National Identity",
+                "uniques": [
+                    "[+15]% [Happiness]",
+                ],
+                "row": 2,
+                "column": 4
             },
            {
                 "name": "Cultural Complete",
@@ -65,6 +81,14 @@
                 "row": 1,
                 "column": 3
             },
+           {
+                "name": "National Census",
+                "uniques": [
+                    "[+1 Gold] per [5] population [in all cities]",
+                ],
+                "row": 2,
+                "column": 2
+            },
              {
                 "name": "Economics Complete",
                 "uniques": [
@@ -102,6 +126,14 @@
                 "column": 3
             },
              {
+                "name": "Advance the Research Bureau",
+                "uniques": [
+                    "[+15]% [Science]",
+                ],
+                "row": 2,
+                "column": 2
+            },
+             {
                 "name": "Sciences Complete",
                 "uniques": [
                     "[+25]% [Gold]",
@@ -136,6 +168,14 @@
                 ],
                 "row": 1,
                 "column": 3
+            },
+             {
+                "name": "The Public Service Act",
+                "uniques": [
+                    "[+25]% Yield from every [Industrial Complex]",
+                ],
+                "row": 2,
+                "column": 2
             },
              {
                 "name": "Industry Complete",
