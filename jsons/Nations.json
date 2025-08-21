@@ -816,6 +816,34 @@
 		           "Rehovot","Beit Shemesh","Ashkelon","Bat Yam","Hadera","Herzliya","Kfar Saba","Nazareth","Harish"],
         "spyNames": ["Abraham", "Adina", "Adi", "Benjamin", "David", "Eldad", "Elisheva", "Ofira", "Shay"]
     },
+{
+		"name": "Pakistan",
+		"leaderName": "Ahmad Kamal",
+		"adjective": ["Pakistani"],
+		"startBias": ["Arid","Hilly"],
+		"personality": "Pakistani",
+
+        "startIntroPart1": "As the cold war comes to an end, a new century begins to rise. Now we may look forward to a new time of potential peace and harmony, through to an unknown future...",
+        "startIntroPart2": "It is now your time to lead us to this new future. Will you lead Pakistan to a peaceful future, or a great conquest? Will you lead to economic prosperity or cultural dominance? You shall decide...",
+
+        "declaringWar": "All of the people of our nation are willing to die for Pakistan! Your cowardly soldiers are doomed to fall.",
+		"attacked": "If a simple land dispute is enough justifycation for war, then we will put you in your place.",
+		"defeated": "The country has fallen to you, but this doesn't mean we accept defeat! For we all stand for Pakistan. We shall be back...",
+		"introduction": "Welcome to the Islamic Republic of Pakistan, and come visit Karachi, we have so much to show you.",
+		"neutralHello": "Welcome.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Pakistan suggests that you trade with us for now.",
+
+        "outerColor": [0,64,26],
+        "innerColor": [255,255,255],
+
+		"uniqueName": "Faith, Unity, Discipline",
+		"uniques": ["Starts with [Parliamentary Republic] adopted"],
+		"cities": ["Islamabad","Karachi","Lahore","Faisalabad","Rawalpindi","Gujranwala","Multan","Hyderabad","Peshawar","Quetta",
+		           "Sargodha","Sialkot","Bahawalpur","Jhang","Sheikhupura","Gujrat","Sukkur","Larkana","Sahiwal","Okara","Rahim Yar Khan",
+		           "Kasur","Dera Ghazi Khan","Wah Cantonment","Mardan","Nawabshah","Turbat","Mirpur Khas"],
+        "spyNames": ["Aamir", "Abdullah", "Aiza", "Bakhtiar", "Bushra", "Fariha", "Haroon", "Jahangir", "Khurshid"]
+    },
 	// City-States
     {
 		"name": "Belgium",
