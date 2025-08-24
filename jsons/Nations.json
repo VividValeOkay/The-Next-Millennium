@@ -1240,12 +1240,60 @@
 		"adjective": ["North Korean"],
 		"cityStateType": "Militaristic",
 
-		"declaringWar": "Anyone who doesn't recognise us as the true Korea will face our destruction!",
+		"declaringWar": "Anyone who doesn't recognise us as the true Korea will face destruction!",
 		"attacked": "The south can't stand against a powerful north!",
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [212,13,13],
 		"cities": ["Pyongyang"]
+	},
+	{
+		"name": "Estonia",
+		"adjective": ["Estonian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could you..?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,114,206],
+		"cities": ["Tallinn"]
+	},
+	{
+		"name": "Morocco",
+		"adjective": ["Moroccan"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Such a shame, that we have to resort to violence...",
+		"defeated": "The gain is having a clean system from corruption.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,99,65],
+		"cities": ["Rabat"]
+	},
+	{
+		"name": "Ukraine",
+		"adjective": ["Ukrainian"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We never fully trusted you from the start...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,87,183],
+		"cities": ["Kyiv"]
+	},
+	{
+		"name": "Netherlands",
+		"adjective": ["Dutch"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "As much as I despise war, I consider it a, hahaha, contribution to the common cause to erase your existence.",
+		"attacked": "You think you are a great and strong leader, but all I see from you is a big drooling fool!",
+		"defeated": "My God, be merciful to my soul. My God, feel pity for this... my poor people!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [216,120,0],
+		"cities": ["Amsterdam"]
 	},
 
 ]
