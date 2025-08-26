@@ -368,6 +368,18 @@
 		"attackSound": "tankshot"
 	},
 	{
+		"name": "Pandur I APC",
+		"unitType": "Light Armor",
+		"uniqueTo": "Austria",
+		"replaces": "Personnel Carrier",
+		"movement": 5,
+		"strength": 14,
+		"cost": 70,
+		"requiredTech": "Better Land Transport",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
+		"attackSound": "tankshot"
+	},
+	{
 		"name": "ICBM",
 		"unitType": "Missile",
 		"movement": 1,
