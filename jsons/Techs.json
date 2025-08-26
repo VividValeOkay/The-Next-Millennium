@@ -355,7 +355,7 @@
 			{
 				"name": "Globalisation",
 				"row": 4,
-				"prerequisites": ["Advanced Culture IV","Advanced Science"],
+				"prerequisites": ["Advanced Culture IV"],
 				"quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
 			},
 		]
