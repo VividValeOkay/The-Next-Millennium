@@ -176,6 +176,14 @@
 		"cost": 120,
 		"hurryCostModifier": 40,
 	},
+    {
+        "name": "Police Station",
+        "cost": 160,
+        "maintenance": 2,
+        "hurryCostModifier": 30,
+        "uniques": ["Only available <when espionage is enabled>", "Gain an extra spy"],
+        "requiredTech": "National Security"
+    },
 
 	// City Development
 	  {
