@@ -169,6 +169,12 @@
 				"quote": "'Government's view of the economy could be summed up in a few short phrases: If it moves, tax it. If it keeps moving, regulate it. And if it stops moving, subsidize it.' - Ronald Reagan"
 			},
 			{
+				"name": "National Security",
+				"row": 10,
+				"prerequisites": ["Advanced Economics","International Diplomacy Meetings"],
+				"quote": "'In America, you have the Cyber Intelligence Sharing and Protection Act. You've got drones now being considered for domestic surveillance. You have the National Security Agency building the world's giantest spy center.' - Heather Brooke"
+			},
+			{
 				"name": "Better Land Transport",
 				"row": 12,
 				"prerequisites": ["Skeletonised Equipment"],
