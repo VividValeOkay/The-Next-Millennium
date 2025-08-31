@@ -154,6 +154,28 @@
 		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon completion"],
 		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
 	},
+	{
+		"name": "Zoo",
+		"happiness": 2,
+		"requiredTech": "Advanced Culture III",
+		"cost": 80,
+		"hurryCostModifier": 40,
+	},
+	{
+		"name": "Deep Space Radar",
+		"science": 3,
+		"requiredTech": "Advanced Science",
+		"cost": 200,
+		"hurryCostModifier": 60,
+		"uniques": ["[+15]% [Science] from every [Spaceship Factory]"]
+	},
+	{
+		"name": "Fire Station",
+		"food": 2,
+		"requiredTech": "Healthcare Improvements",
+		"cost": 120,
+		"hurryCostModifier": 40,
+	},
 
 	// City Development
 	  {
