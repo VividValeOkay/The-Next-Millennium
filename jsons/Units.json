@@ -380,6 +380,34 @@
 		"attackSound": "tankshot"
 	},
 	{
+		"name": "Bushmaster IMV",
+		"unitType": "Light Armor",
+		"uniqueTo": "Australia",
+		"replaces": "Personnel Carrier",
+		"movement": 5,
+		"strength": 14,
+		"cost": 70,
+		"requiredTech": "Better Land Transport",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","Consumes [1] [Motor Parts]"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Sukhoi Su-27 Fighter",
+		"unitType": "Fighter",
+		"uniqueTo": "Russia",
+		"replaces": "Jet Fighter",
+		"movement": 1,
+		"strength": 15,
+		"rangedStrength": 17,
+		"range": 10,
+		"interceptRange": 10,
+		"cost": 130,
+		"requiredTech": "Aerodynamics",
+		"requiredResource": "Steel",
+		"uniques": ["[100]% chance to intercept air attacks"],
+		"attackSound": "jetgun"
+	},
+	{
 		"name": "ICBM",
 		"unitType": "Missile",
 		"movement": 1,
