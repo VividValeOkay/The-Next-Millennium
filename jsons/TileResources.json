@@ -198,7 +198,7 @@
 	{
 		"name": "Oil",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Arid","Tundra","Snow","Marsh","Jungle"],
+		"terrainsCanBeFoundOn": ["Arid","Tundra","Winter","Marsh","Jungle"],
 		"production": 1,
 		"improvedBy": ["Oil well"],
 		"improvementStats": {"production": 3},
