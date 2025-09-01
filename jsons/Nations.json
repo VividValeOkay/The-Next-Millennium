@@ -1331,5 +1331,17 @@
 		"innerColor": [244,228,0],
 		"cities": ["Sucre","La Paz"]
 	},
+	{
+		"name": "Iraq",
+		"adjective": ["Iraqi"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your country!",
+		"attacked": "Why do we fight? Because Allah demands it. Now, witness the power of Iraq!",
+		"defeated": "What treachery has struck us? No, what evil?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [205,17,37],
+		"cities": ["Baghdad"]
+	},
 
 ]
