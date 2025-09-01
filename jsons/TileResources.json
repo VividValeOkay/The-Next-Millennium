@@ -16,7 +16,7 @@
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
-		"uniques": ["Generated on every [13] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+		"uniques": ["Generated on every [13] tiles <in [Hilly] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Generated on every [10] tiles <in [Hilly] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hilly] Regions>"]
 	},
   {
@@ -63,7 +63,7 @@
 		"uniques": ["Generated with weight [100] <in [{Featureless} {Grassland}] tiles>",
 					"Generated with weight [100] <in [{Featureless} {Plains}] tiles>",
 					"Minor deposits generated with weight [10] <in [{Grassland} {Hilly}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
-					"Minor deposits generated with weight [10] <in [{Semi arid} {Hilly}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+					"Minor deposits generated with weight [10] <in [{Plains} {Hilly}] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Minor deposits generated with weight [100] <in [{Featureless} {Grassland}] tiles> <in [Fresh Water] tiles>",
 					"Minor deposits generated with weight [20] <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
 					"Minor deposits generated with weight [30] <in [{Featureless} {Plains}] tiles>"],
@@ -171,10 +171,10 @@
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
-		"uniques": ["Generated with weight [45] <in [Marsh] tiles> <in tiles without [Hill]>",
-					"Generated with weight [75] <in [Jungle] tiles> <in tiles without [Hill]>",
+		"uniques": ["Generated with weight [45] <in [Marsh] tiles> <in tiles without [Hilly]>",
+					"Generated with weight [75] <in [Jungle] tiles> <in tiles without [Hilly]>",
 					"Minor deposits generated with weight [25] <in [{Featureless} {Tundra}] tiles>",
-					"Minor deposits generated with weight [25] <in [{Featureless} {Snow}] tiles>"],
+					"Minor deposits generated with weight [25] <in [{Featureless} {Winter}] tiles>"],
 		"majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 4},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
