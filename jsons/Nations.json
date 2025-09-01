@@ -1307,5 +1307,17 @@
 		"innerColor": [199,54,61],
 		"cities": ["Belgrade"]
 	},
+	{
+		"name": "Marshall Islands",
+		"adjective": ["Marshallese"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It was great while it lasted...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,56,147],
+		"cities": ["Majuro"]
+	},
 
 ]
