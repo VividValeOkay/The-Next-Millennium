@@ -6,5 +6,6 @@
     "[-10]% unhappiness from the number of cities",
     "Rebel units may spawn <when below [-8] [Happiness]>",
     "Nullifies Growth [in all cities] <when below [-2] [Happiness]>",
-    "[-20]% [Gold] from Trade Routes <when at war>"],
+    "[-20]% [Gold] from Trade Routes <when at war>",
+    "[-20]% [Happiness] [in all cities] <when at war>"],
 }
