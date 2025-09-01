@@ -420,6 +420,18 @@
 		"attackSound": "nuke"
 	}
 	{
+		"name": "Submarine",
+		"unitType": "Submarine",
+		"movement": 5,
+		"strength": 13,
+		"rangedStrength": 16,
+		"cost": 260,
+		"requiredTech": "Naval Improvements",
+		"upgradesTo": "Nuclear Submarine",
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "torpedo"
+	},
+	{
 		"name": "SS Booster",
 		"unitType": "Civilian",
 		"movement": 2,
@@ -454,7 +466,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 2000,
-		"requiredTech": "Mars Terraforming",
+		"requiredTech": "Advanced Spacecraft",
 		"requiredResource": "Steel",
 		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Space Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
 		// costs 1500 in BNW
