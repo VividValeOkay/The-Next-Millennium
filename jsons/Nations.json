@@ -1295,5 +1295,17 @@
 		"innerColor": [216,120,0],
 		"cities": ["Amsterdam"]
 	},
+	{
+		"name": "Serbia",
+		"adjective": ["Serbian"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Even if Serbia falls, I'll be our people's leader.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [199,54,61],
+		"cities": ["Belgrade"]
+	},
 
 ]
