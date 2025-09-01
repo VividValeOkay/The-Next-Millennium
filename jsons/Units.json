@@ -447,7 +447,7 @@
 		"cost": 2000,
 		"requiredTech": "Advanced Spacecraft",
 		"requiredResource": "Steel",
-		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Spaace Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Space Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization"]
 		// costs 1500 in BNW
 	},
 	{
