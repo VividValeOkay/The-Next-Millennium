@@ -271,7 +271,7 @@
 				"name": "Establish Embassies",
 				"row": 19,
 				"prerequisites": ["Open Border Agreements"],
-				"uniques": ["Enables establishment of embassies"],
+				"uniques": ["Enables establishment of embassies","Enables Research agreements"],
 				"quote": "'Our freedom, our prosperity and our security depend on a proper respect for the fortune of our neighbours, allies and old friends.' - Nicholas Soames"
 			}
 		]
