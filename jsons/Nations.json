@@ -1343,5 +1343,17 @@
 		"innerColor": [205,17,37],
 		"cities": ["Baghdad"]
 	},
+	{
+		"name": "Myanmar",
+		"adjective": ["Burmese"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "'Till the End of the World...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [254,203,0],
+		"cities": ["Naypyidaw"]
+	},
 
 ]
