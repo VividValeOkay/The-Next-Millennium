@@ -427,7 +427,6 @@
 		"rangedStrength": 16,
 		"cost": 260,
 		"requiredTech": "Naval Improvements",
-		"upgradesTo": "Nuclear Submarine",
 		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
 	},
