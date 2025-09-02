@@ -1308,16 +1308,16 @@
 		"cities": ["Belgrade"]
 	},
 	{
-		"name": "Marshall Islands",
-		"adjective": ["Marshallese"],
-		"cityStateType": "Maritime",
+		"name": "Mongolia",
+		"adjective": ["Mongolian","Mongol"],
+		"cityStateType": "Cultured",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "It was great while it lasted...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0,56,147],
-		"cities": ["Majuro"]
+		"innerColor": [255,212,0],
+		"cities": ["Ulaanbaatar"]
 	},
 	{
 		"name": "Bolivia",
