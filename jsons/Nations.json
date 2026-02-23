@@ -333,7 +333,7 @@
     },
     {
 		"name": "Nigeria",
-		"leaderName": "Segun Afolayan",
+		"leaderName": "Bola Tinubu",
 		"adjective": ["Nigerian"],
 		"startBias": ["Plains"],
 		"personality": "Nigerian",
@@ -362,7 +362,7 @@
     },
 {
 		"name": "Poland",
-		"leaderName": "Nikodem Rudawski",
+		"leaderName": "Karol Nawrocki",
 		"adjective": ["Polish"],
 		"startBias": ["Forest"],
 		"personality": "Polish",
@@ -391,7 +391,7 @@
     },
 	{
 		"name": "Spain",
-		"leaderName": "Mateo Pineda",
+		"leaderName": "Pedro Sánchez",
 		"adjective": ["Spanish"],
 		"startBias": ["Plains"],
 		"personality": "Spanish",
@@ -420,7 +420,7 @@
     },
 {
 		"name": "South Africa",
-		"leaderName": "Nolene Pretorius",
+		"leaderName": "Cyril Ramaphosa",
 		"adjective": ["South African"],
 		"startBias": ["Plains","Avoid [Tundra]"],
 		"personality": "South African",
@@ -449,7 +449,7 @@
     },
 {
 		"name": "Saudi Arabia",
-		"leaderName": "Khalifa bin Fadi Al Saud",
+		"leaderName": "Salman bin Abdulaziz Al Saud",
 		"adjective": ["Saudi","Saudi Arabian"],
 		"startBias": ["Arid"],
 		"personality": "Saudi Arabian",
@@ -476,7 +476,7 @@
     },
 {
 		"name": "Thailand",
-		"leaderName": "Kanda Metharom",
+		"leaderName": "Anutin Charnvirakul",
 		"adjective": ["Thai"],
 		"startBias": ["Jungle"],
 		"personality": "Thai",
@@ -504,7 +504,7 @@
     },
 {
 		"name": "France",
-		"leaderName": "Louis Dubois",
+		"leaderName": "Emmanuel Macron",
 		"adjective": ["French"],
 		"startBias": ["Grassland"],
 		"personality": "French",
@@ -533,7 +533,7 @@
     },
 {
 		"name": "Australia",
-		"leaderName": "Henry Andrews",
+		"leaderName": "Anthony Albanese",
 		"adjective": ["Australian"],
 		"startBias": ["Coast","Avoid [Tundra]"],
 		"personality": "Australian",
@@ -562,7 +562,7 @@
     },
 {
 		"name": "Canada",
-		"leaderName": "Ava Coyne",
+		"leaderName": "Mark Carney",
 		"adjective": ["Canadian"],
 		"startBias": ["Tundra"],
 		"personality": "Canadian",
@@ -589,7 +589,7 @@
     },
 {
 		"name": "Colombia",
-		"leaderName": "Carlos Martinez",
+		"leaderName": "Gustavo Petro",
 		"adjective": ["Colombian"],
 		"startBias": ["Hilly","Jungle"],
 		"personality": "Colombian",
@@ -618,7 +618,7 @@
     },
 {
 		"name": "Sweden",
-		"leaderName": "Evelyn Nilsson",
+		"leaderName": "Ulf Kristersson",
 		"adjective": ["Swedish"],
 		"startBias": ["Tundra"],
 		"personality": "Swedish",
@@ -648,7 +648,7 @@
     },
 {
 		"name": "Italy",
-		"leaderName": "Leonardo Ricchetti",
+		"leaderName": "Giorgia Meloni",
 		"adjective": ["Italian"],
 		"startBias": ["Avoid [Tundra]","Avoid [Arid]"],
 		"personality": "Italian",
@@ -678,7 +678,7 @@
     },
 {
 		"name": "Austria",
-		"leaderName": "Marie Andres",
+		"leaderName": "Christian Stocker",
 		"adjective": ["Austrian"],
 		"startBias": ["Hilly"],
 		"personality": "Austrian",
@@ -705,7 +705,7 @@
     },
 {
 		"name": "Mexico",
-		"leaderName": "José Guerrero",
+		"leaderName": "Claudia Sheinbaum",
 		"adjective": ["Mexican"],
 		"startBias": ["Plains"],
 		"personality": "Mexican",
@@ -733,7 +733,7 @@
     },
 {
 		"name": "Egypt",
-		"leaderName": "Magdy el-Mofty",
+		"leaderName": "Abdel Fattah el-Sisi",
 		"adjective": ["Egyptian"],
 		"startBias": ["Arid"],
 		"personality": "Egyptian",
@@ -762,7 +762,7 @@
     },
 {
 		"name": "Ethiopia",
-		"leaderName": "Eskender Abdi",
+		"leaderName": "Taye Atske Selassie",
 		"adjective": ["Ethiopian"],
 		"startBias": ["Jungle"],
 		"personality": "Ethiopian",
@@ -790,7 +790,7 @@
     },
 {
 		"name": "Israel",
-		"leaderName": "Michael Yaffe",
+		"leaderName": "Benjamin Netanyahu",
 		"adjective": ["Israeli"],
 		"startBias": ["Arid","Coast"],
 		"personality": "Israeli",
@@ -818,7 +818,7 @@
     },
 {
 		"name": "Pakistan",
-		"leaderName": "Ahmad Kamal",
+		"leaderName": "Shehbaz Sharif",
 		"adjective": ["Pakistani"],
 		"startBias": ["Arid","Hilly"],
 		"personality": "Pakistani",
@@ -846,7 +846,7 @@
     },
 {
 		"name": "South Korea",
-		"leaderName": "Namgung Young-sook",
+		"leaderName": "Lee Jae Myung",
 		"adjective": ["South Korean"],
 		"startBias": ["Coast"],
 		"personality": "South Korean",
