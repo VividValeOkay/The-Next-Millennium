@@ -7,7 +7,7 @@
 {
 		//nations
 		"name": "The United States",
-		"leaderName": "Noah Smith",
+		"leaderName": "Donald Trump",
 		"adjective": ["American"],
 		"startBias": ["Grassland"],
 		"personality": "American",
@@ -40,7 +40,7 @@
 	},
   {
 		"name": "Russia",
-		"leaderName": "Nikolai Aleksandrov",
+		"leaderName": "Vladimir Putin",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"personality": "Russian",
@@ -70,7 +70,7 @@
     },
 {
 		"name": "China",
-		"leaderName": "Cheng Wu",
+		"leaderName": "Xi Jinping",
 		"adjective": ["Chinese"],
 		"personality": "Chinese",
 	        "startBias": ["Grassland"],
@@ -99,7 +99,7 @@
 }
 {
 		"name": "Germany",
-		"leaderName": "Dietlind Meinhardt",
+		"leaderName": "Friedrich Merz",
 		"adjective": ["German"],
 		"personality": "German",
 	        "startBias": ["Avoid [Arid]"],
@@ -129,7 +129,7 @@
     },
     {
 		"name": "The United Kingdom",
-		"leaderName": "Olivia Wilson",
+		"leaderName": "Keir Starmer",
 		"adjective": ["British","English"],
 		"startBias": ["Coast"],
 		"personality": "British",
@@ -156,7 +156,7 @@
     },
 	{
 		"name": "Iran",
-		"leaderName": "Behnam Shah",
+		"leaderName": "Ali Khamenei",
 		"adjective": ["Iranian","Persian"],
 		"startBias": ["Arid"]
 		"personality": "Persian",
@@ -189,7 +189,7 @@
     },
     {
 		"name": "Brazil",
-		"leaderName": "Brayan Nogueira",
+		"leaderName": "Luiz Inácio Lula da Silva",
 		"adjective": ["Brazilian"],
 		"startBias": ["Coast","Jungle"],
 		"personality": "Brazilian",
@@ -216,7 +216,7 @@
     },
     {
 		"name": "Japan",
-		"leaderName": "Mei Takeda",
+		"leaderName": "Sanae Takaichi",
 		"adjective": ["Japanese"],
 		"startBias": ["Coast","Grassland"],
 		"personality": "Japanese",
@@ -244,7 +244,7 @@
     },
 	{
 		"name": "India",
-		"leaderName": "Lakshman Mishra",
+		"leaderName": "Narendra Modi",
 		"adjective": ["Indian"],
 		"startBias": ["Plains"],
 		"personality": "Indian",
@@ -275,7 +275,7 @@
     },
     {
 		"name": "Turkiye",
-		"leaderName": "Eymen Koç",
+		"leaderName": "Recep Tayyip Erdoğan",
 		"adjective": ["Turkish","Turk"],
 		"startBias": ["Arid","Plains"],
 		"personality": "Turkish",
@@ -303,7 +303,7 @@
     },
     {
 		"name": "Indonesia",
-		"leaderName": "Kartini",
+		"leaderName": "Prabowo Subianto",
 		"adjective": ["Indonesian"],
 		"startBias": ["Coast","Jungle"],
 		"personality": "Indo",
